@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GALex Digital — A Greek and Arabic Lexicon (Alif)</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="brand">
+    <h1>GALex Digital</h1>
+    <p class="subtitle">A Greek and Arabic Lexicon — digital companion</p>
+  </div>
+  <div class="search">
+    <input type="search" id="q" placeholder="Search Arabic (مؤبّد) · transliteration (muʾabbadun) · Greek (ἀΐδιος)…" autofocus>
+    <select id="vol" title="Filter by volume">
+      <option value="all">All volumes</option>
+      <option value="alif">Vol. 1 (Alif) — أ</option>
+      <option value="ba">Vol. 2 (Bāʾ) — ب</option>
+    </select>
+  </div>
+</header>
+
+<nav id="sidebar">
+  <div class="tabbar">
+    <button data-tab="a" class="tab active">Arabic-Greek</button>
+    <button data-tab="b" class="tab">Greek-Arabic</button>
+  </div>
+  <ul id="list"></ul>
+</nav>
+
+<main id="content">
+  <article id="entry">
+    <div class="welcome">
+      <h2>Welcome</h2>
+      <p>This is a digital companion to <em>A Greek and Arabic Lexicon (GALex)</em>, Volumes 1 (Alif) &amp; 2 (Bāʾ), edited by Rüdiger Arnzen, Gerhard Endress and Dimitri Gutas (Brill, 2020 &amp; 2021).</p>
+      <p>Use the search bar to find entries by Arabic script, transliteration, or Greek headword. Click any entry in the sidebar to read it.</p>
+      <p class="hint">© Original work: Koninklijke Brill NV, 2020. This local viewer is for personal study only.</p>
+    </div>
+  </article>
+</main>
+
+<footer>
+  <span id="stats"></span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,6668 @@
+{
+ "part_c_variant_greek": {
+  "Aelian. Tact.": [
+   {
+    "ref": "270b4",
+    "lemma": "āḫaru 6.5.2"
+   },
+   {
+    "ref": "276b5",
+    "lemma": "allafa 13"
+   },
+   {
+    "ref": "280b15",
+    "lemma": "āḫaru 2.4.2"
+   },
+   {
+    "ref": "280b19",
+    "lemma": "aḥadun 3.7"
+   },
+   {
+    "ref": "306b12",
+    "lemma": "innamā 17a"
+   },
+   {
+    "ref": "312b13",
+    "lemma": "ayḍan 1.5.1"
+   },
+   {
+    "ref": "344b11",
+    "lemma": "amrun 39.8"
+   },
+   {
+    "ref": "Alex. An. mant.",
+    "lemma": "Lib. arb."
+   },
+   {
+    "ref": "172.29",
+    "lemma": "amrun 21.2b"
+   },
+   {
+    "ref": "174.4",
+    "lemma": "amrun 47.8"
+   },
+   {
+    "ref": "175.9",
+    "lemma": "amrun 45b"
+   },
+   {
+    "ref": "175.22",
+    "lemma": "addā B 12"
+   },
+   {
+    "ref": "Alex. An. mant.",
+    "lemma": "Vis."
+   },
+   {
+    "ref": "144.33",
+    "lemma": "abadiyyun 6"
+   },
+   {
+    "ref": "Alex. qu. III 3",
+    "lemma": "Sens."
+   },
+   {
+    "ref": "82.33–34",
+    "lemma": "aṯarun 1.2a"
+   }
+  ],
+  "Arist. An. post.": [
+   {
+    "ref": "I 2, 71b21",
+    "lemma": "awwalu 2.2"
+   },
+   {
+    "ref": "I 2, 72a19",
+    "lemma": "ayyun 2.3.2b"
+   },
+   {
+    "ref": "II 1, 89b32",
+    "lemma": "in 3.2"
+   },
+   {
+    "ref": "II 7, 92a34",
+    "lemma": "ayyun 5.1a"
+   }
+  ],
+  "Arist. Cael.": [
+   {
+    "ref": "I 7, 275a24",
+    "lemma": "aṯarun 1.2b"
+   },
+   {
+    "ref": "I 7, 276a8",
+    "lemma": "in 5.3"
+   },
+   {
+    "ref": "I 12, 282a30",
+    "lemma": "in 5.1b"
+   },
+   {
+    "ref": "I 12, 283a20",
+    "lemma": "in 5.1e"
+   },
+   {
+    "ref": "II 4, 288a2",
+    "lemma": "iḏā 2.1.2"
+   },
+   {
+    "ref": "III 1, 299a23",
+    "lemma": "aṯarun 1.3"
+   },
+   {
+    "ref": "III 4, 303a7",
+    "lemma": "taʾlīfun 3"
+   }
+  ],
+  "Arist. Cat.": [
+   {
+    "ref": "1, 1a17",
+    "lemma": "taʾlīfun 3"
+   },
+   {
+    "ref": "2, 1b8",
+    "lemma": "ay 3.2"
+   },
+   {
+    "ref": "4, 2a7",
+    "lemma": "aw 1.1"
+   },
+   {
+    "ref": "4, 2a10",
+    "lemma": "insānun 1.1"
+   },
+   {
+    "ref": "8, 10b23",
+    "lemma": "ayna, aynun, al-aynu 2a"
+   },
+   {
+    "ref": "8, 11a28",
+    "lemma": "illā, illā an 4.3.1"
+   }
+  ],
+  "Arist. De an.": [
+   {
+    "ref": "I 2, 404b6",
+    "lemma": "aw 5"
+   },
+   {
+    "ref": "I 4, 407b29",
+    "lemma": "ahlun 14.3"
+   },
+   {
+    "ref": "I 4, 409a7",
+    "lemma": "ayna interrog. adv. 1"
+   },
+   {
+    "ref": "II 1, 412b16",
+    "lemma": "anniyyatun 1.6e"
+   },
+   {
+    "ref": "II 5, 417a15",
+    "lemma": "inna 1.2"
+   },
+   {
+    "ref": "II 5, 417a20",
+    "lemma": "innamā 10.1"
+   },
+   {
+    "ref": "II 5, 417a29",
+    "lemma": "anna 1.1"
+   },
+   {
+    "ref": "II 8, 420a15",
+    "lemma": "alima 3"
+   },
+   {
+    "ref": "III 2, 426a4",
+    "lemma": "anniyyatun 1.3b"
+   },
+   {
+    "ref": "III 2, 426a16",
+    "lemma": "anniyyatun 1.3a"
+   },
+   {
+    "ref": "III 2, 426b27–28",
+    "lemma": "al-āna adv. 1.1a"
+   },
+   {
+    "ref": "III 6, 430a31",
+    "lemma": "al-āna adv. 6.1.2.1"
+   },
+   {
+    "ref": "III 7, 431a19",
+    "lemma": "anniyyatun 1.3a"
+   },
+   {
+    "ref": "III 7, 431b16",
+    "lemma": "illā, illā an 20"
+   },
+   {
+    "ref": "III 8, 432a6",
+    "lemma": "āfatun 1.3"
+   },
+   {
+    "ref": "III 10, 433b22",
+    "lemma": "ālatun 1.5a"
+   }
+  ],
+  "Arist. Eth. Nic.": [
+   {
+    "ref": "I 4, 1095b1",
+    "lemma": "am 1.1b"
+   },
+   {
+    "ref": "II 2, 1103b32",
+    "lemma": "aṣlun 11.3"
+   },
+   {
+    "ref": "II 4, 1105b3",
+    "lemma": "immā … wa-immā 4"
+   },
+   {
+    "ref": "III 1, 1110a23",
+    "lemma": "aṣlan 1.2"
+   },
+   {
+    "ref": "III 8, 1116a35",
+    "lemma": "maʾkalatun 1"
+   },
+   {
+    "ref": "IV 3, 1123b2",
+    "lemma": "ahhala 1.1"
+   },
+   {
+    "ref": "IV 3, 1123b23",
+    "lemma": "ahhala 1.1"
+   },
+   {
+    "ref": "VIII 13, 1162b24",
+    "lemma": "istiʾhālun 1"
+   },
+   {
+    "ref": "IX 1, 1164a27",
+    "lemma": "uǧratun 1"
+   },
+   {
+    "ref": "IX 1, 1164b18",
+    "lemma": "ahlun 1.1"
+   },
+   {
+    "ref": "IX 1, 1164b21",
+    "lemma": "istaʾhala 1.1"
+   },
+   {
+    "ref": "X 3, 1173a13",
+    "lemma": "ayḍan 6.3.1"
+   },
+   {
+    "ref": "X 3, 1173a27",
+    "lemma": "ilā, ilā an 5.1"
+   },
+   {
+    "ref": "X 4, 1175a4",
+    "lemma": "taʾaḏḏā 7"
+   },
+   {
+    "ref": "X 5, 1175a25",
+    "lemma": "ināʾun 3.1"
+   },
+   {
+    "ref": "X 5, 1175b24",
+    "lemma": "istiʾhālun 3a"
+   },
+   {
+    "ref": "X 5, 1175b28",
+    "lemma": "muʾḏin 7"
+   },
+   {
+    "ref": "X 8, 1178b7",
+    "lemma": "nāsun 1.4"
+   },
+   {
+    "ref": "X 8, 1179a24",
+    "lemma": "Allāhu 2.4"
+   },
+   {
+    "ref": "X 8, 1179a25",
+    "lemma": "ilāhun 1.1"
+   },
+   {
+    "ref": "X 9, 1180a7",
+    "lemma": "min aǧli 1.3"
+   }
+  ],
+  "Arist. Gener. anim.": [
+   {
+    "ref": "I 2, 716b8",
+    "lemma": "illā, illā an 5.3"
+   },
+   {
+    "ref": "I 5, 717b19",
+    "lemma": "awānun 6.1"
+   },
+   {
+    "ref": "I 8, 718a36",
+    "lemma": "min aǧli 2.1"
+   },
+   {
+    "ref": "I 11, 719a13",
+    "lemma": "awwalan 6"
+   },
+   {
+    "ref": "I 17, 721a33",
+    "lemma": "in 3.1.1"
+   },
+   {
+    "ref": "I 20, 728a3",
+    "lemma": "unṯā 1.3.3b"
+   },
+   {
+    "ref": "I 23, 731a9",
+    "lemma": "aṣlun 1.1a"
+   },
+   {
+    "ref": "II 1, 731b24",
+    "lemma": "ilāhiyyun 1.5.2"
+   },
+   {
+    "ref": "II 1, 731b26",
+    "lemma": "ilāhiyyun 1.3.1b"
+   },
+   {
+    "ref": "II 1, 733a12",
+    "lemma": "arḍiyyun 1.4.2"
+   },
+   {
+    "ref": "II 1, 733a18–21",
+    "lemma": "arḍiyyun 1.4.1"
+   },
+   {
+    "ref": "II 3, 736b27",
+    "lemma": "an 1.1a"
+   },
+   {
+    "ref": "II 4, 739b12",
+    "lemma": "ināʾun 1"
+   },
+   {
+    "ref": "II 4, 740b2",
+    "lemma": "ummun 1"
+   },
+   {
+    "ref": "II 6, 742a9",
+    "lemma": "asadun 1.1"
+   },
+   {
+    "ref": "II 6, 742a36",
+    "lemma": "ālatun 1.3c"
+   },
+   {
+    "ref": "II 6, 742b4",
+    "lemma": "ālatun 1.3b"
+   },
+   {
+    "ref": "II 6, 742b5–8",
+    "lemma": "min aǧli 1.2.2"
+   },
+   {
+    "ref": "II 6, 744a25",
+    "lemma": "illā, illā an 15"
+   },
+   {
+    "ref": "III 2, 754a6",
+    "lemma": "insānun 5a"
+   },
+   {
+    "ref": "III 10, 760b20",
+    "lemma": "addaba 2"
+   },
+   {
+    "ref": "IV 3, 768a14",
+    "lemma": "abun 4.2"
+   },
+   {
+    "ref": "V 2, 781a28",
+    "lemma": "ālatun 7"
+   }
+  ],
+  "Arist. Hist. anim.": [
+   {
+    "ref": "I 1, 488a3",
+    "lemma": "awā 16.7"
+   },
+   {
+    "ref": "I 1, 488a24",
+    "lemma": "maʾwan 8.3"
+   },
+   {
+    "ref": "I 1, 488a27",
+    "lemma": "insānun 1.1"
+   },
+   {
+    "ref": "I 1, 488b15",
+    "lemma": "ayyilun 1.1"
+   },
+   {
+    "ref": "II 1, 499a28",
+    "lemma": "iwazzun 1.1"
+   },
+   {
+    "ref": "II 1, 501a29",
+    "lemma": "insānun 1.6"
+   },
+   {
+    "ref": "VI 18, 573a11",
+    "lemma": "unṯā 5.2b"
+   },
+   {
+    "ref": "VII 8, 586b7",
+    "lemma": "awwalan 7.1"
+   },
+   {
+    "ref": "VIII 12, 597b27",
+    "lemma": "insānun 1.7"
+   },
+   {
+    "ref": "VIII 20, 602b31–603a1",
+    "lemma": "awānun 9"
+   },
+   {
+    "ref": "VIII 28, 606a9",
+    "lemma": "anīsun 1"
+   },
+   {
+    "ref": "IX 1, 608a26",
+    "lemma": "istaʾnasa 1.1b"
+   },
+   {
+    "ref": "IX 40, 627a8",
+    "lemma": "āsun 1"
+   },
+   {
+    "ref": "IX 40, 627b18",
+    "lemma": "āsun 1"
+   }
+  ],
+  "Arist. Int.": [
+   {
+    "ref": "1, 16a6",
+    "lemma": "awwalan 1.2"
+   },
+   {
+    "ref": "3, 16b7",
+    "lemma": "abadan 1.1"
+   },
+   {
+    "ref": "5, 17a11",
+    "lemma": "al-āna adv. 6.1.1c"
+   },
+   {
+    "ref": "5, 17a21",
+    "lemma": "allafa 3"
+   },
+   {
+    "ref": "9, 19a10",
+    "lemma": "amrun 26.2.1"
+   },
+   {
+    "ref": "10, 19b10",
+    "lemma": "allafa 12.3"
+   },
+   {
+    "ref": "12, 21b4",
+    "lemma": "immā … wa-immā 1"
+   },
+   {
+    "ref": "13, 23a20",
+    "lemma": "taʾammala 1.2"
+   }
+  ],
+  "Arist. Mag. mor.": [
+   {
+    "ref": "I 2, 1184a1",
+    "lemma": "aḥadun 2.8"
+   }
+  ],
+  "Arist. Metaph.": [
+   {
+    "ref": "A 6, 987b15",
+    "lemma": "amrun 7.1"
+   },
+   {
+    "ref": "A 8, 989a16",
+    "lemma": "awwalan 2.2"
+   },
+   {
+    "ref": "A 9, 990b13",
+    "lemma": "immā … wa-immā 6"
+   },
+   {
+    "ref": "A 9, 991a1",
+    "lemma": "ayyun 1.2.1a"
+   },
+   {
+    "ref": "A 9, 991b2",
+    "lemma": "wa-illā (fa-) 2.2"
+   },
+   {
+    "ref": "A 9, 992b19",
+    "lemma": "illā anna 11"
+   },
+   {
+    "ref": "A 9, 993a8",
+    "lemma": "abadan 1.1"
+   },
+   {
+    "ref": "α 1, 993b28",
+    "lemma": "abadan 1.1"
+   },
+   {
+    "ref": "α 2, 994a4",
+    "lemma": "arḍun 1.1"
+   },
+   {
+    "ref": "α 2, 994a7",
+    "lemma": "aṯīrun 1"
+   },
+   {
+    "ref": "α 3, 995a3",
+    "lemma": "ulfatun 6.2"
+   },
+   {
+    "ref": "B 1, 995a25",
+    "lemma": "awwalan 1.1"
+   },
+   {
+    "ref": "Β 2, 996b4",
+    "lemma": "istaʾhala 3"
+   },
+   {
+    "ref": "B 3, 998a23",
+    "lemma": "usṭuqussun 1.1a"
+   },
+   {
+    "ref": "B 3, 998b17",
+    "lemma": "awwaliyyatun 1.2"
+   },
+   {
+    "ref": "B 5, 1002a2",
+    "lemma": "alamun 1.1a"
+   },
+   {
+    "ref": "Β 5, 1002a32",
+    "lemma": "āfatun 1.1b"
+   },
+   {
+    "ref": "Γ 2, 1003b7",
+    "lemma": "taʾṯīrun 1.1a"
+   },
+   {
+    "ref": "Γ 2, 1004b6",
+    "lemma": "alamun 1.1a"
+   },
+   {
+    "ref": "Γ 4, 1006a17",
+    "lemma": "in 1.11"
+   },
+   {
+    "ref": "Γ 4, 1006a18",
+    "lemma": "awwalu 1.1a"
+   },
+   {
+    "ref": "Γ 4, 1006b33–34",
+    "lemma": "insānun 1.1"
+   },
+   {
+    "ref": "Γ 4, 1007a27–28",
+    "lemma": "anniyyatun 1.5"
+   },
+   {
+    "ref": "Γ 4, 1008a27",
+    "lemma": "abadan 3a"
+   },
+   {
+    "ref": "Γ 5, 1010a17",
+    "lemma": "wa-in 1.4"
+   },
+   {
+    "ref": "Δ 1, 1013a5",
+    "lemma": "asāsun 1"
+   },
+   {
+    "ref": "Δ 2, 1013b3",
+    "lemma": "ālatun 1.1a"
+   },
+   {
+    "ref": "Δ 11, 1018b11",
+    "lemma": "ayna, aynun, al-aynu 2a"
+   },
+   {
+    "ref": "Δ 11, 1018b19",
+    "lemma": "al-ānu 1a"
+   },
+   {
+    "ref": "Δ 15, 1021a28",
+    "lemma": "anniyyatun 6.3"
+   },
+   {
+    "ref": "E 1, 1026a2",
+    "lemma": "aṣlun 1.1a"
+   },
+   {
+    "ref": "E 1, 1026a20",
+    "lemma": "ilāhiyyun 1.3.1a"
+   },
+   {
+    "ref": "E 1, 1026a22–23",
+    "lemma": "muʾṯarun 1.2"
+   },
+   {
+    "ref": "E 2, 1027a19",
+    "lemma": "abadan 3"
+   },
+   {
+    "ref": "E 3, 1027b2",
+    "lemma": "immā … wa-immā 4"
+   },
+   {
+    "ref": "Ζ 1, 1028b2",
+    "lemma": "innamā 13.2"
+   },
+   {
+    "ref": "Ζ 4, 1029b14",
+    "lemma": "anniyyatun 1.6d"
+   },
+   {
+    "ref": "Ζ 5, 1030b32–33",
+    "lemma": "anfun 1"
+   }
+  ],
+  "Arist. Metaph. (cont.)": [
+   {
+    "ref": "Z 6, 1031b7",
+    "lemma": "anniyyatun 1.6c"
+   },
+   {
+    "ref": "Z 9, 1034b17",
+    "lemma": "abadan 1.1"
+   },
+   {
+    "ref": "Z 10, 1035a17",
+    "lemma": "abadan 1.1"
+   },
+   {
+    "ref": "Z 11, 1036b24",
+    "lemma": "abadan 1.1"
+   },
+   {
+    "ref": "Z 17, 1041b26",
+    "lemma": "anniyyatun 1.1b"
+   },
+   {
+    "ref": "Η 2, 1043a1",
+    "lemma": "anniyyatun 1.2a"
+   },
+   {
+    "ref": "Η 3, 1043b24",
+    "lemma": "adabun 1.7b"
+   },
+   {
+    "ref": "Η 3, 1043b26",
+    "lemma": "ayyun 3.1.1c"
+   },
+   {
+    "ref": "Θ 3, 1047a22",
+    "lemma": "anniyyatun 1.2b"
+   },
+   {
+    "ref": "Θ 7, 1049a1",
+    "lemma": "abadan w. neg. 2.1"
+   },
+   {
+    "ref": "Ι 3, 1054b12",
+    "lemma": "ānukun 1"
+   },
+   {
+    "ref": "Ι 3, 1054b15–16",
+    "lemma": "āḫaru 1.1"
+   },
+   {
+    "ref": "Λ 1, 1069a26",
+    "lemma": "al-āna adv. 1.2a"
+   },
+   {
+    "ref": "Λ 2, 1069b12",
+    "lemma": "taʾṯīrun 1.1a"
+   },
+   {
+    "ref": "Λ 3, 1070a11",
+    "lemma": "¶ after anniyyatun 6.1"
+   },
+   {
+    "ref": "Λ 5, 1071a2",
+    "lemma": "taʾṯīrun 1.1a"
+   },
+   {
+    "ref": "Λ 6, 1071b14",
+    "lemma": "wa-in 1.1.4"
+   },
+   {
+    "ref": "Λ 6, 1071b20",
+    "lemma": "in 1.1"
+   },
+   {
+    "ref": "Λ 6, 1071b21–22",
+    "lemma": "in 1.8"
+   },
+   {
+    "ref": "Λ 7, 1072a24",
+    "lemma": "iḏan 3.2"
+   },
+   {
+    "ref": "Λ 7, 1072a24–25",
+    "lemma": "iḏan 3.2"
+   },
+   {
+    "ref": "Λ 7, 1072a25–26",
+    "lemma": "abadan 1.1"
+   },
+   {
+    "ref": "Λ 7, 1072b1–2",
+    "lemma": "min aǧli 1.2.2"
+   },
+   {
+    "ref": "Λ 7, 1072b25",
+    "lemma": "ilāhun 1.1"
+   },
+   {
+    "ref": "Λ 7, 1072b30",
+    "lemma": "azaliyyun 1.1a"
+   },
+   {
+    "ref": "Λ 8, 1074b5",
+    "lemma": "nāsun 1.1.1"
+   }
+  ],
+  "Arist. Meteor.": [
+   {
+    "ref": "IV 6, 383a9",
+    "lemma": "iḏā 7.2.1"
+   },
+   {
+    "ref": "IV 9, 386a27",
+    "lemma": "ātā 2"
+   },
+   {
+    "ref": "IV 12, 390b14",
+    "lemma": "iḏ1.1"
+   }
+  ],
+  "Arist. Part. anim.": [
+   {
+    "ref": "I 1, 639a9",
+    "lemma": "adībun 4"
+   },
+   {
+    "ref": "I 1, 641a24",
+    "lemma": "am 4c, in 3.3"
+   },
+   {
+    "ref": "I 3, 643b8",
+    "lemma": "anīsun 1"
+   },
+   {
+    "ref": "II 1, 647a8",
+    "lemma": "innamā 6.1"
+   },
+   {
+    "ref": "II 1, 647a19–20",
+    "lemma": "ālatun 7"
+   },
+   {
+    "ref": "II 4, 651a6",
+    "lemma": "in 1.2"
+   },
+   {
+    "ref": "II 5, 651b12",
+    "lemma": "ayyumā 4"
+   },
+   {
+    "ref": "III 2, 663a11",
+    "lemma": "ayḍan 6.2.2"
+   },
+   {
+    "ref": "III 2, 663b7",
+    "lemma": "min aǧli 2.4"
+   },
+   {
+    "ref": "III 3, 665a16",
+    "lemma": "awwalu 1.1g"
+   },
+   {
+    "ref": "III 3, 665a20",
+    "lemma": "awānun 6.5"
+   },
+   {
+    "ref": "III 4, 665b11",
+    "lemma": "min aǧli 2.1"
+   },
+   {
+    "ref": "III 4, 666a3",
+    "lemma": "illā, illā an 10.2"
+   },
+   {
+    "ref": "III 4, 666a8",
+    "lemma": "awwalan 1.3"
+   },
+   {
+    "ref": "III 4, 666a35",
+    "lemma": "awwalu 2.1a"
+   },
+   {
+    "ref": "III 4, 666b33",
+    "lemma": "awwalu 1.1a"
+   },
+   {
+    "ref": "III 4, 666b34",
+    "lemma": "min aǧli 2.3c"
+   },
+   {
+    "ref": "III 5, 667b18",
+    "lemma": "ayyun 6.4"
+   },
+   {
+    "ref": "III 5, 667b21",
+    "lemma": "min aǧli 2.4"
+   },
+   {
+    "ref": "III 5, 668a24",
+    "lemma": "immā … wa-immā 4"
+   },
+   {
+    "ref": "III 6, 669b7",
+    "lemma": "awā 7.1"
+   },
+   {
+    "ref": "III 7, 670b21–22",
+    "lemma": "usṭuqussun 3.1"
+   },
+   {
+    "ref": "III 8, 671a20",
+    "lemma": "illā, illā an 10.2"
+   },
+   {
+    "ref": "III 10, 673a18",
+    "lemma": "ahlun 18.5.1"
+   },
+   {
+    "ref": "III 14, 674a25",
+    "lemma": "asadun 1.1"
+   },
+   {
+    "ref": "III 14, 674b5",
+    "lemma": "arḍiyyun 1.2.3"
+   },
+   {
+    "ref": "III 14, 675a6",
+    "lemma": "wa-in 1.7"
+   },
+   {
+    "ref": "IV 10, 688b24",
+    "lemma": "ayyilun 1.1"
+   }
+  ],
+  "Arist. Phys.": [
+   {
+    "ref": "I 2, 184b21",
+    "lemma": "illā anna 3.1"
+   },
+   {
+    "ref": "I 2, 185b1",
+    "lemma": "illā, illā an 1.2b"
+   },
+   {
+    "ref": "I 3, 187a8",
+    "lemma": "illā, illā an 1.2a"
+   },
+   {
+    "ref": "I 4, 188a5",
+    "lemma": "anna 8.6.1"
+   },
+   {
+    "ref": "I 4, 188a6",
+    "lemma": "illā anna 3.2"
+   },
+   {
+    "ref": "I 4, 188a17",
+    "lemma": "fa-inna 1.2"
+   },
+   {
+    "ref": "I 5, 188a35",
+    "lemma": "illā, illā an 3.6b"
+   },
+   {
+    "ref": "I 5, 188b6",
+    "lemma": "ilā, ilā an 2a"
+   },
+   {
+    "ref": "I 6, 189a24",
+    "lemma": "atā w. bi- and maʿa 1"
+   },
+   {
+    "ref": "I 8, 191b18",
+    "lemma": "illā, illā an 3.4a"
+   },
+   {
+    "ref": "II 1, 193a26",
+    "lemma": "azaliyyun 1.1a"
+   },
+   {
+    "ref": "II 2, 194a30",
+    "lemma": "āḫirun 3.2b"
+   },
+   {
+    "ref": "II 4, 196a36",
+    "lemma": "taʾammulun 1"
+   },
+   {
+    "ref": "II 5, 197a4",
+    "lemma": "aḫḏun 7"
+   },
+   {
+    "ref": "II 7, 198a24",
+    "lemma": "āla w. ilā 2"
+   },
+   {
+    "ref": "III 1, 200b14",
+    "lemma": "awwalan 1.1"
+   },
+   {
+    "ref": "III 2, 202a4–5",
+    "lemma": "inna 13.1"
+   },
+   {
+    "ref": "III 3, 202a25–26",
+    "lemma": "immā … wa-immā 1"
+   },
+   {
+    "ref": "III 3, 202b13",
+    "lemma": "izārun 1"
+   },
+   {
+    "ref": "III 4, 203a23",
+    "lemma": "aḫaḏa w. acc. 9.1"
+   },
+   {
+    "ref": "III 4, 203b9",
+    "lemma": "āḫirun 2.2.1"
+   }
+  ],
+  "III 6, 206b1 [aḫaḏa w. acc. obj. and min": [],
+  "obj. 1.1]": [
+   {
+    "ref": "III 7, 207b14",
+    "lemma": "amrun 46"
+   },
+   {
+    "ref": "IV 1, 208b3",
+    "lemma": "ināʾun 1"
+   },
+   {
+    "ref": "IV 2, 209b21",
+    "lemma": "aḥadun 3.1"
+   },
+   {
+    "ref": "IV 6, 213a28",
+    "lemma": "nāsun 1.1.1"
+   },
+   {
+    "ref": "IV 8, 215a11",
+    "lemma": "amrun 21.1"
+   },
+   {
+    "ref": "IV 8, 216b5",
+    "lemma": "anniyyatun 1.1a"
+   },
+   {
+    "ref": "IV 9, 217b10",
+    "lemma": "amrun 26.2.1"
+   },
+   {
+    "ref": "IV 10, 218a28",
+    "lemma": "inna 12.1.2"
+   },
+   {
+    "ref": "IV 13, 222a25",
+    "lemma": "al-ānu 1a"
+   },
+   {
+    "ref": "V 2, 226a19",
+    "lemma": "iḏ1.1"
+   },
+   {
+    "ref": "V 3, 227a19",
+    "lemma": "awwalu 3.2"
+   },
+   {
+    "ref": "VI 1, 231b10",
+    "lemma": "iḏ3.2"
+   },
+   {
+    "ref": "VII 2, 245a5",
+    "lemma": "muʾaṯṯarun 2"
+   },
+   {
+    "ref": "VIII 1, 250b22",
+    "lemma": "abadiyyun 3.1"
+   },
+   {
+    "ref": "VIII 4, 254b25",
+    "lemma": "amrun 38.3.1"
+   },
+   {
+    "ref": "VIII 5, 258b6",
+    "lemma": "āla w. ilā 11.1"
+   },
+   {
+    "ref": "VIII 6, 259a21",
+    "lemma": "taʾammala 6"
+   },
+   {
+    "ref": "VIII 7, 261a16",
+    "lemma": "ālatun 1.1a"
+   }
+  ],
+  "Arist. Poet.": [
+   {
+    "ref": "1, 1447a13",
+    "lemma": "awwalu 2.3a"
+   },
+   {
+    "ref": "1, 1447a29",
+    "lemma": "aw 1.8"
+   },
+   {
+    "ref": "2, 1448a13",
+    "lemma": "awwalan 1.3"
+   },
+   {
+    "ref": "3, 1448a28",
+    "lemma": "ayḍan 1.1a"
+   },
+   {
+    "ref": "4, 1448b13–14",
+    "lemma": "innamā 12.3e"
+   },
+   {
+    "ref": "4, 1448b17",
+    "lemma": "insānun 10.2"
+   },
+   {
+    "ref": "9, 1451b22",
+    "lemma": "inna 8.1b"
+   }
+  ],
+  "Arist. Rhet.": [
+   {
+    "ref": "I 1, 1354a19",
+    "lemma": "al-āna adv. 1.1a"
+   },
+   {
+    "ref": "I 1, 1354a34",
+    "lemma": "awwalu 2.7b"
+   },
+   {
+    "ref": "I 1, 1354b25",
+    "lemma": "iḏā 3.2"
+   },
+   {
+    "ref": "I 1, 1355a5",
+    "lemma": "innamā 13.2"
+   },
+   {
+    "ref": "I 1, 1355a23",
+    "lemma": "taʾnībun 1a"
+   },
+   {
+    "ref": "I 2, 1356a11",
+    "lemma": "anātun 2"
+   },
+   {
+    "ref": "I 2, 1356b8",
+    "lemma": "immā … wa-immā 4"
+   },
+   {
+    "ref": "I 2, 1357b27–28",
+    "lemma": "ilā, ilā an 3.1a"
+   },
+   {
+    "ref": "I 5, 1361a13",
+    "lemma": "arḍun 1.1"
+   },
+   {
+    "ref": "I 6, 1362a20–21",
+    "lemma": "inna 11.1"
+   },
+   {
+    "ref": "I 6, 1363a26",
+    "lemma": "iḏā 2.4"
+   },
+   {
+    "ref": "I 7, 1364a1",
+    "lemma": "āṯaru 1b"
+   },
+   {
+    "ref": "I 7, 1364a5",
+    "lemma": "āḫaru 2.2.3b"
+   },
+   {
+    "ref": "I 7, 1365b20",
+    "lemma": "atā w. bi- 1.1"
+   },
+   {
+    "ref": "I 8, 1365b33",
+    "lemma": "itāwatun 1"
+   },
+   {
+    "ref": "I 9, 1366b29",
+    "lemma": "ammā … fa- 7"
+   },
+   {
+    "ref": "I 9, 1367b20",
+    "lemma": "aḫun 1"
+   },
+   {
+    "ref": "I 11, 1370a29–30",
+    "lemma": "ammala 1.1"
+   },
+   {
+    "ref": "I 11, 1370a31",
+    "lemma": "amala 1.1"
+   },
+   {
+    "ref": "I 11, 1370b20",
+    "lemma": "amala 5"
+   },
+   {
+    "ref": "I 11, 1370b35",
+    "lemma": "inna 12.1.5"
+   },
+   {
+    "ref": "I 11, 1371a11",
+    "lemma": "maʾlūfun 1"
+   },
+   {
+    "ref": "I 12, 1372b15",
+    "lemma": "aṣālatun 1"
+   },
+   {
+    "ref": "I 15, 1375b31",
+    "lemma": "al-āna adv. 4"
+   },
+   {
+    "ref": "I 15, 1375b34",
+    "lemma": "ayyuhā 1"
+   },
+   {
+    "ref": "I 15, 1376a6",
+    "lemma": "abun 1.1"
+   },
+   {
+    "ref": "I 15, 1376b32",
+    "lemma": "illā anna 1.1"
+   },
+   {
+    "ref": "II 1, 1377b28",
+    "lemma": "ayyun 5.1e"
+   },
+   {
+    "ref": "II 1, 1377b31",
+    "lemma": "ayyun 5.1d"
+   },
+   {
+    "ref": "II 2, 1378b30",
+    "lemma": "ahlun 1.1"
+   },
+   {
+    "ref": "II 2, 1379a13–14",
+    "lemma": "in 4.2a"
+   },
+   {
+    "ref": "II 2, 1379a23",
+    "lemma": "aḏan, aḏīyatun 1.3"
+   },
+   {
+    "ref": "II 2, 1379a25",
+    "lemma": "amala 3"
+   },
+   {
+    "ref": "II 2, 1379b4",
+    "lemma": "illā, illā an 5.2"
+   },
+   {
+    "ref": "II 2, 1379b29",
+    "lemma": "āzara 1"
+   },
+   {
+    "ref": "II 4, 1382a8",
+    "lemma": "āḏā 1"
+   },
+   {
+    "ref": "II 6, 1384a13",
+    "lemma": "adabun 1.2.2"
+   },
+   {
+    "ref": "II 6, 1384b37",
+    "lemma": "anafatun 1"
+   },
+   {
+    "ref": "II 8, 1385b27",
+    "lemma": "mutaʾaddibun 1"
+   },
+   {
+    "ref": "II 8, 1386b8",
+    "lemma": "āfatun 1.2a"
+   },
+   {
+    "ref": "II 9, 1387b10",
+    "lemma": "istaʾhala 1.2"
+   },
+   {
+    "ref": "II 9, 1387b19",
+    "lemma": "mustaʾhilun 1"
+   },
+   {
+    "ref": "II 10, 1388a10",
+    "lemma": "atā abs. 2.1"
+   },
+   {
+    "ref": "II 12, 1389a2",
+    "lemma": "¶ after āfatun 10"
+   },
+   {
+    "ref": "II 13, 1390a7",
+    "lemma": "amalun 1a"
+   },
+   {
+    "ref": "II 14, 1390b18–20",
+    "lemma": "abun 4.1e"
+   },
+   {
+    "ref": "II 19, 1392a20",
+    "lemma": "mutaʾaḫḫirun 1.2"
+   },
+   {
+    "ref": "II 19, 1393a19",
+    "lemma": "amrun 21.2b"
+   },
+   {
+    "ref": "II 22, 1395b27",
+    "lemma": "adabun 1.4b"
+   },
+   {
+    "ref": "II 23, 1400a34",
+    "lemma": "iʾtamana 1.1b"
+   },
+   {
+    "ref": "II 23, 1400b30",
+    "lemma": "ālama 5"
+   },
+   {
+    "ref": "III 1, 1404a13",
+    "lemma": "inna 12.1.3"
+   },
+   {
+    "ref": "III 2, 1405b12",
+    "lemma": "ahliyyun 1.3"
+   },
+   {
+    "ref": "III 4, 1406b20",
+    "lemma": "inna 14.1"
+   },
+   {
+    "ref": "III 4, 1406b21–23",
+    "lemma": "inna 2"
+   },
+   {
+    "ref": "III 7, 1408a17",
+    "lemma": "iṯmun 1.3"
+   },
+   {
+    "ref": "III 8, 1408b24",
+    "lemma": "atā w. bi- 10"
+   },
+   {
+    "ref": "III 8, 1409a22",
+    "lemma": "insun 4"
+   },
+   {
+    "ref": "III 9, 1409a29",
+    "lemma": "al-āna adv. 1.1a"
+   },
+   {
+    "ref": "III 14, 1415a34",
+    "lemma": "annasa 1a"
+   },
+   {
+    "ref": "III 14, 1415b2",
+    "lemma": "maʾlūfun 2"
+   },
+   {
+    "ref": "III 14, 1415b16",
+    "lemma": "addā B 10.2"
+   },
+   {
+    "ref": "III 15, 1416a13",
+    "lemma": "aḏan, aḏīyatun 1.4"
+   },
+   {
+    "ref": "III 16, 1417a36",
+    "lemma": "alamiyyatun 1.1"
+   },
+   {
+    "ref": "III 17, 1417b38",
+    "lemma": "inna 14.1"
+   },
+   {
+    "ref": "III 18, 1419a12",
+    "lemma": "anna 7.1"
+   },
+   {
+    "ref": "III 18, 1419b4",
+    "lemma": "ay 3.2"
+   }
+  ],
+  "Arist. Soph. el.": [
+   {
+    "ref": "6, 169a11",
+    "lemma": "ahhala 1.2"
+   },
+   {
+    "ref": "14, 173b40",
+    "lemma": "taʾnīṯun 2"
+   },
+   {
+    "ref": "14, 174a4",
+    "lemma": "taʾnīṯun 2"
+   }
+  ],
+  "Arist. Top.": [
+   {
+    "ref": "V 4, 133a9",
+    "lemma": "anniyyatun 1.6a"
+   },
+   {
+    "ref": "VI 6, 144b35",
+    "lemma": "ayna, aynun, al-aynu 2"
+   }
+  ],
+  "Artem. Onirocr.": [
+   {
+    "ref": "3.16",
+    "lemma": "ayyun 3.1a"
+   },
+   {
+    "ref": "4.5",
+    "lemma": "anā 1.1"
+   }
+  ],
+  "Artem. Onirocr. (cont.)": [
+   {
+    "ref": "4.15",
+    "lemma": "īḏānun 1"
+   },
+   {
+    "ref": "4.22–23",
+    "lemma": "taʾwīlun 1"
+   },
+   {
+    "ref": "5.15",
+    "lemma": "aḥadun 4.1"
+   },
+   {
+    "ref": "7.4",
+    "lemma": "aw 2.1d"
+   },
+   {
+    "ref": "7.17",
+    "lemma": "abadan w. neg. 5"
+   },
+   {
+    "ref": "10.25",
+    "lemma": "ummatun 1.1"
+   },
+   {
+    "ref": "11.4",
+    "lemma": "imāmun 1"
+   },
+   {
+    "ref": "15.10",
+    "lemma": "aḫaḏa w. acc. and min of source 8.1"
+   },
+   {
+    "ref": "16.3",
+    "lemma": "Allāhu 2.2a"
+   },
+   {
+    "ref": "16.7",
+    "lemma": "Allāhu 2.2a"
+   },
+   {
+    "ref": "17.10",
+    "lemma": "maʾwan 6"
+   },
+   {
+    "ref": "18.9",
+    "lemma": "ahlun 6.3"
+   },
+   {
+    "ref": "19.6",
+    "lemma": "Allāhu 1.4b"
+   },
+   {
+    "ref": "19.7",
+    "lemma": "iṯmun 1.2"
+   },
+   {
+    "ref": "20.19",
+    "lemma": "in 4.2b"
+   },
+   {
+    "ref": "24.20",
+    "lemma": "amrun 47.7"
+   },
+   {
+    "ref": "26.3",
+    "lemma": "amnun 1"
+   },
+   {
+    "ref": "26.8",
+    "lemma": "amnun 1"
+   },
+   {
+    "ref": "26.22",
+    "lemma": "amīrun 2"
+   },
+   {
+    "ref": "27.6",
+    "lemma": "asrun 1.2a"
+   },
+   {
+    "ref": "28.20",
+    "lemma": "iḏā 8.2.1"
+   },
+   {
+    "ref": "29.13",
+    "lemma": "aḥadun 4.1"
+   },
+   {
+    "ref": "30.15",
+    "lemma": "iḏā 2.4"
+   },
+   {
+    "ref": "31.5",
+    "lemma": "atā w. acc. p. 2.1"
+   },
+   {
+    "ref": "31.10",
+    "lemma": "aḫaḏa w. acc. 1.5"
+   },
+   {
+    "ref": "31.11–12",
+    "lemma": "aḫun 1"
+   },
+   {
+    "ref": "33.7",
+    "lemma": "an 2.2"
+   },
+   {
+    "ref": "34.10–12",
+    "lemma": "aḫun 1"
+   },
+   {
+    "ref": "35.24",
+    "lemma": "anfun 1"
+   },
+   {
+    "ref": "36.2",
+    "lemma": "anfun 1"
+   },
+   {
+    "ref": "39.16",
+    "lemma": "akala 3.1"
+   },
+   {
+    "ref": "39.23",
+    "lemma": "mutaʾakkilun 1.1"
+   },
+   {
+    "ref": "41.11",
+    "lemma": "immā … wa-immā 3"
+   },
+   {
+    "ref": "41.21",
+    "lemma": "akala 3.2"
+   },
+   {
+    "ref": "42.15",
+    "lemma": "allaḏī 1.3"
+   },
+   {
+    "ref": "43.8",
+    "lemma": "alamun 1.1a"
+   },
+   {
+    "ref": "44.5",
+    "lemma": "amnun 1"
+   },
+   {
+    "ref": "45.18",
+    "lemma": "anna 8.4.2"
+   },
+   {
+    "ref": "47.10",
+    "lemma": "ayḍan 8.2a"
+   },
+   {
+    "ref": "48.9",
+    "lemma": "inna 8.1b"
+   },
+   {
+    "ref": "51.20",
+    "lemma": "adabun 1.1"
+   },
+   {
+    "ref": "53.1",
+    "lemma": "taʾwīlun 2.1b"
+   },
+   {
+    "ref": "54.18",
+    "lemma": "insānun 18.5"
+   },
+   {
+    "ref": "55.7",
+    "lemma": "allaḏī 1.2"
+   },
+   {
+    "ref": "57.19–20",
+    "lemma": "ammā … fa- 1.1.1"
+   },
+   {
+    "ref": "64.3",
+    "lemma": "min aǧli 1.3"
+   },
+   {
+    "ref": "65.7",
+    "lemma": "ayyun 5.4b"
+   },
+   {
+    "ref": "66.12",
+    "lemma": "ammala 2"
+   },
+   {
+    "ref": "67.19–20",
+    "lemma": "anna 8.4.3"
+   },
+   {
+    "ref": "68.3",
+    "lemma": "āḫaru 1.12c"
+   },
+   {
+    "ref": "68.15",
+    "lemma": "awwalu 5.1"
+   },
+   {
+    "ref": "69.9",
+    "lemma": "illā, illā an 5.1a"
+   },
+   {
+    "ref": "72.22",
+    "lemma": "āḫaru 1.3.1"
+   },
+   {
+    "ref": "72.23",
+    "lemma": "akala 1.2"
+   },
+   {
+    "ref": "73.2",
+    "lemma": "akala 1.2"
+   },
+   {
+    "ref": "73.5",
+    "lemma": "awwalu 5.2b"
+   },
+   {
+    "ref": "73.14",
+    "lemma": "utruǧǧun 1"
+   },
+   {
+    "ref": "73.20",
+    "lemma": "akala 3.3"
+   },
+   {
+    "ref": "74.7",
+    "lemma": "āḫaru 1.12d"
+   },
+   {
+    "ref": "75.7–8",
+    "lemma": "in 8.3.4"
+   },
+   {
+    "ref": "76.24–77.1",
+    "lemma": "akala 2.1"
+   },
+   {
+    "ref": "80.8",
+    "lemma": "ināʾun 3.1"
+   },
+   {
+    "ref": "81.24",
+    "lemma": "illā, illā an 2.2a"
+   },
+   {
+    "ref": "84.3",
+    "lemma": "urǧuwānun 2"
+   },
+   {
+    "ref": "86.4",
+    "lemma": "aḫaḏa w. acc. 3.2"
+   },
+   {
+    "ref": "86.20",
+    "lemma": "ammā … fa- 1.5"
+   },
+   {
+    "ref": "87.17",
+    "lemma": "inna 8.1b"
+   },
+   {
+    "ref": "90.19",
+    "lemma": "ummun 2"
+   },
+   {
+    "ref": "92.24",
+    "lemma": "arḍun 1.1"
+   },
+   {
+    "ref": "92.27",
+    "lemma": "arḍun 1.7"
+   },
+   {
+    "ref": "95.5",
+    "lemma": "aḫaḏa w. acc. 4"
+   },
+   {
+    "ref": "96.7",
+    "lemma": "aw 2.1d"
+   },
+   {
+    "ref": "100.1",
+    "lemma": "awwalu 2.1a"
+   },
+   {
+    "ref": "100.7",
+    "lemma": "awwalu 5.1"
+   },
+   {
+    "ref": "103.4",
+    "lemma": "asīrun 1.2"
+   },
+   {
+    "ref": "104.12",
+    "lemma": "ahlun 19.1.4"
+   },
+   {
+    "ref": "107.8",
+    "lemma": "ālatun 2a"
+   },
+   {
+    "ref": "107.12",
+    "lemma": "ānifan 3"
+   },
+   {
+    "ref": "107.13–15",
+    "lemma": "ayḍan 1.4.2d"
+   },
+   {
+    "ref": "108.12",
+    "lemma": "ahlun 6.2"
+   },
+   {
+    "ref": "109.6",
+    "lemma": "iḏā 4.7.2"
+   },
+   {
+    "ref": "109.18",
+    "lemma": "iḏā 1.6"
+   },
+   {
+    "ref": "110.6",
+    "lemma": "inna 11.1"
+   },
+   {
+    "ref": "111.23",
+    "lemma": "amrun 45a"
+   },
+   {
+    "ref": "112.23–24",
+    "lemma": "arḍiyyun 1.1"
+   },
+   {
+    "ref": "117.6–7",
+    "lemma": "ālatun 9.1"
+   },
+   {
+    "ref": "117.15",
+    "lemma": "insānun 17.5"
+   },
+   {
+    "ref": "118.13",
+    "lemma": "insun 2"
+   },
+   {
+    "ref": "121.18",
+    "lemma": "akkārun 2"
+   },
+   {
+    "ref": "122.9",
+    "lemma": "asadun 1.1"
+   },
+   {
+    "ref": "123.7",
+    "lemma": "ātā 1a"
+   },
+   {
+    "ref": "125.19–20",
+    "lemma": "ābiqun 1.1"
+   },
+   {
+    "ref": "128.9",
+    "lemma": "asadun 1.2"
+   },
+   {
+    "ref": "134.10",
+    "lemma": "iḏā 2.3"
+   },
+   {
+    "ref": "138.17",
+    "lemma": "ābiqun 2b"
+   },
+   {
+    "ref": "139.13",
+    "lemma": "illā, illā an 3.1b"
+   },
+   {
+    "ref": "140.8",
+    "lemma": "asara 1"
+   },
+   {
+    "ref": "141.7",
+    "lemma": "amrun 36.1.1"
+   },
+   {
+    "ref": "141.8",
+    "lemma": "īmānun 2"
+   },
+   {
+    "ref": "141.13",
+    "lemma": "āfatun 9.2"
+   },
+   {
+    "ref": "141.24",
+    "lemma": "an 1.2"
+   },
+   {
+    "ref": "144.13",
+    "lemma": "nāsun 8.1"
+   },
+   {
+    "ref": "148.23",
+    "lemma": "ahlun 19.1.1"
+   },
+   {
+    "ref": "151.10",
+    "lemma": "nāsun 20.2"
+   },
+   {
+    "ref": "153.23",
+    "lemma": "insānun 20"
+   },
+   {
+    "ref": "154.1",
+    "lemma": "amrun 11"
+   },
+   {
+    "ref": "157.5",
+    "lemma": "istaʾnafa w. acc. obj. 2"
+   },
+   {
+    "ref": "158.15",
+    "lemma": "aṯīriyyun 2"
+   },
+   {
+    "ref": "162.5",
+    "lemma": "arḍun 4"
+   },
+   {
+    "ref": "164.4",
+    "lemma": "innamā 14.2.3"
+   },
+   {
+    "ref": "167.11",
+    "lemma": "amrun 7.1"
+   },
+   {
+    "ref": "174.4",
+    "lemma": "iḏā 1.5"
+   },
+   {
+    "ref": "177.20",
+    "lemma": "abadan 1.1"
+   },
+   {
+    "ref": "178.7",
+    "lemma": "āyatun 1"
+   },
+   {
+    "ref": "181.28",
+    "lemma": "aw 4.2"
+   },
+   {
+    "ref": "182.7",
+    "lemma": "alamun 2.1"
+   },
+   {
+    "ref": "182.25",
+    "lemma": "nāsun 17"
+   },
+   {
+    "ref": "184.7",
+    "lemma": "al-āḫiratu 1"
+   },
+   {
+    "ref": "187.20",
+    "lemma": "ayḍan 4.1.1"
+   },
+   {
+    "ref": "191.6",
+    "lemma": "awā 9"
+   },
+   {
+    "ref": "193.15.",
+    "lemma": "iḏā 3.2"
+   },
+   {
+    "ref": "196.10",
+    "lemma": "amīnun 1"
+   },
+   {
+    "ref": "199.14",
+    "lemma": "istaʾnafa w. acc. obj. 2"
+   },
+   {
+    "ref": "202.17",
+    "lemma": "atā w. bi- 9.2"
+   },
+   {
+    "ref": "202.19",
+    "lemma": "atā w. bi- 11.2"
+   },
+   {
+    "ref": "205.24",
+    "lemma": "Allāhu 1.4a"
+   },
+   {
+    "ref": "206.7",
+    "lemma": "innamā 6.2"
+   },
+   {
+    "ref": "206.8",
+    "lemma": "innamā 16a"
+   },
+   {
+    "ref": "206.23",
+    "lemma": "akkārun 1"
+   },
+   {
+    "ref": "209.3",
+    "lemma": "āfatun 10"
+   },
+   {
+    "ref": "211.16",
+    "lemma": "awā 17"
+   },
+   {
+    "ref": "218.14",
+    "lemma": "aḫaḏa w. acc. and min of source 7.1"
+   },
+   {
+    "ref": "219.6",
+    "lemma": "ālatun 6"
+   },
+   {
+    "ref": "219.15",
+    "lemma": "ānifan 4.1"
+   },
+   {
+    "ref": "219.19",
+    "lemma": "ālatun 6"
+   },
+   {
+    "ref": "226.27",
+    "lemma": "innamā 14.2.2"
+   },
+   {
+    "ref": "227.25",
+    "lemma": "iʾtamana 1.1b"
+   },
+   {
+    "ref": "230.18",
+    "lemma": "amrun 11"
+   },
+   {
+    "ref": "230.21",
+    "lemma": "amrun 7.1"
+   },
+   {
+    "ref": "232.19",
+    "lemma": "akala 2.2"
+   },
+   {
+    "ref": "233.4",
+    "lemma": "ālatun 8.11"
+   },
+   {
+    "ref": "234.13",
+    "lemma": "allafa 10"
+   },
+   {
+    "ref": "235.21",
+    "lemma": "ilā, ilā an 4.4"
+   }
+  ],
+  "Diosc. Mat. med.": [
+   {
+    "ref": "I, 19.1–2",
+    "lemma": "iḏā 4.4"
+   },
+   {
+    "ref": "I, 23.4–6",
+    "lemma": "iḏḫirun 1"
+   },
+   {
+    "ref": "I, 50.14",
+    "lemma": "iḏā 4.4"
+   },
+   {
+    "ref": "I, 96.17",
+    "lemma": "aḫaḏa w. acc. 1.1"
+   },
+   {
+    "ref": "I, 156.6",
+    "lemma": "ūqiyyatun 2"
+   },
+   {
+    "ref": "III, 38.16",
+    "lemma": "attūnun 1"
+   }
+  ],
+  "Erat. Cub. dupl.": [
+   {
+    "ref": "92.10–12",
+    "lemma": "ilā, ilā an 3.1a"
+   }
+  ],
+  "Eucl. El.": [
+   {
+    "ref": "I 26: i, 36.22",
+    "lemma": "aḥadun 1.1"
+   },
+   {
+    "ref": "I 28: i, 40.4",
+    "lemma": "aw 1.1"
+   },
+   {
+    "ref": "V 22: ii, 33.1–3",
+    "lemma": "ayyun 7.1"
+   },
+   {
+    "ref": "VI 33: ii, 100.12–13",
+    "lemma": "ayyun 4.1.2"
+   }
+  ],
+  "Galen An. virt.": [
+   {
+    "ref": "34.14–15",
+    "lemma": "ayḍan 1.5.2"
+   },
+   {
+    "ref": "35.12",
+    "lemma": "iḏā 1.1.1"
+   },
+   {
+    "ref": "35.15",
+    "lemma": "asadun 1.1"
+   },
+   {
+    "ref": "36.6",
+    "lemma": "ayḍan 6.3.1"
+   },
+   {
+    "ref": "37.5",
+    "lemma": "iḏā 1.1.1"
+   },
+   {
+    "ref": "42.3–8",
+    "lemma": "a- … am/aw 2b"
+   },
+   {
+    "ref": "43.1–2",
+    "lemma": "awwala mā 2.2"
+   },
+   {
+    "ref": "43.21",
+    "lemma": "iḏan 2"
+   },
+   {
+    "ref": "44.2",
+    "lemma": "iḏā 1.3.1"
+   },
+   {
+    "ref": "52.2",
+    "lemma": "unṯā 1.1"
+   },
+   {
+    "ref": "52.12–13",
+    "lemma": "arḍiyyun 1.1"
+   },
+   {
+    "ref": "53.13",
+    "lemma": "min aǧli 2.4"
+   },
+   {
+    "ref": "53.20–21",
+    "lemma": "arḍun 1.1"
+   },
+   {
+    "ref": "54.10",
+    "lemma": "min aǧli 2.1"
+   },
+   {
+    "ref": "55.5",
+    "lemma": "min aǧli 1.4"
+   },
+   {
+    "ref": "56.1",
+    "lemma": "anfun 1"
+   },
+   {
+    "ref": "56.2",
+    "lemma": "iḏā 2.4"
+   },
+   {
+    "ref": "62.1",
+    "lemma": "min aǧli 2.4"
+   },
+   {
+    "ref": "64.23–65.1",
+    "lemma": "atā w. bi- 6.2"
+   },
+   {
+    "ref": "65.6–11",
+    "lemma": "Allāhu 1.2"
+   },
+   {
+    "ref": "68.1",
+    "lemma": "ilā, ilā an 4.1a"
+   },
+   {
+    "ref": "68.10",
+    "lemma": "Allāhu 1.4.1"
+   },
+   {
+    "ref": "69.12",
+    "lemma": "ayḍan 3.1a"
+   },
+   {
+    "ref": "69.21",
+    "lemma": "an 2"
+   },
+   {
+    "ref": "70.2",
+    "lemma": "amatun 2"
+   },
+   {
+    "ref": "70.16",
+    "lemma": "a … am/aw 1.2c"
+   },
+   {
+    "ref": "71.6",
+    "lemma": "amara 3.1.1"
+   },
+   {
+    "ref": "71.14",
+    "lemma": "āḫaru 3.1.5b"
+   },
+   {
+    "ref": "73.8",
+    "lemma": "aḥadun 4.1"
+   },
+   {
+    "ref": "74.5",
+    "lemma": "awwalu 2.1a"
+   },
+   {
+    "ref": "74.18",
+    "lemma": "iḏ6"
+   },
+   {
+    "ref": "75.1",
+    "lemma": "illā anna 3.2"
+   },
+   {
+    "ref": "75.19",
+    "lemma": "amrun 20.3"
+   }
+  ],
+  "Galen An. virt. (cont.)": [
+   {
+    "ref": "76.22",
+    "lemma": "muʾaddibun 2"
+   },
+   {
+    "ref": "77.3",
+    "lemma": "aḏan, aḏīyatun 6"
+   },
+   {
+    "ref": "77.9",
+    "lemma": "ayḍan 10a"
+   },
+   {
+    "ref": "79.11",
+    "lemma": "alamun 1.4b"
+   }
+  ],
+  "Galen In De off. med.": [
+   {
+    "ref": "749.9",
+    "lemma": "innamā 6.1"
+   },
+   {
+    "ref": "750.2",
+    "lemma": "alyatun 1"
+   },
+   {
+    "ref": "750.12",
+    "lemma": "ayyun 1.4.3a"
+   },
+   {
+    "ref": "756.6",
+    "lemma": "iyyā 1"
+   },
+   {
+    "ref": "867.10",
+    "lemma": "āfatun 2.1a"
+   },
+   {
+    "ref": "869.14",
+    "lemma": "insānun 1.1"
+   },
+   {
+    "ref": "876.3",
+    "lemma": "wa-illā (fa-) 2.2"
+   },
+   {
+    "ref": "911.5",
+    "lemma": "āḫaru 1.5"
+   },
+   {
+    "ref": "912.4–6",
+    "lemma": "illā anna 9"
+   },
+   {
+    "ref": "913.15",
+    "lemma": "anta 3"
+   },
+   {
+    "ref": "916.15",
+    "lemma": "maʾūfun 3"
+   }
+  ],
+  "Galen Med. phil.": [
+   {
+    "ref": "1.12",
+    "lemma": "amara 5"
+   },
+   {
+    "ref": "1.17",
+    "lemma": "ayḍan 6.3.2"
+   },
+   {
+    "ref": "5.23",
+    "lemma": "ahlun 8"
+   },
+   {
+    "ref": "6.6",
+    "lemma": "muʾṯirun 2.2"
+   },
+   {
+    "ref": "6.9",
+    "lemma": "iḏan 1.1"
+   },
+   {
+    "ref": "6.20",
+    "lemma": "iḏ5.3"
+   },
+   {
+    "ref": "7.18",
+    "lemma": "anna 2.1"
+   },
+   {
+    "ref": "7.21",
+    "lemma": "aḥadun 2.1"
+   },
+   {
+    "ref": "7.21–22",
+    "lemma": "iḏ5.1"
+   },
+   {
+    "ref": "8.16",
+    "lemma": "aḫaḏa w. bi- 2.2"
+   },
+   {
+    "ref": "8.19",
+    "lemma": "awwalan 2.1"
+   }
+  ],
+  "Galen Ther. Pis.": [
+   {
+    "ref": "219.5",
+    "lemma": "an 4.2"
+   },
+   {
+    "ref": "219.6",
+    "lemma": "ittaḫaḏa 7"
+   },
+   {
+    "ref": "234.11",
+    "lemma": "aṣlan 1.2"
+   },
+   {
+    "ref": "248.13",
+    "lemma": "ayḍan 2.1a"
+   },
+   {
+    "ref": "253.8",
+    "lemma": "iḏ6"
+   },
+   {
+    "ref": "258.10",
+    "lemma": "ahlun 18.5.3"
+   }
+  ],
+  "Hippocr. Aer.": [
+   {
+    "ref": "24.16",
+    "lemma": "am 2.2"
+   },
+   {
+    "ref": "28.18",
+    "lemma": "illā, illā an 2.2b"
+   },
+   {
+    "ref": "44.26",
+    "lemma": "illā anna 12"
+   },
+   {
+    "ref": "50.15",
+    "lemma": "āla w. ilā 3.2"
+   },
+   {
+    "ref": "56.17",
+    "lemma": "ānifan 1.3.3"
+   },
+   {
+    "ref": "56.21",
+    "lemma": "ašibun 1"
+   },
+   {
+    "ref": "62.10",
+    "lemma": "ilā, ilā an 1.3"
+   },
+   {
+    "ref": "72.7",
+    "lemma": "amatun 3b"
+   },
+   {
+    "ref": "82.3",
+    "lemma": "ahlun 10c"
+   }
+  ],
+  "Hippocr. Alim.": [
+   {
+    "ref": "141.5",
+    "lemma": "inna 6.1"
+   },
+   {
+    "ref": "144.13",
+    "lemma": "awwalu 1.5.2"
+   }
+  ],
+  "Hippocr. Aph.": [
+   {
+    "ref": "III 4",
+    "lemma": "ayyun 6.3"
+   }
+  ],
+  "Hippocr. Diaet. acut.": [
+   {
+    "ref": "39.6",
+    "lemma": "ilā, ilā an 4.2a"
+   },
+   {
+    "ref": "44.22",
+    "lemma": "awwalan 1.1"
+   },
+   {
+    "ref": "47.7",
+    "lemma": "amrun 39.8"
+   },
+   {
+    "ref": "53.6",
+    "lemma": "anta 5"
+   },
+   {
+    "ref": "53.22",
+    "lemma": "amrun 39.1a"
+   }
+  ],
+  "Hippocr. Genit.": [
+   {
+    "ref": "44.2",
+    "lemma": "insānun 2"
+   },
+   {
+    "ref": "45.9",
+    "lemma": "al-āna adv. 7"
+   },
+   {
+    "ref": "49.4",
+    "lemma": "unṯā 1.3.1a"
+   }
+  ],
+  "Hippocr. Humor.": [
+   {
+    "ref": "3.8",
+    "lemma": "uḏunun 1.1"
+   },
+   {
+    "ref": "4.14",
+    "lemma": "āḫaru 1.1"
+   },
+   {
+    "ref": "4.26",
+    "lemma": "taʾaḏḏā 4.1"
+   },
+   {
+    "ref": "6.23",
+    "lemma": "illā, illā an 2.1b"
+   },
+   {
+    "ref": "6.32",
+    "lemma": "illā, illā an 3.3b"
+   },
+   {
+    "ref": "7.4",
+    "lemma": "amrun 39.9"
+   },
+   {
+    "ref": "9.3",
+    "lemma": "insānun 17.1"
+   },
+   {
+    "ref": "10.11",
+    "lemma": "al-unṯayāni 1"
+   },
+   {
+    "ref": "13.5",
+    "lemma": "ayyun 1.4.4c"
+   },
+   {
+    "ref": "18.16",
+    "lemma": "ayyun 3.3.1"
+   },
+   {
+    "ref": "20.8",
+    "lemma": "bi-aḫaratin 4"
+   }
+  ],
+  "Hippocr. Nat. hom.": [
+   {
+    "ref": "164.7",
+    "lemma": "insānun 1.1"
+   },
+   {
+    "ref": "168.9",
+    "lemma": "alamun 2.3"
+   },
+   {
+    "ref": "182.10",
+    "lemma": "illā anna 2.3"
+   },
+   {
+    "ref": "192.17",
+    "lemma": "ilā, ilā an 2c"
+   },
+   {
+    "ref": "194.1",
+    "lemma": "ilā, ilā an 1.1b"
+   },
+   {
+    "ref": "200.11",
+    "lemma": "illā, illā an 2.1a"
+   },
+   {
+    "ref": "202.2",
+    "lemma": "awwalan 4.2"
+   }
+  ],
+  "Hippocr. Nat. puer.": [
+   {
+    "ref": "55.8",
+    "lemma": "amatun 3a"
+   },
+   {
+    "ref": "60.16",
+    "lemma": "ilā, ilā an 3.1a"
+   },
+   {
+    "ref": "62.4",
+    "lemma": "ūqiyyatun 2"
+   }
+  ],
+  "Hippocr. Off. med.": [
+   {
+    "ref": "33.11",
+    "lemma": "ālatun 1.1a"
+   },
+   {
+    "ref": "40.2",
+    "lemma": "awwalan 1.1"
+   }
+  ],
+  "Hippocr. Superf.": [
+   {
+    "ref": "74.8–9",
+    "lemma": "in 2.2"
+   },
+   {
+    "ref": "78.1",
+    "lemma": "awwalan 1.1"
+   },
+   {
+    "ref": "78.11",
+    "lemma": "ayyumā 1.2.3"
+   },
+   {
+    "ref": "80.6",
+    "lemma": "anfun 1"
+   },
+   {
+    "ref": "80.8",
+    "lemma": "ayyumā 1.2.3"
+   },
+   {
+    "ref": "82.6",
+    "lemma": "insānun 5a"
+   },
+   {
+    "ref": "90.22",
+    "lemma": "āsun 1"
+   },
+   {
+    "ref": "92.22",
+    "lemma": "aḫaḏa w. acc. obj. and min obj. 1.1"
+   }
+  ],
+  "Nicom. Arithm.": [
+   {
+    "ref": "2.13",
+    "lemma": "abadiyyun 2d"
+   },
+   {
+    "ref": "3.11",
+    "lemma": "amrun 43.2b"
+   },
+   {
+    "ref": "6.12",
+    "lemma": "ayḍan 1.5.1"
+   },
+   {
+    "ref": "8.14",
+    "lemma": "arḍun 1.6"
+   },
+   {
+    "ref": "10.2",
+    "lemma": "iḏā 5.2"
+   },
+   {
+    "ref": "12.9",
+    "lemma": "illā anna 4"
+   },
+   {
+    "ref": "16.7",
+    "lemma": "asāsun 3.1b"
+   },
+   {
+    "ref": "16.16",
+    "lemma": "aḥadun 1.3"
+   },
+   {
+    "ref": "18.11",
+    "lemma": "ilā, ilā an 4.1a"
+   },
+   {
+    "ref": "19.20",
+    "lemma": "abadan w. neg. 2.4"
+   },
+   {
+    "ref": "21.14",
+    "lemma": "amrun 32.2"
+   },
+   {
+    "ref": "25.20",
+    "lemma": "wa-in 2"
+   },
+   {
+    "ref": "26.1",
+    "lemma": "iḏ3.2"
+   },
+   {
+    "ref": "26.19",
+    "lemma": "innamā 12.1a"
+   },
+   {
+    "ref": "27.1",
+    "lemma": "awwalu 2.8.1b"
+   },
+   {
+    "ref": "27.2",
+    "lemma": "ayḍan 1.4.1b"
+   },
+   {
+    "ref": "28.12",
+    "lemma": "āḫaru 4.4.2"
+   },
+   {
+    "ref": "28.17",
+    "lemma": "iḏ3.2"
+   },
+   {
+    "ref": "29.1",
+    "lemma": "taʾammala 2"
+   },
+   {
+    "ref": "33.8",
+    "lemma": "āḫiḏun 2.3"
+   },
+   {
+    "ref": "33.9–10",
+    "lemma": "āḫaru 1.12b"
+   },
+   {
+    "ref": "41.19",
+    "lemma": "iḏā 3.2"
+   },
+   {
+    "ref": "46.3",
+    "lemma": "bi-asrihī 1.1"
+   },
+   {
+    "ref": "47.18",
+    "lemma": "āḫiḏun 2.1"
+   },
+   {
+    "ref": "48.12",
+    "lemma": "aḫaḏa w. acc. 8.7"
+   },
+   {
+    "ref": "51.10",
+    "lemma": "ayḍan 1.6"
+   },
+   {
+    "ref": "52.3",
+    "lemma": "aḫaḏa intrans. 1.3"
+   },
+   {
+    "ref": "54.13",
+    "lemma": "ayḍan 4.3"
+   },
+   {
+    "ref": "59.13",
+    "lemma": "¶ after innamā 7"
+   },
+   {
+    "ref": "66.1",
+    "lemma": "nāsun 1.2.1"
+   },
+   {
+    "ref": "79.15",
+    "lemma": "āḫiḏun 1"
+   },
+   {
+    "ref": "80.1–2",
+    "lemma": "an 4.1a"
+   },
+   {
+    "ref": "84.18",
+    "lemma": "iḏā 8.2.1"
+   },
+   {
+    "ref": "89.7",
+    "lemma": "aḥadun 1.3"
+   },
+   {
+    "ref": "94.18",
+    "lemma": "ayyun 8.2"
+   },
+   {
+    "ref": "111.23",
+    "lemma": "awwalan 4.1b"
+   },
+   {
+    "ref": "119.19",
+    "lemma": "āna 1"
+   },
+   {
+    "ref": "120.3",
+    "lemma": "aḫḏun 1.3"
+   },
+   {
+    "ref": "123.14",
+    "lemma": "ayḍan 1.4.1b"
+   },
+   {
+    "ref": "137.3",
+    "lemma": "ānifan 1.3.2"
+   }
+  ],
+  "Porph. Isag.": [
+   {
+    "ref": "3.4",
+    "lemma": "nāsun 1.1.1"
+   },
+   {
+    "ref": "19.14",
+    "lemma": "illā anna 5"
+   },
+   {
+    "ref": "20.21–22",
+    "lemma": "abadan 1.1"
+   }
+  ],
+  "Proclus De aet. mund.": [
+   {
+    "ref": "43.23",
+    "lemma": "anniyyatun 2.1"
+   }
+  ],
+  "Proclus El. theol.": [
+   {
+    "ref": "2: 2.18",
+    "lemma": "illā, illā an 8"
+   },
+   {
+    "ref": "2: 2.19",
+    "lemma": "anniyyatun 10"
+   },
+   {
+    "ref": "80: 74.32–33",
+    "lemma": "aṯarun 1.4"
+   },
+   {
+    "ref": "80: 76.2",
+    "lemma": "illā, illā an 5.1a"
+   }
+  ],
+  "Ps.-Arist. Div.": [
+   {
+    "ref": "8a1",
+    "lemma": "amrun 18"
+   },
+   {
+    "ref": "9a10",
+    "lemma": "ālatun 5"
+   },
+   {
+    "ref": "23a2",
+    "lemma": "insānun 7"
+   },
+   {
+    "ref": "27a9",
+    "lemma": "amrun 8"
+   },
+   {
+    "ref": "36a17",
+    "lemma": "mustaʾnafun 1"
+   }
+  ],
+  "Ps.-Arist. Mund.": [
+   {
+    "ref": "3, 393b24",
+    "lemma": "aṣlun 10"
+   },
+   {
+    "ref": "4, 394a11",
+    "lemma": "illā, illā an 1.2a"
+   },
+   {
+    "ref": "4, 395a17",
+    "lemma": "illā, illā an 9.2; illā anna 8"
+   },
+   {
+    "ref": "6, 398a26",
+    "lemma": "amrun 45c"
+   },
+   {
+    "ref": "6, 398b26",
+    "lemma": "wa-in 1.4"
+   },
+   {
+    "ref": "6, 400a29",
+    "lemma": "bi-asrihī 1.1"
+   },
+   {
+    "ref": "6, 400b1",
+    "lemma": "Allāhu 3"
+   },
+   {
+    "ref": "6, 401a3",
+    "lemma": "arzun 2"
+   },
+   {
+    "ref": "6, 401a11",
+    "lemma": "taʾaṯṯara 1"
+   },
+   {
+    "ref": "7, 401a21",
+    "lemma": "abun 1.4"
+   },
+   {
+    "ref": "7, 401b2",
+    "lemma": "unṯā 1.1"
+   }
+  ],
+  "Ps.-Arist. Virt.": [
+   {
+    "ref": "4, 1250b11",
+    "lemma": "taʾyīdun ¶"
+   },
+   {
+    "ref": "6, 1251a7",
+    "lemma": "ayyun 7.3c"
+   },
+   {
+    "ref": "7, 1251a37",
+    "lemma": "iṯmun 2"
+   },
+   {
+    "ref": "7, 1251b3",
+    "lemma": "nāsun 1.8"
+   },
+   {
+    "ref": "8, 1251b31",
+    "lemma": "ahlun 18.2"
+   }
+  ],
+  "Ps.-Plut. Placita": [
+   {
+    "ref": "273a9",
+    "lemma": "ayyun 1.1"
+   },
+   {
+    "ref": "273a12",
+    "lemma": "ilāhiyyun 1.3.2"
+   },
+   {
+    "ref": "281a9",
+    "lemma": "aḥadun 3.7"
+   },
+   {
+    "ref": "282a10",
+    "lemma": "aṣlun 1.2"
+   },
+   {
+    "ref": "287a6",
+    "lemma": "aṣlun 1.2"
+   },
+   {
+    "ref": "287a8",
+    "lemma": "aṯīrun 1"
+   },
+   {
+    "ref": "292a14",
+    "lemma": "wa-in 1.1.1"
+   },
+   {
+    "ref": "292a20",
+    "lemma": "Allāhu 1.1"
+   },
+   {
+    "ref": "298a3",
+    "lemma": "imāmun 1"
+   },
+   {
+    "ref": "299a3",
+    "lemma": "in 1.1"
+   },
+   {
+    "ref": "326a21",
+    "lemma": "nāsun 1.1.1"
+   },
+   {
+    "ref": "327a14",
+    "lemma": "ustāḏun 1"
+   },
+   {
+    "ref": "332a5",
+    "lemma": "arḍun 1.9a"
+   },
+   {
+    "ref": "333a8",
+    "lemma": "aḥadun 3.7"
+   },
+   {
+    "ref": "334a9",
+    "lemma": "arḍun 1.9b"
+   },
+   {
+    "ref": "334a12",
+    "lemma": "awwalu 3.1a"
+   },
+   {
+    "ref": "353a22",
+    "lemma": "iḏ5.1"
+   },
+   {
+    "ref": "359a4",
+    "lemma": "iḏā 3.2"
+   },
+   {
+    "ref": "361a14",
+    "lemma": "arḍiyyun 1.2.3"
+   },
+   {
+    "ref": "363a1–3",
+    "lemma": "alfun 5"
+   },
+   {
+    "ref": "373a17–18",
+    "lemma": "in 1.3"
+   },
+   {
+    "ref": "377a9",
+    "lemma": "aṣlun 1.4"
+   },
+   {
+    "ref": "377a30",
+    "lemma": "ilā, ilā an 8"
+   },
+   {
+    "ref": "386a17",
+    "lemma": "taʾlīfun 1.5"
+   },
+   {
+    "ref": "401a18–23",
+    "lemma": "taʾṯīrun 1.1a"
+   },
+   {
+    "ref": "413a24",
+    "lemma": "iḏā 1.2"
+   },
+   {
+    "ref": "415a11",
+    "lemma": "ilāhiyyun 4"
+   },
+   {
+    "ref": "418a3",
+    "lemma": "unṯā 1.1"
+   },
+   {
+    "ref": "422a12",
+    "lemma": "aw 3.3b"
+   },
+   {
+    "ref": "422a25",
+    "lemma": "atā w. min 2"
+   },
+   {
+    "ref": "434a16",
+    "lemma": "insānun 1.1"
+   }
+  ],
+  "Ptol. Hypoth.": [
+   {
+    "ref": "72.3",
+    "lemma": "wa-in 1.2"
+   },
+   {
+    "ref": "74.16",
+    "lemma": "ayḍan 1.8a"
+   }
+  ],
+  "Rufus Ict. (Ullmann)": [
+   {
+    "ref": "p. 22.7",
+    "lemma": "uqḥuwānun 1"
+   }
+  ],
+  "Them. In De an.": [
+   {
+    "ref": "28.31",
+    "lemma": "illā, illā an 5.1b"
+   },
+   {
+    "ref": "37.10",
+    "lemma": "amrun 38.7"
+   },
+   {
+    "ref": "40.32",
+    "lemma": "amrun 25.2a"
+   },
+   {
+    "ref": "42.26",
+    "lemma": "āliyyun 1"
+   },
+   {
+    "ref": "43.34",
+    "lemma": "aw 2.1b"
+   },
+   {
+    "ref": "46.5",
+    "lemma": "abadiyyun 2a"
+   },
+   {
+    "ref": "65.9",
+    "lemma": "ummun 7"
+   },
+   {
+    "ref": "85.3",
+    "lemma": "iḏan 3.3"
+   },
+   {
+    "ref": "87.20",
+    "lemma": "amrun 32.3a"
+   },
+   {
+    "ref": "107.15",
+    "lemma": "nāsun 1.1.1"
+   },
+   {
+    "ref": "108.22",
+    "lemma": "inna 13.6"
+   }
+  ]
+ },
+ "part_d_variant_arabic": {
+  "Aelian. Tact.": [
+   {
+    "ref": "10.8",
+    "lemma": "awwalu 2.9.2"
+   },
+   {
+    "ref": "16 ult.",
+    "lemma": "aḥadun 4.4.2"
+   },
+   {
+    "ref": "Alex. An mant.",
+    "lemma": "Lib arb."
+   },
+   {
+    "ref": "195.20",
+    "lemma": "iḏ3.1"
+   },
+   {
+    "ref": "197.36",
+    "lemma": "āḫaru 1.1"
+   },
+   {
+    "ref": "197.47",
+    "lemma": "iḏ5.2"
+   },
+   {
+    "ref": "201.80",
+    "lemma": "an 1.1a"
+   },
+   {
+    "ref": "201.81",
+    "lemma": "iḏ5.1"
+   },
+   {
+    "ref": "207.126",
+    "lemma": "nāsun 1.1.1"
+   },
+   {
+    "ref": "Alex. qu. I 11a",
+    "lemma": "Univ."
+   },
+   {
+    "ref": "al-Dimašqī 31",
+    "lemma": "iḏā 3.1"
+   },
+   {
+    "ref": "Alex. qu. III 3",
+    "lemma": "Sens."
+   },
+   {
+    "ref": "168.13",
+    "lemma": "aṯarun 1.1a"
+   },
+   {
+    "ref": "184.140–186.141",
+    "lemma": "aṯarun 1.1c"
+   }
+  ],
+  "Arist. An. post.": [
+   {
+    "ref": "334.15–16",
+    "lemma": "ayyun 2.3.2a"
+   },
+   {
+    "ref": "344.17",
+    "lemma": "ayyun 7.3b"
+   },
+   {
+    "ref": "357.1",
+    "lemma": "anna 1.5a"
+   },
+   {
+    "ref": "429.12",
+    "lemma": "in 3.2"
+   }
+  ],
+  "Arist. Cael.": [
+   {
+    "ref": "A 12",
+    "lemma": "usṭuqussun 3.2"
+   },
+   {
+    "ref": "B 125.8",
+    "lemma": "awwalu 1.1a"
+   },
+   {
+    "ref": "B 127.9",
+    "lemma": "iḏā 1.10.2"
+   },
+   {
+    "ref": "B 181.4–5",
+    "lemma": "illā, illā an 20"
+   },
+   {
+    "ref": "B 182.16",
+    "lemma": "uf(u)qun 2.1"
+   },
+   {
+    "ref": "B 184.3",
+    "lemma": "uf(u)qun 1"
+   },
+   {
+    "ref": "B 194.9",
+    "lemma": "awwalu 1.5.3"
+   },
+   {
+    "ref": "B 194.14",
+    "lemma": "uf(u)qun 3b"
+   },
+   {
+    "ref": "B 195.5–6",
+    "lemma": "in 6.2.1"
+   },
+   {
+    "ref": "B 203.9–11",
+    "lemma": "aysa 1b"
+   },
+   {
+    "ref": "B 205.5",
+    "lemma": "aysa 1b"
+   },
+   {
+    "ref": "B 221.12",
+    "lemma": "aysa 1a"
+   },
+   {
+    "ref": "B 225.9",
+    "lemma": "awwalu 5.1"
+   },
+   {
+    "ref": "B 234.10",
+    "lemma": "uf(u)qun 3a"
+   },
+   {
+    "ref": "B 238.9",
+    "lemma": "in 5.2a"
+   },
+   {
+    "ref": "B 239.1",
+    "lemma": "aḫaḏa w. acc. 1.1"
+   },
+   {
+    "ref": "B 243.1",
+    "lemma": "in 5.1f"
+   },
+   {
+    "ref": "B 250.3",
+    "lemma": "in 5.1b"
+   },
+   {
+    "ref": "B 279.3",
+    "lemma": "uf(u)qun 1"
+   },
+   {
+    "ref": "B 285.8",
+    "lemma": "taʾakkudun 1"
+   },
+   {
+    "ref": "B 329.6",
+    "lemma": "taʾlīfun 3"
+   },
+   {
+    "ref": "B 343.11",
+    "lemma": "aḫaḏa w. acc. 2.1"
+   },
+   {
+    "ref": "B 343.13",
+    "lemma": "aḫaḏa w. acc. 1.6"
+   },
+   {
+    "ref": "B 348.5",
+    "lemma": "awwalu 10.5"
+   },
+   {
+    "ref": "B 358.2",
+    "lemma": "awwalu 10.4"
+   },
+   {
+    "ref": "C 125.8",
+    "lemma": "awwalu 1.1a"
+   },
+   {
+    "ref": "C 127.9",
+    "lemma": "iḏā 1.10.2"
+   },
+   {
+    "ref": "C 128.8",
+    "lemma": "āḫaru 1.1"
+   },
+   {
+    "ref": "C 134.6",
+    "lemma": "ilāhiyyun 1.4a"
+   },
+   {
+    "ref": "C 135.5",
+    "lemma": "innamā 10.1"
+   },
+   {
+    "ref": "C 140.2",
+    "lemma": "iḏā 2.1.1"
+   },
+   {
+    "ref": "C 141.18",
+    "lemma": "aṯīrun 1"
+   },
+   {
+    "ref": "C 151.3",
+    "lemma": "in 1.9"
+   },
+   {
+    "ref": "C 152.6",
+    "lemma": "maʾḫūḏun 2"
+   }
+  ],
+  "C 160.9 [aḫaḏa w. acc. and min of source": [],
+  "2.2]": [
+   {
+    "ref": "C 162.9",
+    "lemma": "aḫaḏa w. acc. obj. and min obj. 1.1"
+   },
+   {
+    "ref": "C 220.17",
+    "lemma": "in 6.2.3"
+   }
+  ],
+  "Arist. Cat. (Badawī)": [
+   {
+    "ref": "34.22",
+    "lemma": "ay 3.2"
+   },
+   {
+    "ref": "35.16",
+    "lemma": "amsi 1"
+   },
+   {
+    "ref": "35.18",
+    "lemma": "ayna, aynun, al-aynu 2a"
+   },
+   {
+    "ref": "36.8",
+    "lemma": "insānun 1.1"
+   },
+   {
+    "ref": "37.10",
+    "lemma": "aṣlan 2.1"
+   },
+   {
+    "ref": "46.7",
+    "lemma": "insun 1"
+   },
+   {
+    "ref": "52.19",
+    "lemma": "innamā 10.1"
+   },
+   {
+    "ref": "60.10",
+    "lemma": "ayna, aynun, al-aynu 2a"
+   },
+   {
+    "ref": "63.19",
+    "lemma": "aṣlan 2.3"
+   },
+   {
+    "ref": "75.12",
+    "lemma": "ināʾun 1"
+   }
+  ],
+  "Arist. De an. (Badawī)": [
+   {
+    "ref": "4.1",
+    "lemma": "anniyyatun 6.2"
+   },
+   {
+    "ref": "4.5",
+    "lemma": "ayyun 1.2.1b"
+   }
+  ],
+  "Arist. De an. (Badawī) (cont.)": [
+   {
+    "ref": "5.13",
+    "lemma": "ayyun 4.1.1"
+   },
+   {
+    "ref": "5.15",
+    "lemma": "āfatun 1.3"
+   },
+   {
+    "ref": "10.10",
+    "lemma": "immā … wa-immā 5.2"
+   },
+   {
+    "ref": "16.20",
+    "lemma": "ayḍan 9"
+   },
+   {
+    "ref": "17.22",
+    "lemma": "ayyun 7.3d"
+   },
+   {
+    "ref": "18.2–3",
+    "lemma": "illā, illā an 20"
+   },
+   {
+    "ref": "19.7",
+    "lemma": "aw 1.5c"
+   },
+   {
+    "ref": "22.12",
+    "lemma": "anna 8.2.1"
+   },
+   {
+    "ref": "23.17",
+    "lemma": "innamā 16a"
+   },
+   {
+    "ref": "23.22",
+    "lemma": "innamā 7"
+   },
+   {
+    "ref": "30.5",
+    "lemma": "anniyyatun 9, āliyyun 1"
+   },
+   {
+    "ref": "30.12",
+    "lemma": "al-annu 2.1"
+   },
+   {
+    "ref": "36.9",
+    "lemma": "ahlun 3b"
+   },
+   {
+    "ref": "36.10",
+    "lemma": "awwaliyyun 1"
+   },
+   {
+    "ref": "47.15",
+    "lemma": "illā anna 2.1"
+   },
+   {
+    "ref": "52.9",
+    "lemma": "illā, illā an 3.4a"
+   },
+   {
+    "ref": "64.1",
+    "lemma": "wa-illā (fa-) 2.1"
+   },
+   {
+    "ref": "67.10",
+    "lemma": "al-āna adv. 1.1a"
+   },
+   {
+    "ref": "67.18",
+    "lemma": "anniyyatun 1.4a"
+   },
+   {
+    "ref": "78.4",
+    "lemma": "ahlun 4"
+   },
+   {
+    "ref": "79.8",
+    "lemma": "āfatun 1.3"
+   },
+   {
+    "ref": "79.11",
+    "lemma": "illā anna 1"
+   }
+  ],
+  "Arist. Eth. Nic. (Bad./Axelr.)": [
+   {
+    "ref": "73.4 /",
+    "lemma": "innamā 8.3"
+   },
+   {
+    "ref": "73.6 /",
+    "lemma": "nāsun 1.2.2a"
+   },
+   {
+    "ref": "73.7 /",
+    "lemma": "wa-in 1.1.2"
+   },
+   {
+    "ref": "82.4 /",
+    "lemma": "insāniyyun 1"
+   },
+   {
+    "ref": "82.12 /",
+    "lemma": "insiyyun 2"
+   },
+   {
+    "ref": "83.9 /",
+    "lemma": "taʾnībun 1b"
+   },
+   {
+    "ref": "88.1 /",
+    "lemma": "aṣlun 11.3"
+   },
+   {
+    "ref": "92.14 /",
+    "lemma": "illā anna 2.1"
+   },
+   {
+    "ref": "99.7 /",
+    "lemma": "illā, illā an 3.4a"
+   },
+   {
+    "ref": "107.11 /",
+    "lemma": "āliyyun 1"
+   },
+   {
+    "ref": "112.20 /",
+    "lemma": "innamā 10.1"
+   },
+   {
+    "ref": "154.18 /",
+    "lemma": "ahhala 1.1"
+   },
+   {
+    "ref": "163.9 /",
+    "lemma": "ayyun 3.1b"
+   },
+   {
+    "ref": "164.16 /",
+    "lemma": "alifa 2"
+   },
+   {
+    "ref": "233.6–7 /",
+    "lemma": "anna 8.3.2"
+   },
+   {
+    "ref": "276.17 /",
+    "lemma": "istiʾhālun 3b"
+   },
+   {
+    "ref": "288.5 /",
+    "lemma": "awwalu 2.5b"
+   },
+   {
+    "ref": "288.12 /",
+    "lemma": "istaʾhala 1.1"
+   },
+   {
+    "ref": "306.2 /",
+    "lemma": "awwalan 2.1"
+   },
+   {
+    "ref": "306.17 /",
+    "lemma": "ayyun 2.1a"
+   },
+   {
+    "ref": "307.4 /",
+    "lemma": "uǧratun 1"
+   },
+   {
+    "ref": "308.4 / 5.12",
+    "lemma": "istiʾhālun 1"
+   },
+   {
+    "ref": "310.13 /",
+    "lemma": "abiyyun 1"
+   },
+   {
+    "ref": "330.7 /",
+    "lemma": "ānasa 1"
+   },
+   {
+    "ref": "334.8 / 35.5",
+    "lemma": "addaba 1"
+   },
+   {
+    "ref": "335.16 / 37.2",
+    "lemma": "inna 11.3"
+   },
+   {
+    "ref": "336.6–7 / 37.11–38.1",
+    "lemma": "¶ after inna 6.4"
+   },
+   {
+    "ref": "336.8 / 38.1",
+    "lemma": "min aǧli 1.3"
+   },
+   {
+    "ref": "337.17 /",
+    "lemma": "ayḍan 6.3.1"
+   },
+   {
+    "ref": "339.16 /",
+    "lemma": "illā anna 5"
+   },
+   {
+    "ref": "339.18 / 44.10",
+    "lemma": "akala 2.1"
+   },
+   {
+    "ref": "/ 46.6",
+    "lemma": "aḥadun 2.1"
+   },
+   {
+    "ref": "342.21 /",
+    "lemma": "taʾaḏḏā 7"
+   },
+   {
+    "ref": "/ 47.6",
+    "lemma": "illā, illā an 4.3.2"
+   },
+   {
+    "ref": "345.12 / 55.8",
+    "lemma": "ayḍan 1.7b"
+   },
+   {
+    "ref": "/ 66.5",
+    "lemma": "insānun 1.1"
+   },
+   {
+    "ref": "/ 66.12",
+    "lemma": "insiyyun 1"
+   },
+   {
+    "ref": "353.13 /",
+    "lemma": "nāsun 1.4"
+   },
+   {
+    "ref": "/ 70.5",
+    "lemma": "ayyumā 3"
+   },
+   {
+    "ref": "/ 71.2",
+    "lemma": "istaʾhala 1.2"
+   },
+   {
+    "ref": "356.3 /",
+    "lemma": "awwalan 3.3"
+   },
+   {
+    "ref": "358.18 / 79.6",
+    "lemma": "abun 1.5"
+   },
+   {
+    "ref": "359.10 /",
+    "lemma": "addaba 1"
+   },
+   {
+    "ref": "/ 82.12",
+    "lemma": "min ayna 1.1"
+   },
+   {
+    "ref": "361.15 / 85.3",
+    "lemma": "ayyun 3.1a"
+   },
+   {
+    "ref": "362.4 / 86.2",
+    "lemma": "aḫaḏa w. fī 4"
+   },
+   {
+    "ref": "362.5 /",
+    "lemma": "illā, illā an 1.2d"
+   },
+   {
+    "ref": "362.9 / 86.7",
+    "lemma": "insiyyun 4"
+   }
+  ],
+  "Arist. Gener. anim.": [
+   {
+    "ref": "5.16",
+    "lemma": "awwalu 2.7a"
+   },
+   {
+    "ref": "13.18",
+    "lemma": "awwalan 6"
+   },
+   {
+    "ref": "16.5",
+    "lemma": "al-unṯayāni 3"
+   },
+   {
+    "ref": "29.17",
+    "lemma": "min aǧli 2.1"
+   },
+   {
+    "ref": "30.20–31.2",
+    "lemma": "immā … aw 1"
+   },
+   {
+    "ref": "37.10",
+    "lemma": "āḫirun 8"
+   },
+   {
+    "ref": "63.22",
+    "lemma": "an 1.1a"
+   },
+   {
+    "ref": "65.16",
+    "lemma": "atā w. ʿalā 3.1"
+   },
+   {
+    "ref": "73.15",
+    "lemma": "ummun 1"
+   },
+   {
+    "ref": "79.1–4",
+    "lemma": "min aǧli 1.2.2"
+   },
+   {
+    "ref": "79.5",
+    "lemma": "ālatun 1.3c"
+   },
+   {
+    "ref": "82.3",
+    "lemma": "fa-inna 1.7"
+   },
+   {
+    "ref": "104.21",
+    "lemma": "muʾḏin 5"
+   },
+   {
+    "ref": "126.14",
+    "lemma": "addaba 2"
+   },
+   {
+    "ref": "138.10",
+    "lemma": "unṯā 1.4.1a"
+   },
+   {
+    "ref": "163.21",
+    "lemma": "awwalu 8.1"
+   },
+   {
+    "ref": "197.10",
+    "lemma": "āfatun 1.4a"
+   }
+  ],
+  "Arist. Hist. anim.": [
+   {
+    "ref": "14.15",
+    "lemma": "maʾwan 8.3"
+   },
+   {
+    "ref": "16.10",
+    "lemma": "ayyilun 1.1"
+   },
+   {
+    "ref": "30.5",
+    "lemma": "anfun 1"
+   },
+   {
+    "ref": "222.12",
+    "lemma": "istaʾnasa 1.3"
+   },
+   {
+    "ref": "244.8",
+    "lemma": "awā 15"
+   },
+   {
+    "ref": "268.7",
+    "lemma": "ālatun 8.10b"
+   },
+   {
+    "ref": "307.4",
+    "lemma": "awā 10"
+   },
+   {
+    "ref": "321.15",
+    "lemma": "awā 2.1c"
+   },
+   {
+    "ref": "327.6",
+    "lemma": "awwalu 2.10"
+   },
+   {
+    "ref": "372.9",
+    "lemma": "istaʾnasa 1.1b"
+   },
+   {
+    "ref": "393.4",
+    "lemma": "mustaʾnisun 1"
+   },
+   {
+    "ref": "397.15",
+    "lemma": "awā 4"
+   },
+   {
+    "ref": "413.12",
+    "lemma": "maʾwan 1.1"
+   },
+   {
+    "ref": "423.15",
+    "lemma": "awānun 6.3"
+   },
+   {
+    "ref": "450.16",
+    "lemma": "istaʾnasa 2.2"
+   },
+   {
+    "ref": "473.6",
+    "lemma": "awwalu 4.5"
+   }
+  ],
+  "Arist. Int.": [
+   {
+    "ref": "101.15 / f. 180a4–5",
+    "lemma": "al-āna adv. 6.2"
+   },
+   {
+    "ref": "108.16 / f. 182b5",
+    "lemma": "iḏā 2.1"
+   },
+   {
+    "ref": "110.11 / f. 183a12",
+    "lemma": "iḏan 1.1"
+   },
+   {
+    "ref": "113.21 / f. 184b9",
+    "lemma": "allafa 12.3"
+   },
+   {
+    "ref": "125.12 / f. 188b1",
+    "lemma": "taʾammala 2"
+   }
+  ],
+  "Arist. Metaph.": [
+   {
+    "ref": "19v4",
+    "lemma": "ilā l-āna 1"
+   },
+   {
+    "ref": "45.5",
+    "lemma": "taʾaddaba 1"
+   },
+   {
+    "ref": "66.1",
+    "lemma": "amrun 7.1"
+   },
+   {
+    "ref": "94.3",
+    "lemma": "āṯara w. acc. obj. 4"
+   },
+   {
+    "ref": "184.6",
+    "lemma": "insun 4"
+   },
+   {
+    "ref": "227.7–8",
+    "lemma": "awwalu 1.1a"
+   },
+   {
+    "ref": "247.2",
+    "lemma": "ilāhiyyun 3.3b"
+   },
+   {
+    "ref": "317.15",
+    "lemma": "awwaliyyatun 3.2"
+   },
+   {
+    "ref": "404.4",
+    "lemma": "atā w. acc. p. 1"
+   },
+   {
+    "ref": "482.8",
+    "lemma": "ālatun 1.1a"
+   },
+   {
+    "ref": "515.14",
+    "lemma": "ilā, ilā an 11"
+   },
+   {
+    "ref": "707.8",
+    "lemma": "muʾṯarun 1.2"
+   },
+   {
+    "ref": "729.9",
+    "lemma": "al-ānu 1b"
+   },
+   {
+    "ref": "937.1",
+    "lemma": "anfun 1"
+   },
+   {
+    "ref": "1060.11",
+    "lemma": "adabun 1.7b"
+   },
+   {
+    "ref": "1061.1",
+    "lemma": "ānukun 1"
+   },
+   {
+    "ref": "1139.6",
+    "lemma": "illā anna 3.2"
+   },
+   {
+    "ref": "1197.7",
+    "lemma": "muʾlimun 2"
+   },
+   {
+    "ref": "1319.7",
+    "lemma": "illā, illā an 2.2b"
+   },
+   {
+    "ref": "1466.4",
+    "lemma": "¶ after anniyyatun 6.1"
+   },
+   {
+    "ref": "1467v2",
+    "lemma": "illā, illā an 4.3.2"
+   },
+   {
+    "ref": "1509v3",
+    "lemma": "Ā, alif 1"
+   },
+   {
+    "ref": "1556.9",
+    "lemma": "taʾṯīrun 1.1b"
+   },
+   {
+    "ref": "1562.6",
+    "lemma": "wa-in 1.1.4"
+   },
+   {
+    "ref": "1564.3",
+    "lemma": "wa-illā (fa-) 2.2"
+   },
+   {
+    "ref": "1599.2–3",
+    "lemma": "min aǧli 1.2.2"
+   },
+   {
+    "ref": "1599v1–2",
+    "lemma": "min aǧli 1.2.2"
+   },
+   {
+    "ref": "1615.1",
+    "lemma": "azaliyyun 1.1a"
+   },
+   {
+    "ref": "1668.10",
+    "lemma": "ukratun 1"
+   }
+  ],
+  "Arist. Meteor.": [
+   {
+    "ref": "291",
+    "lemma": "aḥadun 1.1"
+   },
+   {
+    "ref": "1230",
+    "lemma": "ayyilun 1.1"
+   },
+   {
+    "ref": "1382",
+    "lemma": "ānukun 2"
+   },
+   {
+    "ref": "1427",
+    "lemma": "iḏ1.1"
+   }
+  ],
+  "Arist. Part. anim.": [
+   {
+    "ref": "5.19",
+    "lemma": "āfatun 1.2b"
+   },
+   {
+    "ref": "13.1",
+    "lemma": "addā A 1"
+   },
+   {
+    "ref": "13.3",
+    "lemma": "addā A 1"
+   },
+   {
+    "ref": "25.16",
+    "lemma": "innamā 6.1"
+   },
+   {
+    "ref": "28.9",
+    "lemma": "immā … wa-immā 1"
+   },
+   {
+    "ref": "59.6",
+    "lemma": "āḫaru 6.2.1"
+   },
+   {
+    "ref": "64.3",
+    "lemma": "¶ after innamā 6.3"
+   },
+   {
+    "ref": "71.4",
+    "lemma": "innamā 10.1"
+   },
+   {
+    "ref": "71.9",
+    "lemma": "awwalan 1.3"
+   },
+   {
+    "ref": "72.9",
+    "lemma": "iḏ1.1"
+   },
+   {
+    "ref": "72.15",
+    "lemma": "min aǧli 2.3b"
+   },
+   {
+    "ref": "75.5",
+    "lemma": "āḫaru 2.1.6"
+   },
+   {
+    "ref": "77.13",
+    "lemma": "immā … wa-immā 4"
+   },
+   {
+    "ref": "77.17",
+    "lemma": "awwalan 8"
+   },
+   {
+    "ref": "77.18",
+    "lemma": "ayyumā 1.2.2"
+   },
+   {
+    "ref": "78.10",
+    "lemma": "inna 1.1"
+   },
+   {
+    "ref": "78.17",
+    "lemma": "muʾḏin 8"
+   },
+   {
+    "ref": "82.21–83.3",
+    "lemma": "ammā … fa- 1.1.1"
+   },
+   {
+    "ref": "85.13",
+    "lemma": "illā, illā an 10.2"
+   },
+   {
+    "ref": "87.13",
+    "lemma": "iḏā 5.1.4"
+   },
+   {
+    "ref": "87.15",
+    "lemma": "illā, illā an 20"
+   },
+   {
+    "ref": "88.13",
+    "lemma": "iḏā 1.1.1"
+   },
+   {
+    "ref": "93.1",
+    "lemma": "allaḏī 4.1b"
+   },
+   {
+    "ref": "96.3",
+    "lemma": "allaḏī 11"
+   },
+   {
+    "ref": "97.16",
+    "lemma": "ayḍan 1.5.2.1"
+   },
+   {
+    "ref": "101.15",
+    "lemma": "ayyilun 1.1"
+   },
+   {
+    "ref": "115.20",
+    "lemma": "awwalu 1.1h"
+   }
+  ],
+  "Arist. Phys.": [
+   {
+    "ref": "24.4",
+    "lemma": "innamā 13.1"
+   },
+   {
+    "ref": "24.12",
+    "lemma": "illā, illā an 9.1"
+   },
+   {
+    "ref": "30.13",
+    "lemma": "anniyyatun 3a"
+   },
+   {
+    "ref": "76.1",
+    "lemma": "āḫiḏun 3.2"
+   },
+   {
+    "ref": "76.3",
+    "lemma": "al-āna adv. 9.2a"
+   },
+   {
+    "ref": "128.17",
+    "lemma": "min aǧli 1.1"
+   },
+   {
+    "ref": "129.7",
+    "lemma": "atā w. acc. p. 1"
+   },
+   {
+    "ref": "155.3",
+    "lemma": "illā anna 4"
+   },
+   {
+    "ref": "165.10",
+    "lemma": "awwalan 1.1"
+   },
+   {
+    "ref": "182.8",
+    "lemma": "taʾammala 1.1"
+   },
+   {
+    "ref": "192.5–6",
+    "lemma": "immā … wa-immā 1"
+   }
+  ],
+  "Arist. Phys. (cont.)": [
+   {
+    "ref": "194.8–9",
+    "lemma": "aḫaḏa intrans. 2.6"
+   },
+   {
+    "ref": "205.10",
+    "lemma": "aṣlun 2.4"
+   },
+   {
+    "ref": "224.10",
+    "lemma": "aṣlan 1.2"
+   },
+   {
+    "ref": "251.11",
+    "lemma": "āḫaru 3.2.1e"
+   },
+   {
+    "ref": "263.14",
+    "lemma": "aḥadun 1.1"
+   },
+   {
+    "ref": "267.9",
+    "lemma": "aḥadun 3.3"
+   },
+   {
+    "ref": "310.12",
+    "lemma": "ināʾun 1"
+   },
+   {
+    "ref": "366.8",
+    "lemma": "ayḍan 2.2.2"
+   },
+   {
+    "ref": "448.8",
+    "lemma": "anniyyatun 1.1a"
+   },
+   {
+    "ref": "467.12",
+    "lemma": "ānifan 2a"
+   },
+   {
+    "ref": "527.19",
+    "lemma": "innamā 12.1a"
+   },
+   {
+    "ref": "546.12",
+    "lemma": "awwalu 3.2"
+   },
+   {
+    "ref": "609.3",
+    "lemma": "iḏ3.2"
+   },
+   {
+    "ref": "788.13",
+    "lemma": "aṯarun 1.2a"
+   },
+   {
+    "ref": "825.11",
+    "lemma": "amrun 27"
+   },
+   {
+    "ref": "847.16",
+    "lemma": "āla w. ilā 2"
+   },
+   {
+    "ref": "860.3",
+    "lemma": "āla w. ilā 1"
+   },
+   {
+    "ref": "862.6",
+    "lemma": "āla w. ilā 11.1"
+   },
+   {
+    "ref": "881.2",
+    "lemma": "iyyā 2a"
+   }
+  ],
+  "Arist. Poet. I (Tkatsch)": [
+   {
+    "ref": "220.18 / f. 131a",
+    "lemma": "aw 1.8"
+   },
+   {
+    "ref": "222.8 / f. 131b",
+    "lemma": "ayḍan 2.1a"
+   },
+   {
+    "ref": "224.7 / f. 132a",
+    "lemma": "ayḍan 1.1a"
+   },
+   {
+    "ref": "224.24 / f. 132a24",
+    "lemma": "insānun 10.2"
+   },
+   {
+    "ref": "226.7 / f. 132b",
+    "lemma": "awwalan 1.1"
+   },
+   {
+    "ref": "226.14 / f. 132b",
+    "lemma": "innamā 9.3"
+   },
+   {
+    "ref": "240.12 / f. 136a",
+    "lemma": "inna 8.1b"
+   },
+   {
+    "ref": "262.11 / f. 141b11",
+    "lemma": "ilāhatun 1.2"
+   }
+  ],
+  "Arist. Rhet.": [
+   {
+    "ref": "2.4",
+    "lemma": "al-āna adv. 1.1a"
+   },
+   {
+    "ref": "8.14",
+    "lemma": "anātun 2"
+   },
+   {
+    "ref": "16.18",
+    "lemma": "innamā 8.3"
+   },
+   {
+    "ref": "20.18",
+    "lemma": "addā B 12"
+   },
+   {
+    "ref": "20.19",
+    "lemma": "am 1.1a"
+   },
+   {
+    "ref": "21.20–21",
+    "lemma": "ahlun 6.1"
+   },
+   {
+    "ref": "23.23",
+    "lemma": "am 1.3"
+   },
+   {
+    "ref": "41.18",
+    "lemma": "iḏā 2.4"
+   },
+   {
+    "ref": "46.23",
+    "lemma": "ayyun 3.3.1"
+   },
+   {
+    "ref": "47.1",
+    "lemma": "aḫun 1"
+   },
+   {
+    "ref": "56.1–2",
+    "lemma": "ammala 1.1"
+   },
+   {
+    "ref": "63.10",
+    "lemma": "bi-aḫaratin 1b"
+   },
+   {
+    "ref": "64.19",
+    "lemma": "aḏina 2.2"
+   },
+   {
+    "ref": "72.21",
+    "lemma": "iḏā 10"
+   },
+   {
+    "ref": "73.18",
+    "lemma": "abadan 1.4"
+   },
+   {
+    "ref": "75.10",
+    "lemma": "ayyuhā 1"
+   },
+   {
+    "ref": "75.18",
+    "lemma": "abun 1.1"
+   },
+   {
+    "ref": "78.14",
+    "lemma": "illā anna 1.1"
+   },
+   {
+    "ref": "83.15",
+    "lemma": "ayyun 5.1e"
+   },
+   {
+    "ref": "91.9",
+    "lemma": "iḏā 1.1.1"
+   },
+   {
+    "ref": "91.11",
+    "lemma": "amsi 2"
+   },
+   {
+    "ref": "97.15",
+    "lemma": "iḏā 10"
+   },
+   {
+    "ref": "108.17",
+    "lemma": "iḏā 10"
+   },
+   {
+    "ref": "109.17",
+    "lemma": "mutaʾaddibun 1"
+   },
+   {
+    "ref": "110.18",
+    "lemma": "amala 4"
+   },
+   {
+    "ref": "112.1",
+    "lemma": "āfatun 1.2a"
+   },
+   {
+    "ref": "113.2",
+    "lemma": "abun 1.7"
+   },
+   {
+    "ref": "124.6",
+    "lemma": "ammala 1.2"
+   },
+   {
+    "ref": "133.19",
+    "lemma": "amrun 21.2b"
+   },
+   {
+    "ref": "152.14",
+    "lemma": "ḥattā l-āna 1"
+   },
+   {
+    "ref": "156.2",
+    "lemma": "amara 3.1.3"
+   },
+   {
+    "ref": "156.12",
+    "lemma": "in 8.3.1"
+   },
+   {
+    "ref": "159.9",
+    "lemma": "iʾtamana 1.1b"
+   },
+   {
+    "ref": "159.17",
+    "lemma": "awwalu 3.4a"
+   },
+   {
+    "ref": "172.16",
+    "lemma": "aḫḏun 11.2"
+   },
+   {
+    "ref": "178.3",
+    "lemma": "ay 4.1"
+   },
+   {
+    "ref": "178.4",
+    "lemma": "adībun 3"
+   },
+   {
+    "ref": "179.16",
+    "lemma": "ahliyyun 1.3"
+   },
+   {
+    "ref": "180.20",
+    "lemma": "arḍun 1.1"
+   },
+   {
+    "ref": "194.21",
+    "lemma": "al-āna adv. 1.1a"
+   },
+   {
+    "ref": "205.14",
+    "lemma": "annasa 1a"
+   },
+   {
+    "ref": "205.17",
+    "lemma": "unsun 2"
+   },
+   {
+    "ref": "208.9",
+    "lemma": "aḏan, aḏīyatun 1.4"
+   },
+   {
+    "ref": "214.8",
+    "lemma": "arībun 1"
+   }
+  ],
+  "Arist. Soph. el.": [
+   {
+    "ref": "825.12",
+    "lemma": "ayyun 2.3.3b"
+   },
+   {
+    "ref": "827.5–6",
+    "lemma": "ayyun 2.3.3c"
+   },
+   {
+    "ref": "886.8",
+    "lemma": "ayyun 2.3.2b"
+   }
+  ],
+  "Arist. Top.": [
+   {
+    "ref": "500.16",
+    "lemma": "amara 3.1.5"
+   },
+   {
+    "ref": "502.17",
+    "lemma": "innamā 8.3"
+   },
+   {
+    "ref": "562.16",
+    "lemma": "nāsun 23"
+   },
+   {
+    "ref": "648.18",
+    "lemma": "ayyumā 2.2"
+   }
+  ],
+  "Artem. Onirocr.": [
+   {
+    "ref": "7.13",
+    "lemma": "alamun 1.1a"
+   },
+   {
+    "ref": "13.2",
+    "lemma": "aḥadun 2.1"
+   },
+   {
+    "ref": "15.13",
+    "lemma": "abadan w. neg. 5"
+   },
+   {
+    "ref": "20.9",
+    "lemma": "ilā, ilā an 17"
+   },
+   {
+    "ref": "22.12",
+    "lemma": "imāmun 1"
+   },
+   {
+    "ref": "23.12",
+    "lemma": "abadan w. neg. 4"
+   },
+   {
+    "ref": "30.3",
+    "lemma": "akala 6"
+   },
+   {
+    "ref": "30.4",
+    "lemma": "aklun 5.1"
+   },
+   {
+    "ref": "32.3",
+    "lemma": "Allāhu 2.2a"
+   },
+   {
+    "ref": "32.5",
+    "lemma": "Allāhu 1.1"
+   },
+   {
+    "ref": "32.6",
+    "lemma": "am 1.1a"
+   },
+   {
+    "ref": "32.8",
+    "lemma": "Allāhu 2.2a"
+   },
+   {
+    "ref": "33.12",
+    "lemma": "ummatun 2.2"
+   },
+   {
+    "ref": "35.4",
+    "lemma": "ahlun 15.4.1"
+   },
+   {
+    "ref": "35.6",
+    "lemma": "ahlun 6.3"
+   },
+   {
+    "ref": "35.7",
+    "lemma": "arḍun 4"
+   },
+   {
+    "ref": "35.10",
+    "lemma": "ahlun 18.5.2"
+   },
+   {
+    "ref": "36.5–6",
+    "lemma": "ayyun 1.4.1"
+   },
+   {
+    "ref": "39.7–8",
+    "lemma": "innamā 12.1b"
+   },
+   {
+    "ref": "40.7",
+    "lemma": "amrun 26.2.4"
+   },
+   {
+    "ref": "40.10",
+    "lemma": "taʾwīlun 2.3"
+   },
+   {
+    "ref": "49.14",
+    "lemma": "amnun 1"
+   },
+   {
+    "ref": "54.1",
+    "lemma": "innamā 14.1"
+   },
+   {
+    "ref": "54.15",
+    "lemma": "iḏā 8.2.1"
+   },
+   {
+    "ref": "58.9",
+    "lemma": "ayḍan 1.3b"
+   },
+   {
+    "ref": "60.9",
+    "lemma": "uḏunun 2"
+   },
+   {
+    "ref": "64.12–15",
+    "lemma": "aḫun 1, in 7.1"
+   },
+   {
+    "ref": "72.1–2",
+    "lemma": "ālatun 2b"
+   },
+   {
+    "ref": "74.11",
+    "lemma": "mutaʾakkilun 1.1"
+   },
+   {
+    "ref": "79.11–12",
+    "lemma": "al-awwalu … al-ṯānī 1a"
+   },
+   {
+    "ref": "79.14",
+    "lemma": "ināʾun 1"
+   },
+   {
+    "ref": "80.6",
+    "lemma": "ahlun 9.1b"
+   },
+   {
+    "ref": "82.7",
+    "lemma": "immā … wa-immā 3"
+   },
+   {
+    "ref": "99.1",
+    "lemma": "illā anna 2.1"
+   },
+   {
+    "ref": "101.4",
+    "lemma": "taʾwīlun 3"
+   },
+   {
+    "ref": "110.5",
+    "lemma": "amrun 10.2"
+   },
+   {
+    "ref": "111.15",
+    "lemma": "al-awwalu … al-ṯānī 1a"
+   },
+   {
+    "ref": "121.11",
+    "lemma": "āfatun 4"
+   },
+   {
+    "ref": "125.11",
+    "lemma": "in 2.7"
+   },
+   {
+    "ref": "130.2",
+    "lemma": "ālatun 8.9"
+   },
+   {
+    "ref": "134.9",
+    "lemma": "awwalu 5.2b"
+   },
+   {
+    "ref": "135.7",
+    "lemma": "utruǧǧun 1"
+   },
+   {
+    "ref": "137.9",
+    "lemma": "aruzzun 1"
+   },
+   {
+    "ref": "147.6",
+    "lemma": "anā 3.1"
+   },
+   {
+    "ref": "148.1",
+    "lemma": "ānifan 3"
+   },
+   {
+    "ref": "149.12",
+    "lemma": "iʾtamana 1.1b"
+   },
+   {
+    "ref": "151.14",
+    "lemma": "iḏā 4.7.2"
+   },
+   {
+    "ref": "153.3",
+    "lemma": "in 2.2"
+   },
+   {
+    "ref": "153.5",
+    "lemma": "inna 12.1.3"
+   },
+   {
+    "ref": "159.6",
+    "lemma": "aḫaḏa w. acc. 3.2"
+   },
+   {
+    "ref": "160.8",
+    "lemma": "ammā … fa- 1.5"
+   },
+   {
+    "ref": "166.12",
+    "lemma": "ummun 2"
+   },
+   {
+    "ref": "174.2",
+    "lemma": "awwalan 2.1"
+   },
+   {
+    "ref": "180.5",
+    "lemma": "innamā 6.2"
+   },
+   {
+    "ref": "185.7",
+    "lemma": "iḏ5.3"
+   },
+   {
+    "ref": "190.4",
+    "lemma": "asīrun 1.2"
+   },
+   {
+    "ref": "190.8",
+    "lemma": "nāsun 8.1"
+   },
+   {
+    "ref": "195.9",
+    "lemma": "ahlun 16.1"
+   },
+   {
+    "ref": "198.4",
+    "lemma": "amatun 4"
+   },
+   {
+    "ref": "198.14",
+    "lemma": "insānun 9"
+   },
+   {
+    "ref": "224.8",
+    "lemma": "ātā 1a"
+   },
+   {
+    "ref": "236.7",
+    "lemma": "urǧuwānun 3"
+   },
+   {
+    "ref": "242.4",
+    "lemma": "iḏā 2.3"
+   },
+   {
+    "ref": "252.7",
+    "lemma": "asara 1"
+   },
+   {
+    "ref": "256.4",
+    "lemma": "al-āna adv. 1.1a"
+   },
+   {
+    "ref": "262.5",
+    "lemma": "insānun 1.4"
+   },
+   {
+    "ref": "262.15",
+    "lemma": "ayḍan 4.4.2"
+   },
+   {
+    "ref": "263.7",
+    "lemma": "ayḍan 3.4.2b"
+   },
+   {
+    "ref": "266.4",
+    "lemma": "amrun 36.3"
+   },
+   {
+    "ref": "267.2",
+    "lemma": "muʾāmaratun 1"
+   },
+   {
+    "ref": "276.13",
+    "lemma": "aḫīran 1.3"
+   },
+   {
+    "ref": "278.13",
+    "lemma": "insānun 20"
+   },
+   {
+    "ref": "302.6",
+    "lemma": "amrun 46"
+   },
+   {
+    "ref": "311.8",
+    "lemma": "ayḍan 2.1b"
+   },
+   {
+    "ref": "316.15",
+    "lemma": "ānifan 5"
+   },
+   {
+    "ref": "320.11",
+    "lemma": "amānatun 1.2a"
+   },
+   {
+    "ref": "329.6",
+    "lemma": "aw 4.2"
+   },
+   {
+    "ref": "344.5",
+    "lemma": "innamā 16a"
+   },
+   {
+    "ref": "355.8",
+    "lemma": "ayḍan 1.3b"
+   },
+   {
+    "ref": "356.8",
+    "lemma": "insun 4"
+   },
+   {
+    "ref": "366.4",
+    "lemma": "abun 1.3"
+   },
+   {
+    "ref": "370.10",
+    "lemma": "nāsun 7.1"
+   },
+   {
+    "ref": "384.5",
+    "lemma": "ayḍan 3.4.2a"
+   },
+   {
+    "ref": "384.12",
+    "lemma": "iḏā 5.2"
+   },
+   {
+    "ref": "388.7",
+    "lemma": "akala 1.2"
+   },
+   {
+    "ref": "389.1",
+    "lemma": "aṣlun 1.6c"
+   },
+   {
+    "ref": "395.11",
+    "lemma": "innamā 6.2"
+   },
+   {
+    "ref": "398.7",
+    "lemma": "aḫaḏa w. acc. and min of source 7.1"
+   },
+   {
+    "ref": "399.2",
+    "lemma": "aḏina 1"
+   },
+   {
+    "ref": "400.14",
+    "lemma": "ānifan 4.1"
+   },
+   {
+    "ref": "406.7",
+    "lemma": "ayḍan 6.2.1"
+   },
+   {
+    "ref": "409.12",
+    "lemma": "min aǧli 4.1"
+   },
+   {
+    "ref": "415.12",
+    "lemma": "allaḏī 3.2a"
+   },
+   {
+    "ref": "425.7",
+    "lemma": "amrun 7.1"
+   },
+   {
+    "ref": "433.4",
+    "lemma": "allafa 10"
+   },
+   {
+    "ref": "435.6",
+    "lemma": "ilā, ilā an 4.4"
+   }
+  ],
+  "De causis": [
+   {
+    "ref": "1: 59.10",
+    "lemma": "anniyyun 1.1"
+   }
+  ],
+  "Diosc. Mat. med.": [],
+  "→Ibn al-Bayṭār Ǧāmiʿ": [],
+  "→al-Rāzī Ḥāwī": [],
+  "Erat. Cub. dupl.": [
+   {
+    "ref": "153.4",
+    "lemma": "usṭuwānatun 3"
+   }
+  ],
+  "Erat. Cub. dupl. (cont.)": [
+   {
+    "ref": "153.5",
+    "lemma": "illā anna 3.1"
+   },
+   {
+    "ref": "155.9–11",
+    "lemma": "ilā, ilā an 3.1a"
+   }
+  ],
+  "Eucl. El.": [
+   {
+    "ref": "i.1, 64.22",
+    "lemma": "aḥadun 2.5"
+   },
+   {
+    "ref": "i.1, 82.11",
+    "lemma": "aḥadun 1.1"
+   },
+   {
+    "ref": "ii.2, 26.18",
+    "lemma": "aḥadun 3.5"
+   },
+   {
+    "ref": "iii.2, 42.18",
+    "lemma": "ayyun 7.1"
+   }
+  ],
+  "Galen An. virt.": [
+   {
+    "ref": "11.14",
+    "lemma": "ayḍan 4.4.1"
+   },
+   {
+    "ref": "13.4",
+    "lemma": "awwalu 1.1e"
+   },
+   {
+    "ref": "13.10–11",
+    "lemma": "a- … am/aw 1.1, āliyyun 1"
+   },
+   {
+    "ref": "13.14",
+    "lemma": "aḥadun 2.4"
+   },
+   {
+    "ref": "14.7",
+    "lemma": "iḏā 3.1"
+   },
+   {
+    "ref": "16.12",
+    "lemma": "aḥadun 2.1"
+   },
+   {
+    "ref": "16.17",
+    "lemma": "anna 8.5.2"
+   },
+   {
+    "ref": "16.18",
+    "lemma": "iḏ3.1"
+   },
+   {
+    "ref": "19.13",
+    "lemma": "aḥadun 2.4"
+   },
+   {
+    "ref": "19.14",
+    "lemma": "iḏ4.1"
+   },
+   {
+    "ref": "21.6",
+    "lemma": "amrun 45a"
+   },
+   {
+    "ref": "22.4",
+    "lemma": "wa-illā (fa-) 2.2"
+   },
+   {
+    "ref": "22.19",
+    "lemma": "alima 4"
+   },
+   {
+    "ref": "23.5",
+    "lemma": "āla w. ilā 3.1"
+   },
+   {
+    "ref": "23.11",
+    "lemma": "asan 1"
+   },
+   {
+    "ref": "24.24",
+    "lemma": "arḍiyyun 1.1"
+   },
+   {
+    "ref": "32.7",
+    "lemma": "ammā … fa- 5"
+   },
+   {
+    "ref": "35.16",
+    "lemma": "aḫḏun 8.2"
+   },
+   {
+    "ref": "35.17",
+    "lemma": "min aǧli 6.4"
+   },
+   {
+    "ref": "37.11",
+    "lemma": "a- … am/aw 1.2c"
+   },
+   {
+    "ref": "37.16",
+    "lemma": "āḫaru 3.1.5b"
+   },
+   {
+    "ref": "39.22",
+    "lemma": "iḏ6"
+   },
+   {
+    "ref": "42.8",
+    "lemma": "īṯārun 4"
+   },
+   {
+    "ref": "43.10",
+    "lemma": "alamun 1.4b"
+   }
+  ],
+  "Galen Med. phil.": [
+   {
+    "ref": "101",
+    "lemma": "ayḍan 1.4.1a"
+   },
+   {
+    "ref": "103",
+    "lemma": "iḏ5.3"
+   },
+   {
+    "ref": "112",
+    "lemma": "iḏā 3.2"
+   },
+   {
+    "ref": "113",
+    "lemma": "aḫaḏa w. bi- 2.1"
+   }
+  ],
+  "Galen Nerv. diss.": [
+   {
+    "ref": "fol. 75b",
+    "lemma": "awwala mā 1"
+   }
+  ],
+  "Galen Ther. Pis.": [
+   {
+    "ref": "109b5",
+    "lemma": "inna 13.2.3a"
+   },
+   {
+    "ref": "110a6",
+    "lemma": "anna 8.5.3"
+   },
+   {
+    "ref": "112a8",
+    "lemma": "amara 1.1d"
+   },
+   {
+    "ref": "112a9",
+    "lemma": "aḥadun 3.9.3"
+   },
+   {
+    "ref": "112b8",
+    "lemma": "iḏā 1.1.1"
+   },
+   {
+    "ref": "113b12",
+    "lemma": "ammā … fa- 8"
+   },
+   {
+    "ref": "113b16",
+    "lemma": "iḏā 4.7.1"
+   },
+   {
+    "ref": "114a1",
+    "lemma": "iḏā 4.7.1"
+   },
+   {
+    "ref": "114a12",
+    "lemma": "arḍun 1.11b"
+   },
+   {
+    "ref": "115a12",
+    "lemma": "nāsun 14.1b"
+   },
+   {
+    "ref": "116a3",
+    "lemma": "aṣlan 2.1"
+   },
+   {
+    "ref": "117a9",
+    "lemma": "a- interrog. 2"
+   },
+   {
+    "ref": "119a15",
+    "lemma": "amina 2"
+   },
+   {
+    "ref": "123b5",
+    "lemma": "min aǧli 1.1"
+   },
+   {
+    "ref": "124a2",
+    "lemma": "min aǧli 1.1"
+   },
+   {
+    "ref": "127b2",
+    "lemma": "anna 3"
+   },
+   {
+    "ref": "127b3",
+    "lemma": "aṯṯara w. fī 1.2"
+   },
+   {
+    "ref": "129b14",
+    "lemma": "aḫaḏa w. acc. obj. and min obj. 4"
+   }
+  ],
+  "Hippocr. Aer.": [
+   {
+    "ref": "A 9.1–2",
+    "lemma": "ayyun 3.4.1a"
+   },
+   {
+    "ref": "A 9.8",
+    "lemma": "ayyun 3.4.1c"
+   },
+   {
+    "ref": "A 69.4",
+    "lemma": "awwalan 4.2"
+   },
+   {
+    "ref": "A 85.1",
+    "lemma": "ānifan 1.3.1a"
+   },
+   {
+    "ref": "A 85.2",
+    "lemma": "inna 6.2"
+   },
+   {
+    "ref": "B 9.9",
+    "lemma": "ahlun 10a"
+   },
+   {
+    "ref": "B 11.9",
+    "lemma": "ayyun 3.4.1b"
+   },
+   {
+    "ref": "145.6",
+    "lemma": "āla w. ilā 3.1"
+   },
+   {
+    "ref": "147.13",
+    "lemma": "amatun 3b"
+   }
+  ],
+  "Hippocr. Aph.": [
+   {
+    "ref": "15.5",
+    "lemma": "āla w. ilā 11.2"
+   },
+   {
+    "ref": "59.5",
+    "lemma": "āla w. ilā 10"
+   },
+   {
+    "ref": "65.5",
+    "lemma": "taʾawwubun ¶"
+   }
+  ],
+  "Hippocr. Diaet. acut.": [
+   {
+    "ref": "3.4",
+    "lemma": "taʾattin 1"
+   },
+   {
+    "ref": "17.6",
+    "lemma": "amrun 23.2"
+   },
+   {
+    "ref": "38.12",
+    "lemma": "ālama 2.2"
+   }
+  ],
+  "Hippocr. Genit.; Nat. puer.": [
+   {
+    "ref": "41.10",
+    "lemma": "ummun 1"
+   },
+   {
+    "ref": "49.3",
+    "lemma": "amatun 3a"
+   },
+   {
+    "ref": "49.9",
+    "lemma": "atā w. acc. p. 1"
+   },
+   {
+    "ref": "60.2",
+    "lemma": "ūqiyyatun 2"
+   }
+  ],
+  "Hippocr. Humor.": [
+   {
+    "ref": "15.18–17.1",
+    "lemma": "amrun 39.9"
+   },
+   {
+    "ref": "31.13–14",
+    "lemma": "ayyun 3.3.1"
+   }
+  ],
+  "Hippocr. Nat. hom.": [
+   {
+    "ref": "23.15",
+    "lemma": "awwalan 4.2"
+   },
+   {
+    "ref": "27.10",
+    "lemma": "taʾaddama 1"
+   }
+  ],
+  "Hippocr. Nat. puer.": [],
+  "→Hippocr. Genit.; Nat. puer.": [],
+  "Hippocr. Off. med.": [
+   {
+    "ref": "5.7",
+    "lemma": "in 1.10"
+   },
+   {
+    "ref": "5.8",
+    "lemma": "amara 1.1a"
+   }
+  ],
+  "Hippocr. Superf.": [
+   {
+    "ref": "6.2",
+    "lemma": "ilā, ilā an 28b"
+   },
+   {
+    "ref": "6.11",
+    "lemma": "ayyumā 1.2.3"
+   },
+   {
+    "ref": "8.8",
+    "lemma": "anfun 1"
+   },
+   {
+    "ref": "8.12",
+    "lemma": "ayyun 2.3.1"
+   },
+   {
+    "ref": "11.2",
+    "lemma": "ayḍan 5.2"
+   },
+   {
+    "ref": "17.1",
+    "lemma": "awwalan 4.7"
+   },
+   {
+    "ref": "18.2–3",
+    "lemma": "atā w. acc. p. 4"
+   },
+   {
+    "ref": "19.3",
+    "lemma": "aw 8"
+   }
+  ],
+  "Ibn al-Bayṭār Ǧāmiʿ": [
+   {
+    "ref": "I 13.23",
+    "lemma": "min ayna 2"
+   },
+   {
+    "ref": "I 15.30–32",
+    "lemma": "iḏḫirun 1"
+   },
+   {
+    "ref": "I 22.3",
+    "lemma": "arnabun 1.2"
+   },
+   {
+    "ref": "I 31.22",
+    "lemma": "iqlīmiyā 1"
+   },
+   {
+    "ref": "I 34.27",
+    "lemma": "uššaqun 1"
+   },
+   {
+    "ref": "I 54.1",
+    "lemma": "ayyilun 1.6"
+   },
+   {
+    "ref": "I 61.33",
+    "lemma": "anfun 3"
+   },
+   {
+    "ref": "I 147.26",
+    "lemma": "istaʾṣala 1"
+   },
+   {
+    "ref": "II 85.14",
+    "lemma": "iḏā 4.7.2"
+   },
+   {
+    "ref": "II 90.24",
+    "lemma": "akala 11"
+   },
+   {
+    "ref": "II 99.10",
+    "lemma": "uqḥuwānun 2.1"
+   },
+   {
+    "ref": "II 100.6",
+    "lemma": "urbiyyatun 1"
+   },
+   {
+    "ref": "II 103.11",
+    "lemma": "urbiyyatun 1"
+   },
+   {
+    "ref": "II 103.17",
+    "lemma": "ūqiyyatun 1"
+   },
+   {
+    "ref": "II 141.3",
+    "lemma": "ayyilun 1.5"
+   },
+   {
+    "ref": "II 174.21–22",
+    "lemma": "ayḍan 6.2.1"
+   },
+   {
+    "ref": "II 176.15",
+    "lemma": "ūqiyyatun 4"
+   },
+   {
+    "ref": "III 8.20",
+    "lemma": "anfun 2.2"
+   },
+   {
+    "ref": "III 58.32",
+    "lemma": "iwazzun 1.2"
+   },
+   {
+    "ref": "III 89.3",
+    "lemma": "mutaʾakkilun 1.1"
+   }
+  ],
+  "Nicom. Arithm.": [
+   {
+    "ref": "12.24",
+    "lemma": "in 1.5"
+   },
+   {
+    "ref": "13.1",
+    "lemma": "amma 2"
+   },
+   {
+    "ref": "14.15",
+    "lemma": "ayḍan 1.5.1"
+   },
+   {
+    "ref": "14.18",
+    "lemma": "awwalu 1.3a"
+   },
+   {
+    "ref": "14.22",
+    "lemma": "uḫtun 2"
+   },
+   {
+    "ref": "16.14",
+    "lemma": "innamā 12.3e"
+   },
+   {
+    "ref": "17.4–5",
+    "lemma": "inna 4.2"
+   },
+   {
+    "ref": "17.21",
+    "lemma": "ayḍan 1.4.2a"
+   },
+   {
+    "ref": "17.22",
+    "lemma": "āḫaru 2.1.1a"
+   },
+   {
+    "ref": "19.3",
+    "lemma": "allafa 1.2"
+   },
+   {
+    "ref": "20.10–12",
+    "lemma": "ayḍan 2.2.1"
+   },
+   {
+    "ref": "23.21",
+    "lemma": "ayḍan 3.4.1b"
+   },
+   {
+    "ref": "24.7",
+    "lemma": "awwala mā 1"
+   },
+   {
+    "ref": "25.12",
+    "lemma": "bi-izāʾi 3.1"
+   },
+   {
+    "ref": "26.1",
+    "lemma": "amrun 32.2"
+   },
+   {
+    "ref": "27.9",
+    "lemma": "iḏā 5.1.2"
+   },
+   {
+    "ref": "34.7",
+    "lemma": "in 1.10"
+   },
+   {
+    "ref": "35.9",
+    "lemma": "am 1.1b"
+   },
+   {
+    "ref": "39.22",
+    "lemma": "iḏā 3.2"
+   },
+   {
+    "ref": "41.11",
+    "lemma": "al-āna adv. 9.1"
+   },
+   {
+    "ref": "43.12",
+    "lemma": "aḫaḏa w. acc. 1.1"
+   },
+   {
+    "ref": "45.6",
+    "lemma": "bi-asrihī 1.1"
+   },
+   {
+    "ref": "45.13",
+    "lemma": "amrun 37.3"
+   },
+   {
+    "ref": "45.19",
+    "lemma": "ayyun 1.4.1"
+   },
+   {
+    "ref": "51.14",
+    "lemma": "¶ after innamā 7"
+   },
+   {
+    "ref": "53.6",
+    "lemma": "ayḍan 4.5"
+   },
+   {
+    "ref": "57.11",
+    "lemma": "ammā … fa- 1.1.1"
+   },
+   {
+    "ref": "60.17",
+    "lemma": "aḫīran 2"
+   },
+   {
+    "ref": "60.19–61.1",
+    "lemma": "in 4.1a"
+   },
+   {
+    "ref": "61.15",
+    "lemma": "atā w. bi- 11.1"
+   },
+   {
+    "ref": "66.1–2",
+    "lemma": "iḏā 3.1"
+   },
+   {
+    "ref": "70.3",
+    "lemma": "aḫaḏa intrans. 1.1"
+   },
+   {
+    "ref": "74.4",
+    "lemma": "ayyun 4.1.3"
+   },
+   {
+    "ref": "81.1",
+    "lemma": "awwalu 2.8.1a"
+   },
+   {
+    "ref": "85.2",
+    "lemma": "āḫaru 3.2.1a"
+   },
+   {
+    "ref": "85.9–11",
+    "lemma": "innamā 9.1b"
+   },
+   {
+    "ref": "86.7",
+    "lemma": "iḏā 2.4"
+   },
+   {
+    "ref": "86.16",
+    "lemma": "ayyun 4.3"
+   },
+   {
+    "ref": "87.1",
+    "lemma": "iḏā 5.2"
+   },
+   {
+    "ref": "87.20",
+    "lemma": "āḫaru 3.2.1e"
+   },
+   {
+    "ref": "87.22",
+    "lemma": "amrun 27"
+   },
+   {
+    "ref": "88.6",
+    "lemma": "aṣlun 2.1"
+   },
+   {
+    "ref": "91.17",
+    "lemma": "amrun 45a"
+   },
+   {
+    "ref": "91.18",
+    "lemma": "innamā 8.3"
+   },
+   {
+    "ref": "92.4",
+    "lemma": "ulfatun 3"
+   },
+   {
+    "ref": "93.13",
+    "lemma": "āna 1"
+   },
+   {
+    "ref": "95.16",
+    "lemma": "ayḍan 1.4.1b"
+   },
+   {
+    "ref": "96.17",
+    "lemma": "āḫaru 1.14.1"
+   },
+   {
+    "ref": "97.8",
+    "lemma": "iḏā 4.11"
+   },
+   {
+    "ref": "99.16",
+    "lemma": "iḏā 4.4"
+   },
+   {
+    "ref": "103.4",
+    "lemma": "amrun 49"
+   },
+   {
+    "ref": "111.20",
+    "lemma": "awwalu 9.2"
+   },
+   {
+    "ref": "112.12",
+    "lemma": "inna 13.4.2"
+   },
+   {
+    "ref": "113.14",
+    "lemma": "aṣliyyun 1"
+   }
+  ],
+  "Paraphr. Arist. De an. (= Philop. In De an.)": [
+   {
+    "ref": "139.2 al-Ahwānī",
+    "lemma": "iʾtilāfun 1"
+   },
+   {
+    "ref": "142.16 al-Ahwānī",
+    "lemma": "ālatun 1.6"
+   },
+   {
+    "ref": "147.6 al-Ahwānī",
+    "lemma": "uf(u)qun 4"
+   }
+  ],
+  "Porph. Isag.": [
+   {
+    "ref": "1060.3 / f. 147a",
+    "lemma": "ayḍan 4.1.1"
+   },
+   {
+    "ref": "1087.9 / f. 154b",
+    "lemma": "iḏ5.1"
+   },
+   {
+    "ref": "1088.10 / f. 154b",
+    "lemma": "ilā, ilā an 4.1d"
+   },
+   {
+    "ref": "1096.8 / f. 155a",
+    "lemma": "ayyun 3.1.1a"
+   }
+  ],
+  "Proclus De aet. mund. (MS Üniv. 1458)": [
+   {
+    "ref": "f. 220b15–16",
+    "lemma": "al-annu 2.2"
+   }
+  ],
+  "Proclus El. theol.": [
+   {
+    "ref": "1.5",
+    "lemma": "ayḍan 4.1.1"
+   },
+   {
+    "ref": "2.3",
+    "lemma": "muʾaṯṯirun 1.1"
+   }
+  ],
+  "Ps.-Arist. Div.": [
+   {
+    "ref": "Q 34.23",
+    "lemma": "al-awwalu … al-ṯānī 2"
+   },
+   {
+    "ref": "Q 36.24",
+    "lemma": "ālatun 1.1a"
+   },
+   {
+    "ref": "Q 37.5",
+    "lemma": "ahlun 15.3"
+   },
+   {
+    "ref": "Q 37.10",
+    "lemma": "ahlun 12"
+   },
+   {
+    "ref": "T 47.9",
+    "lemma": "mustaʾnafun 1"
+   },
+   {
+    "ref": "T 47.13",
+    "lemma": "mustaʾnafun 1"
+   },
+   {
+    "ref": "T 47.24",
+    "lemma": "illā, illā an 1.2c"
+   },
+   {
+    "ref": "T 50.4",
+    "lemma": "insānun 7"
+   },
+   {
+    "ref": "T 53.4",
+    "lemma": "unṯā 2.2"
+   }
+  ],
+  "Ps.-Arist. Mund.": [
+   {
+    "ref": "F 86b11",
+    "lemma": "taʾammala 5.2"
+   },
+   {
+    "ref": "F 86b12",
+    "lemma": "nāsun 1.1.1"
+   },
+   {
+    "ref": "F 87a10",
+    "lemma": "Allāhu 2.1"
+   },
+   {
+    "ref": "F 92a1",
+    "lemma": "aṣlun 10"
+   },
+   {
+    "ref": "F 92a5",
+    "lemma": "ilā, ilā an 4.1a"
+   },
+   {
+    "ref": "F 92a9–10",
+    "lemma": "usṭuwānatun 2"
+   },
+   {
+    "ref": "F 92b14",
+    "lemma": "amrun 40.2c"
+   },
+   {
+    "ref": "F 98a6",
+    "lemma": "allafa 1.5"
+   },
+   {
+    "ref": "F 98a8",
+    "lemma": "allafa 4"
+   },
+   {
+    "ref": "F 101a10",
+    "lemma": "ahlun 14.4"
+   },
+   {
+    "ref": "F 102b2",
+    "lemma": "arḍun 5.2"
+   },
+   {
+    "ref": "F 103a12",
+    "lemma": "amāma prep. 1"
+   },
+   {
+    "ref": "F 105b11",
+    "lemma": "Allāhu 3"
+   },
+   {
+    "ref": "F 106a6",
+    "lemma": "insun 7"
+   },
+   {
+    "ref": "F 106a9",
+    "lemma": "maʾrabun 1"
+   },
+   {
+    "ref": "F 107a9",
+    "lemma": "arḍiyyun 2"
+   },
+   {
+    "ref": "F 107a16",
+    "lemma": "atā w. ilā 2.2"
+   },
+   {
+    "ref": "K 183a21",
+    "lemma": "ummun 1"
+   },
+   {
+    "ref": "K 183b6",
+    "lemma": "taʾammala 7"
+   },
+   {
+    "ref": "K 186a15",
+    "lemma": "illā, illā an 9.2"
+   },
+   {
+    "ref": "Y 296a6",
+    "lemma": "ummun 1"
+   },
+   {
+    "ref": "Y 296a17–18",
+    "lemma": "iqlīmun 1"
+   },
+   {
+    "ref": "Y 297b7",
+    "lemma": "bi-izāʾi 2.5"
+   },
+   {
+    "ref": "Y 298a8",
+    "lemma": "illā, illā an 1.2a"
+   },
+   {
+    "ref": "Y 298a13",
+    "lemma": "immā … wa-immā 2"
+   },
+   {
+    "ref": "Y 298b23",
+    "lemma": "illā anna 8"
+   },
+   {
+    "ref": "Y 300a14",
+    "lemma": "muʾtalifun 3"
+   },
+   {
+    "ref": "Y 300b1",
+    "lemma": "amrun 43.1.1c"
+   },
+   {
+    "ref": "Y 301a8",
+    "lemma": "abadun 1.2"
+   },
+   {
+    "ref": "Y 302b16",
+    "lemma": "taʾlīfun 1.1a"
+   },
+   {
+    "ref": "Y 303a14",
+    "lemma": "amara 3.1.4"
+   },
+   {
+    "ref": "Y 304b8",
+    "lemma": "arzun 2"
+   }
+  ],
+  "Ps.-Arist. Virt.": [
+   {
+    "ref": "Q 39.7",
+    "lemma": "ahlun 18.2"
+   },
+   {
+    "ref": "Q 41.22",
+    "lemma": "ilā, ilā an 7"
+   },
+   {
+    "ref": "Q 42.12–13",
+    "lemma": "īṯārun 2.2.4"
+   },
+   {
+    "ref": "Q 43.1",
+    "lemma": "amrun 14.1b"
+   },
+   {
+    "ref": "T 61.1–2",
+    "lemma": "ayyun 7.3c"
+   },
+   {
+    "ref": "T 61.11",
+    "lemma": "taʾammulun 3"
+   },
+   {
+    "ref": "T 63.13",
+    "lemma": "amānatun 1.1"
+   },
+   {
+    "ref": "T 64.19",
+    "lemma": "taʾyīdun ¶"
+   }
+  ],
+  "Ps.-Plut. Placita": [
+   {
+    "ref": "1.17",
+    "lemma": "insānun 1.2a"
+   },
+   {
+    "ref": "15.1",
+    "lemma": "ilāhun 1.1"
+   },
+   {
+    "ref": "26.15",
+    "lemma": "aṯīrun 1"
+   },
+   {
+    "ref": "34.14",
+    "lemma": "iḏ5.1"
+   },
+   {
+    "ref": "36.9",
+    "lemma": "iḏā 3.2"
+   },
+   {
+    "ref": "36.22",
+    "lemma": "arḍun 2.2a"
+   },
+   {
+    "ref": "45.18",
+    "lemma": "ilā, ilā an 8"
+   },
+   {
+    "ref": "49.8",
+    "lemma": "amāmun 2"
+   },
+   {
+    "ref": "54.6",
+    "lemma": "aḥadun 2.4"
+   },
+   {
+    "ref": "71.14",
+    "lemma": "amrun 39.10"
+   },
+   {
+    "ref": "71.18",
+    "lemma": "iḏā 2.4"
+   }
+  ],
+  "Ptol. Hypoth.": [
+   {
+    "ref": "13.11–12 / f. 81b11–12",
+    "lemma": "in 4.2a"
+   },
+   {
+    "ref": "13.23 / f. 81b23",
+    "lemma": "aw 1.4b"
+   },
+   {
+    "ref": "14.1 / f. 82a1",
+    "lemma": "wa-in 1.1.3"
+   },
+   {
+    "ref": "14.4 / f. 82a4",
+    "lemma": "ālatun 1.7a"
+   }
+  ],
+  "al-Rāzī Ḥāwī": [
+   {
+    "ref": "20, 255.12",
+    "lemma": "ittaḫaḏa 4"
+   },
+   {
+    "ref": "20, 302.8",
+    "lemma": "mutaʾakkilun 1.2"
+   },
+   {
+    "ref": "20, 486.3",
+    "lemma": "ālatun 1.1a"
+   }
+  ],
+  "Ris. fī l-ʿIlm al-ilāhī (→Plot.)": [
+   {
+    "ref": "152: 177.18",
+    "lemma": "awwalu 1.1a"
+   }
+  ],
+  "Rufus Ict.": [
+   {
+    "ref": "32",
+    "lemma": "uššaqun 1"
+   }
+  ],
+  "Them. In De an.": [
+   {
+    "ref": "3.13",
+    "lemma": "illā anna 12"
+   },
+   {
+    "ref": "39.8",
+    "lemma": "amrun 40.7"
+   },
+   {
+    "ref": "47.3",
+    "lemma": "amrun 25.2a"
+   },
+   {
+    "ref": "103.14",
+    "lemma": "aw 2.3"
+   },
+   {
+    "ref": "156.1",
+    "lemma": "insun 6"
+   },
+   {
+    "ref": "186.15",
+    "lemma": "ilāhiyyun 1.1.1"
+   }
+  ],
+  "Theologia Aristotelis": [
+   {
+    "ref": "I 2: 18.16",
+    "lemma": "aṯarun 1.6a"
+   },
+   {
+    "ref": "I 10: 20.5",
+    "lemma": "anniyyatun 2.2"
+   },
+   {
+    "ref": "IV 24: 59.7",
+    "lemma": "min ayna 1.1"
+   },
+   {
+    "ref": "X 62: 143.18",
+    "lemma": "insānun 1.1"
+   }
+  ]
+ },
+ "part_e_middle_arabic": {
+  "Index of Middle Arabic Usage in Manuscript": [],
+  "Readings": [],
+  "Aelian. Tact.": [
+   {
+    "ref": "12.2",
+    "lemma": "allafa 13"
+   },
+   {
+    "ref": "Alex. qu. I 11a",
+    "lemma": "Univ."
+   },
+   {
+    "ref": "31",
+    "lemma": "iḏā 3.1"
+   }
+  ],
+  "Arist. An. post.": [
+   {
+    "ref": "443.3",
+    "lemma": "ayyilun 1.3"
+   }
+  ],
+  "Arist. Cael.": [
+   {
+    "ref": "A 84a16–19",
+    "lemma": "ammā … fa- 1.1.1"
+   },
+   {
+    "ref": "B 203.1",
+    "lemma": "aysa 1"
+   },
+   {
+    "ref": "B 238.9",
+    "lemma": "in 5.2a"
+   },
+   {
+    "ref": "B 277.18",
+    "lemma": "āḫirun 3.2a"
+   },
+   {
+    "ref": "B 358.13",
+    "lemma": "awwalu 3.4.1"
+   }
+  ],
+  "Arist. Cat.": [
+   {
+    "ref": "46.7",
+    "lemma": "insun 1"
+   }
+  ],
+  "Arist. De an. (Badawī)": [
+   {
+    "ref": "23.17",
+    "lemma": "innamā 16a"
+   },
+   {
+    "ref": "63.17",
+    "lemma": "wa-illā 2.1"
+   },
+   {
+    "ref": "73.1",
+    "lemma": "illā anna 1.1"
+   },
+   {
+    "ref": "88.4",
+    "lemma": "illā 9.1"
+   }
+  ],
+  "Arist. Eth. Nic. (Bad./Axelr.)": [
+   {
+    "ref": "290.19",
+    "lemma": "ahlun 3a"
+   },
+   {
+    "ref": "336.1 / 37.5",
+    "lemma": "istiʾhālun 3a"
+   },
+   {
+    "ref": "339.18 / 44.10",
+    "lemma": "akala 2.1"
+   },
+   {
+    "ref": "353.13",
+    "lemma": "nāsun 1.4"
+   },
+   {
+    "ref": "356.6 / 74.4–5",
+    "lemma": "ilāhun 1.1"
+   },
+   {
+    "ref": "359.2 / 79.11",
+    "lemma": "amara 12"
+   }
+  ],
+  "Arist. Gener. anim.": [
+   {
+    "ref": "11.2",
+    "lemma": "illā 17.2"
+   },
+   {
+    "ref": "20.11",
+    "lemma": "am 1.1c, in 3.1.1"
+   },
+   {
+    "ref": "21.15",
+    "lemma": "aṯarun 9"
+   },
+   {
+    "ref": "26.13",
+    "lemma": "unṯā 1.3.3a"
+   },
+   {
+    "ref": "40.3",
+    "lemma": "unṯā 1.3.3b"
+   },
+   {
+    "ref": "57.4",
+    "lemma": "fī aḫaratin 1.1"
+   },
+   {
+    "ref": "78.23",
+    "lemma": "ālatun 1.3b"
+   },
+   {
+    "ref": "82.23",
+    "lemma": "innamā 10.1"
+   },
+   {
+    "ref": "83.17",
+    "lemma": "illā 16"
+   },
+   {
+    "ref": "86.14",
+    "lemma": "alfun 3.3"
+   },
+   {
+    "ref": "87.16",
+    "lemma": "āḫirun 1.1"
+   },
+   {
+    "ref": "90.7",
+    "lemma": "muʾannaṯun 1.2.1"
+   },
+   {
+    "ref": "110.15",
+    "lemma": "fī aḫaratin 2.1"
+   },
+   {
+    "ref": "121.12",
+    "lemma": "awānun 2"
+   },
+   {
+    "ref": "123.3–4",
+    "lemma": "atā w. bi- 1.1, wa-in 2"
+   },
+   {
+    "ref": "123.6",
+    "lemma": "in 4.1"
+   },
+   {
+    "ref": "129.18",
+    "lemma": "āḏā elative 1"
+   },
+   {
+    "ref": "135.6",
+    "lemma": "attūnun 1"
+   },
+   {
+    "ref": "143.4",
+    "lemma": "unṯā 1.4.1a"
+   },
+   {
+    "ref": "173.3–4",
+    "lemma": "āfatun 1.4"
+   }
+  ],
+  "Arist. Hist. anim.": [
+   {
+    "ref": "318.7",
+    "lemma": "awā 2.1a"
+   }
+  ],
+  "Arist. Int.": [
+   {
+    "ref": "110.2–3",
+    "lemma": "amrun 21.2b"
+   }
+  ],
+  "Arist. Mag. mor.": [
+   {
+    "ref": "T58.8",
+    "lemma": "amrun 7.2"
+   }
+  ],
+  "Arist. Metaph.": [
+   {
+    "ref": "347.12",
+    "lemma": "awwaliyyatun 3.1"
+   },
+   {
+    "ref": "537.5",
+    "lemma": "awwalu 2.5b"
+   },
+   {
+    "ref": "814.5",
+    "lemma": "anfun 1"
+   },
+   {
+    "ref": "831.5",
+    "lemma": "anniyyatun 1.5"
+   },
+   {
+    "ref": "1166.10–12",
+    "lemma": "arḍiyyun 1.3"
+   },
+   {
+    "ref": "1197.3",
+    "lemma": "ilā ayna 1"
+   },
+   {
+    "ref": "1219.12",
+    "lemma": "anniyyatun 1.2a"
+   },
+   {
+    "ref": "1279.2",
+    "lemma": "ayyun 1.2.1a"
+   },
+   {
+    "ref": "1467.1",
+    "lemma": "illā 4.2"
+   },
+   {
+    "ref": "1668.10",
+    "lemma": "ukratun 1"
+   }
+  ],
+  "Arist. Part. anim.": [
+   {
+    "ref": "17.4",
+    "lemma": "anīsun 1"
+   },
+   {
+    "ref": "18.5",
+    "lemma": "āfatun 1.2b"
+   },
+   {
+    "ref": "65.13",
+    "lemma": "addā B 9.1"
+   },
+   {
+    "ref": "70.7",
+    "lemma": "awwalu 1.1c"
+   },
+   {
+    "ref": "71.9",
+    "lemma": "awwalan 1.3"
+   },
+   {
+    "ref": "72.8",
+    "lemma": "ayḍan 18.2a"
+   },
+   {
+    "ref": "73.5",
+    "lemma": "fa-inna 1.2"
+   },
+   {
+    "ref": "73.10",
+    "lemma": "awwalu 1.6"
+   },
+   {
+    "ref": "82.1",
+    "lemma": "illā 5.2"
+   },
+   {
+    "ref": "90.20",
+    "lemma": "ahlun 18.5.1"
+   },
+   {
+    "ref": "93.1",
+    "lemma": "allaḏī 4.1b"
+   },
+   {
+    "ref": "122.5",
+    "lemma": "awā 7.2"
+   }
+  ],
+  "Arist. Phys.": [
+   {
+    "ref": "205.10",
+    "lemma": "aṣlun 2.4"
+   },
+   {
+    "ref": "250.5",
+    "lemma": "aṣlan 2.2"
+   },
+   {
+    "ref": "407.5",
+    "lemma": "alfun 3.2"
+   },
+   {
+    "ref": "562.18",
+    "lemma": "āḫirun 3.2a"
+   },
+   {
+    "ref": "791.4",
+    "lemma": "ay 2"
+   }
+  ],
+  "Arist. Poet. I (Tkatsch)": [
+   {
+    "ref": "220.17 / f. 131a",
+    "lemma": "ayḍan 2.2.1"
+   },
+   {
+    "ref": "256.9 / f. 140a9",
+    "lemma": "insānun 6"
+   }
+  ],
+  "Arist. Rhet.": [
+   {
+    "ref": "2.20",
+    "lemma": "awwalu 2.7b"
+   },
+   {
+    "ref": "4.17",
+    "lemma": "innamā 13.2"
+   },
+   {
+    "ref": "55.8",
+    "lemma": "muʾḏin 4"
+   },
+   {
+    "ref": "87.13",
+    "lemma": "illā 5.2"
+   },
+   {
+    "ref": "115.7",
+    "lemma": "amrun 32.1"
+   },
+   {
+    "ref": "151.9",
+    "lemma": "alamun 1.5"
+   },
+   {
+    "ref": "183.21",
+    "lemma": "asadun 1.1"
+   }
+  ],
+  "Arist. Soph. el.": [
+   {
+    "ref": "780.8",
+    "lemma": "al-āna 3"
+   },
+   {
+    "ref": "782.7",
+    "lemma": "munḏu l-āna 1"
+   }
+  ],
+  "Artem. Onirocr.": [
+   {
+    "ref": "24.9",
+    "lemma": "al-āna 9.2b"
+   },
+   {
+    "ref": "31.13",
+    "lemma": "innamā 10.4, insānun 17.2"
+   },
+   {
+    "ref": "33.13",
+    "lemma": "wa-in 1.7"
+   },
+   {
+    "ref": "77.15",
+    "lemma": "in 8.4.2.1"
+   },
+   {
+    "ref": "79.11–12",
+    "lemma": "al-awwalu … al-ṯānī 1a"
+   },
+   {
+    "ref": "101.4",
+    "lemma": "taʾwīlun 3"
+   },
+   {
+    "ref": "213.3",
+    "lemma": "āsun 1"
+   },
+   {
+    "ref": "232.7",
+    "lemma": "asadun 1.2"
+   },
+   {
+    "ref": "242.3",
+    "lemma": "inna 13.4.4"
+   },
+   {
+    "ref": "252.7",
+    "lemma": "asara 1"
+   },
+   {
+    "ref": "288.13",
+    "lemma": "ayḍan 3.3b"
+   },
+   {
+    "ref": "302.8",
+    "lemma": "āḫirun 2.1b"
+   },
+   {
+    "ref": "343.11",
+    "lemma": "illā 4.5"
+   },
+   {
+    "ref": "348.6",
+    "lemma": "ammā … fa- 3.1"
+   },
+   {
+    "ref": "388.7",
+    "lemma": "akala 1.2"
+   },
+   {
+    "ref": "388.11",
+    "lemma": "akala 3.1"
+   },
+   {
+    "ref": "391.1",
+    "lemma": "insānun 18.2"
+   },
+   {
+    "ref": "423.4",
+    "lemma": "amānatun 1.3"
+   },
+   {
+    "ref": "431.12",
+    "lemma": "taʾlīfun 5a"
+   }
+  ],
+  "Galen An. virt.": [
+   {
+    "ref": "27.12–14",
+    "lemma": "iḏā 2.4, anfun 2.1"
+   }
+  ],
+  "Galen In De off. med.": [
+   {
+    "ref": "64.11",
+    "lemma": "āfatun 1.4a"
+   }
+  ],
+  "Galen Med. phil.": [
+   {
+    "ref": "32",
+    "lemma": "amara 1.1d"
+   }
+  ],
+  "Galen Ther. Pis.": [
+   {
+    "ref": "118a1",
+    "lemma": "amara 6.3"
+   },
+   {
+    "ref": "119b2",
+    "lemma": "ahlun 18.5.3"
+   }
+  ],
+  "Hippocr. Aer.": [
+   {
+    "ref": "A 17.5",
+    "lemma": "inna 6.2"
+   },
+   {
+    "ref": "B 45.17",
+    "lemma": "awwalu 8.7"
+   },
+   {
+    "ref": "145.2",
+    "lemma": "unṯā 1.1"
+   }
+  ],
+  "Hippocr. Alim.": [
+   {
+    "ref": "3.5",
+    "lemma": "āḫirun 2.2.1"
+   }
+  ],
+  "Hippocr. Aph.": [
+   {
+    "ref": "15.5",
+    "lemma": "āla w. ilā 11.2"
+   },
+   {
+    "ref": "41.9",
+    "lemma": "āla w. ilā 6"
+   },
+   {
+    "ref": "48.15",
+    "lemma": "āla w. ilā 9"
+   }
+  ],
+  "Hippocr. Diaet. acut.": [
+   {
+    "ref": "18.13",
+    "lemma": "immā … wa-immā 4"
+   }
+  ],
+  "Hippocr. Nat. hom.": [
+   {
+    "ref": "3.6–7",
+    "lemma": "alima 2.1a, in 1.2"
+   },
+   {
+    "ref": "31.10",
+    "lemma": "ūqiyyatun 3"
+   }
+  ],
+  "Hippocr. Nat. puer.": [
+   {
+    "ref": "57.7",
+    "lemma": "usrubun 1"
+   }
+  ],
+  "Hippocr. Off. med.": [
+   {
+    "ref": "5.13",
+    "lemma": "ammā … fa- 11"
+   }
+  ],
+  "Hippocr. Superf.": [
+   {
+    "ref": "2.9–10",
+    "lemma": "in 1.10"
+   },
+   {
+    "ref": "2.11–12",
+    "lemma": "āḫaru 3.1.3, in 2.2"
+   }
+  ],
+  "Ibn al-Bayṭār Ǧāmiʿ": [
+   {
+    "ref": "II 100.19",
+    "lemma": "ūqiyyatun 1"
+   },
+   {
+    "ref": "II 103.13",
+    "lemma": "ūqiyyatun 1"
+   },
+   {
+    "ref": "II 142.23",
+    "lemma": "anfun 2.2"
+   }
+  ],
+  "New Testament": [
+   {
+    "ref": "1. Cor. 13, 11",
+    "lemma": "in 2.3"
+   }
+  ],
+  "Nicom. Arithm.": [
+   {
+    "ref": "13.1",
+    "lemma": "amma 2"
+   },
+   {
+    "ref": "13.16–17",
+    "lemma": "innamā 9.1b"
+   },
+   {
+    "ref": "18.8",
+    "lemma": "innamā 8.3"
+   },
+   {
+    "ref": "18.24–19.3",
+    "lemma": "allafa 1.2"
+   },
+   {
+    "ref": "29.15",
+    "lemma": "innamā 12.1a"
+   },
+   {
+    "ref": "31.6",
+    "lemma": "taʾammala 2"
+   },
+   {
+    "ref": "35.9",
+    "lemma": "am 1.1b"
+   },
+   {
+    "ref": "36.9",
+    "lemma": "awwalan 4.4.2b"
+   },
+   {
+    "ref": "42.1",
+    "lemma": "āḫaru 6.6.3"
+   },
+   {
+    "ref": "43.10",
+    "lemma": "ayḍan 3.3a"
+   },
+   {
+    "ref": "62.6–9",
+    "lemma": "an 9.1"
+   },
+   {
+    "ref": "79.4",
+    "lemma": "awwalu 1.2.3a"
+   },
+   {
+    "ref": "81.1",
+    "lemma": "awwalu 2.8.1a"
+   },
+   {
+    "ref": "87.19",
+    "lemma": "inna 12.1.1"
+   }
+  ],
+  "Ps.-Arist. Div.": [
+   {
+    "ref": "T 52.3",
+    "lemma": "immā … aw 5"
+   }
+  ],
+  "Ps.-Arist. Mund.": [
+   {
+    "ref": "F 94a12",
+    "lemma": "bi-izāʾi 2.4"
+   },
+   {
+    "ref": "K 183b6",
+    "lemma": "taʾammala 7"
+   },
+   {
+    "ref": "Y 298a8",
+    "lemma": "illā 1.2a"
+   },
+   {
+    "ref": "Y 300a14",
+    "lemma": "muʾtalifun 3"
+   }
+  ],
+  "Ps.-Arist. Virt.": [
+   {
+    "ref": "T 60.14",
+    "lemma": "taʾaḏḏā 2"
+   }
+  ],
+  "Ps.-Plut. Placita": [
+   {
+    "ref": "25.5",
+    "lemma": "āḫaru 1.3.1"
+   }
+  ],
+  "Rufus Ict.": [
+   {
+    "ref": "20",
+    "lemma": "anā 1.1"
+   }
+  ],
+  "Them. In De an.": [
+   {
+    "ref": "117.9",
+    "lemma": "aw 3.1"
+   }
+  ],
+  "Theol. Arist.": [
+   {
+    "ref": "X 171: 159.14–15",
+    "lemma": "anniyyatun 2.1"
+   }
+  ]
+ },
+ "part_f_greek_quotations": [
+  {
+   "ref": "Alcmaeon fr. 2, Nauck p. 801",
+   "lemmas": [
+    "anā 1.1"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "",
+   "lemmas": [
+    "usṭuwānatun 1"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "",
+   "lemmas": [
+    "aṣlun 1.2"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "",
+   "lemmas": [
+    "arzun 3"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "Aratus v.2",
+   "lemmas": [
+    "nāsun 1.1.1"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "432.8",
+   "lemmas": [
+    "uḫtun 2"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "2.1]; I 10, 492a1",
+   "lemmas": [
+    "nāsun 8.1"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "Magna Moralia II 11, 1208b9",
+   "lemmas": [
+    "illā 9.1a"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "1.1a], 651a7–8",
+   "lemmas": [
+    "arḍun 1.1"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "fr. 191.9, Pfeiffer I 162",
+   "lemmas": [
+    "imāmun 1"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "",
+   "lemmas": [
+    "abadan 4"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "Demetrius De elocutione 26",
+   "lemmas": [
+    "anta 1"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "Kranz II 18.2",
+   "lemmas": [
+    "aṣlun 2.4"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "Euenus fr. 8 West",
+   "lemmas": [
+    "muʾḏin 4"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "",
+   "lemmas": [
+    "taʾaṯṯara 1"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "Hesiod Works and Days 370",
+   "lemmas": [
+    "uǧratun 1"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "Hippocrates Aer. 82.3",
+   "lemmas": [
+    "inna 12.1.4"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "Off. med. 44.18",
+   "lemmas": [
+    "maʾūfun 3"
+   ],
+   "author": "Index of Lemmata."
+  },
+  {
+   "ref": "σ 7",
+   "lemmas": [
+    "ilā 29.2"
+   ],
+   "author": "▬"
+  },
+  {
+   "ref": "Menander fr. 608 Kock",
+   "lemmas": [
+    "ahlun 16.1"
+   ],
+   "author": "▬"
+  },
+  {
+   "ref": "",
+   "lemmas": [
+    "Allāhu 1.1"
+   ],
+   "author": "▬"
+  },
+  {
+   "ref": "",
+   "lemmas": [
+    "arḍun 1.1"
+   ],
+   "author": "▬"
+  },
+  {
+   "ref": "C3 [amrun 40.2b]; 747 D2",
+   "lemmas": [
+    "amrun 27"
+   ],
+   "author": "▬"
+  },
+  {
+   "ref": "Republic 527 E1–2",
+   "lemmas": [
+    "amrun 13"
+   ],
+   "author": "▬"
+  },
+  {
+   "ref": "[asan 1]; 86D",
+   "lemmas": [
+    "aḥadun 2.8; aḥadun 4.1"
+   ],
+   "author": "▬"
+  },
+  {
+   "ref": "13 Rad.",
+   "lemmas": [
+    "aḫaḏa w. acc. 8.11"
+   ],
+   "author": "▬"
+  },
+  {
+   "ref": "310.35",
+   "lemmas": [
+    "addā B 10.2"
+   ],
+   "author": "▬"
+  },
+  {
+   "ref": "Simonides fr. 85,3 Diehl",
+   "lemmas": [
+    "abun 1.1",
+    "aḫun 1"
+   ],
+   "author": "Pythagoreans →Anon. Pyth."
+  },
+  {
+   "ref": "458 [al-āna 9.1]; 911",
+   "lemmas": [
+    "abun 2",
+    "iḏā 3.1"
+   ],
+   "author": "Pythagoreans →Anon. Pyth."
+  },
+  {
+   "ref": "Teucros, Pearson II 215",
+   "lemmas": [
+    "uḫtun 1",
+    "inna 1.1"
+   ],
+   "author": "Pythagoreans →Anon. Pyth."
+  },
+  {
+   "ref": "",
+   "lemmas": [
+    "anā 1.1"
+   ],
+   "author": "Pythagoreans →Anon. Pyth."
+  },
+  {
+   "ref": "Bergk II 139",
+   "lemmas": [
+    "iḏā 2.1"
+   ],
+   "author": "Pythagoreans →Anon. Pyth."
+  },
+  {
+   "ref": "[iṯmun 1.1]; A 47, I 125.26",
+   "lemmas": [
+    "aṣlun 1.4"
+   ],
+   "author": "Pythagoreans →Anon. Pyth."
+  }
+ ],
+ "index_of_lemmata": []
+}
