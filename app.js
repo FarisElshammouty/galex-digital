@@ -581,7 +581,8 @@ function applyHash(hash, opts = {}) {
     state.tab = 'a';
     document.querySelectorAll('.tab').forEach(t =>
       t.classList.toggle('active', t.dataset.tab === 'a'));
-    selectEntry(parts[1], { skipPush: true });
+    // gid is percent-encoded in stored URLs (colon → %3A); decode before matching.
+    selectEntry(decodeURIComponent(parts[1]), { skipPush: true });
     if (parts[2]) {
       // Defer to let the entry render fully
       setTimeout(() => {
