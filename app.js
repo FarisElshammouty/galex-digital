@@ -108,6 +108,15 @@ function renderList() {
 
   const inVolume = (item) => state.volume === 'all' || item.volume === state.volume;
 
+  if (state.tab === 'browse') {
+    renderBrowsePanel(ul);
+    return;
+  }
+  if (state.tab === 'evidence') {
+    renderEvidencePanel(ul, qNorm, q);
+    return;
+  }
+
   if (state.tab === 'a') {
     const filtered = state.entries.filter(e => inVolume(e) && matchEntry(e, qNorm, q));
     let currentRoot = null;
@@ -191,18 +200,19 @@ function renderList() {
   }
 }
 
-function selectEntry(gid) {
+function selectEntry(gid, opts = {}) {
   state.selectedId = gid;
   state.tab = 'a';
   document.querySelectorAll('.tab').forEach(t =>
     t.classList.toggle('active', t.dataset.tab === 'a'));
-  // gid is "volume:id"; find entry by gid first, fall back to bare id for legacy links
   let e = state.entries.find(x => x.gid === gid);
   if (!e) e = state.entries.find(x => x.id === gid);
   if (!e) return;
+  if (!opts.skipPush) pushHash('#/entry/' + encodeURIComponent(e.gid));
   const grammar = e.stem ? `<span class="grammar">${e.stem}. ${escapeHtml(e.grammar || '')}</span>`
                          : `<span class="grammar">${escapeHtml(e.grammar || '')}</span>`;
   const volLabel = e.volume === 'alif' ? 'Vol. 1 (Alif)' : 'Vol. 2 (Bāʾ)';
+  const bodyHtml = renderEntryBody(e);
   document.getElementById('entry').innerHTML = `
     <div class="entry-head">
       <span class="pdf-page">${volLabel} · PDF page ${e.pdf_page_start}</span>
@@ -211,7 +221,7 @@ function selectEntry(gid) {
       <span class="translit">${escapeHtml(e.translit || '')}</span>
       ${grammar}
     </div>
-    <div class="entry-body">${e.body_html || '<em>(no body parsed)</em>'}</div>
+    <div class="entry-body">${bodyHtml}</div>
   `;
   // For cross-ref entries, turn "→target_word" patterns into clickable jumps
   if (e.is_cross_ref) {
@@ -224,22 +234,248 @@ function selectEntry(gid) {
         return target ? `→<a href="#" data-jump="${target.gid}">${word}</a>` : match;
       }
     );
-    body.querySelectorAll('a[data-jump]').forEach(a => {
-      a.addEventListener('click', ev => {
-        ev.preventDefault();
-        selectEntry(a.dataset.jump);
-      });
-    });
   }
+  // Hook up all data-jump links (cross-references inside entries)
+  document.querySelectorAll('#entry a[data-jump]').forEach(a => {
+    a.addEventListener('click', ev => {
+      ev.preventDefault();
+      selectEntry(a.dataset.jump);
+    });
+  });
+  // Hook up Greek-word → glossary links
+  document.querySelectorAll('#entry a[data-gloss]').forEach(a => {
+    a.addEventListener('click', ev => {
+      ev.preventDefault();
+      selectGloss(parseInt(a.dataset.gloss, 10));
+    });
+  });
   document.querySelectorAll('#list li').forEach(li =>
     li.classList.toggle('selected', li.dataset.id === e.gid));
   const sel = document.querySelector('#list li.selected');
   if (sel) sel.scrollIntoView({ block: 'nearest' });
 }
 
-function selectGloss(idx) {
+// Render an entry body using the new paragraphs[] structure if available,
+// falling back to legacy body_html.
+function renderEntryBody(e) {
+  if (!e.paragraphs || e.paragraphs.length === 0) {
+    return e.body_html || '<em>(no body parsed)</em>';
+  }
+  const out = [];
+  for (const para of e.paragraphs) {
+    out.push(renderParagraph(para, e));
+  }
+  return out.join('\n');
+}
+
+function renderParagraph(para, entry) {
+  const headerHtml = para.header
+    ? `<div class="para-header">${markScripts(escapeHtml(para.header))}</div>`
+    : '';
+  const cardsHtml = para.belegstellen.map((bs, i) => renderBelegstelle(bs, para, entry, i)).join('\n');
+  return `
+    <section class="para" data-num="${escapeHtml(para.num)}" id="para-${escapeHtml(para.num)}">
+      <header class="para-num"><span class="num">${escapeHtml(para.num)}.</span></header>
+      ${headerHtml}
+      <div class="belegstellen">${cardsHtml || '<em class="empty">(no evidence units)</em>'}</div>
+    </section>
+  `;
+}
+
+// Build a normalised-Greek-lemma → glossary index. Cached after first use.
+function buildGlossaryIndex() {
+  if (state._glossaryIndex) return state._glossaryIndex;
+  const idx = new Map();
+  for (let i = 0; i < state.glossary.length; i++) {
+    const g = state.glossary[i];
+    const lemma = extractGreekLemma(g.headword || '');
+    if (!lemma || lemma.length < 2) continue;
+    const key = normGreek(lemma);
+    if (!idx.has(key)) idx.set(key, []);
+    idx.get(key).push(i);
+  }
+  state._glossaryIndex = idx;
+  return idx;
+}
+
+function extractGreekLemma(headword) {
+  // The headword typically starts with an optional bullet then the lemma.
+  const m = headword.replace(/^[●◆]\s*/, '').match(/^[Ͱ-Ͽἀ-῿\-]+/);
+  return m ? m[0] : '';
+}
+
+function normGreek(s) {
+  return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+}
+
+// Linkify any Greek word that matches a glossary lemma. Operates on text that
+// has ALREADY been HTML-escaped, so we can safely insert <a> tags.
+function linkifyGreek(escapedText, preferredVolume) {
+  const idx = buildGlossaryIndex();
+  return escapedText.replace(
+    /[Ͱ-Ͽἀ-῿]+/g,
+    (word) => {
+      if (word.length < 2) return word;
+      const key = normGreek(word);
+      if (!idx.has(key)) return word;
+      const matches = idx.get(key);
+      // Prefer same-volume; fall back to first match
+      let gIdx = matches[0];
+      if (preferredVolume) {
+        const same = matches.find(i => state.glossary[i].volume === preferredVolume);
+        if (same !== undefined) gIdx = same;
+      }
+      return `<a class="gr-link" href="#/gloss/${gIdx}" data-gloss="${gIdx}">${word}</a>`;
+    }
+  );
+}
+
+function renderBelegstelle(bs, para, entry, idx) {
+  const letter = String.fromCharCode(97 + idx); // a, b, c, ...
+  const contClass = bs._continuation ? 'continuation' : '';
+  const refOnly = !bs.greek && !bs.arabic;
+  const refOnlyClass = refOnly ? 'ref-only' : '';
+
+  // Source line — clickable to filter by author+work
+  let sourceLine = '';
+  if (bs.author || bs.source_raw) {
+    const authorWork = (bs.author || '') + (bs.work ? ' ' + bs.work : '');
+    const author = bs.author ? `<span class="bs-author">${escapeHtml(bs.author)}</span>` : '';
+    const work = bs.work ? `, <span class="bs-work">${escapeHtml(bs.work)}</span>` : '';
+    const ref = bs.reference ? ` <span class="bs-ref">${escapeHtml(bs.reference)}</span>` : '';
+    const filterUrl = '#/source/' + encodeURIComponent(authorWork.trim());
+    sourceLine = `<a class="bs-source" href="${filterUrl}" data-source="${escapeHtml(authorWork.trim())}" title="Show all citations from this source">${author}${work}${ref}</a>`;
+  }
+
+  // Version badge
+  const versionBadge = bs.version
+    ? `<span class="bs-version" title="Manuscript version">v. ${escapeHtml(bs.version)}</span>`
+    : '';
+
+  const greekHtml = bs.greek
+    ? `<div class="bs-greek" lang="grc">${linkifyGreek(escapeHtml(bs.greek), entry.volume)}</div>`
+    : '';
+  const arabicHtml = bs.arabic
+    ? `<div class="bs-arabic">${escapeHtml(bs.arabic)}</div>`
+    : '';
+
+  const refRow = (bs.arabic_ref || bs.notes)
+    ? `<div class="bs-meta">
+         ${bs.arabic_ref ? `<span class="bs-aref">Ar. ref: ${escapeHtml(bs.arabic_ref)}</span>` : ''}
+         ${bs.notes ? `<span class="bs-notes">${escapeHtml(bs.notes)}</span>` : ''}
+       </div>`
+    : '';
+
+  return `
+    <article class="bs ${contClass} ${refOnlyClass}" id="bs-${escapeHtml(bs.id)}">
+      <header class="bs-head">
+        <span class="bs-label">${escapeHtml(para.num)}<sub>${letter}</sub></span>
+        ${sourceLine}
+        ${versionBadge}
+      </header>
+      ${greekHtml}
+      ${arabicHtml}
+      ${refRow}
+    </article>
+  `;
+}
+
+function renderEvidencePanel(ul, qNorm, qRaw) {
+  if (!qNorm) {
+    ul.innerHTML = `<li class="root-divider">Type a query above to search evidence units</li>
+      <li class="root-divider">(searches inside Greek &amp; Arabic of every Belegstelle)</li>`;
+    return;
+  }
+  const inVolume = (item) => state.volume === 'all' || item.volume === state.volume;
+  const matches = [];
+  for (const m of allBelegstellen()) {
+    if (!inVolume(m.entry)) continue;
+    const hay = [m.bs.greek, m.bs.arabic, m.bs.source_raw, m.bs.author, m.bs.work].join(' ');
+    const hayN = normalize(hay);
+    if (hayN.includes(qNorm) || (qRaw && hay.includes(qRaw))) {
+      matches.push(m);
+      if (matches.length >= 300) break;
+    }
+  }
+  ul.innerHTML = `
+    <li class="root-divider">${matches.length}${matches.length === 300 ? '+' : ''} matching Belegstellen</li>
+    ${matches.map(m => {
+      const gid = m.entry.gid;
+      const fragment = 'bs-' + m.bs.id;
+      const preview = (m.bs.greek || m.bs.arabic || '').slice(0, 80);
+      return `<li data-jump-bs="${escapeHtml(gid)}|${escapeHtml(fragment)}" class="ev-item">
+        <span class="l-ar">${escapeHtml(m.entry.translit || m.entry.id)} §${escapeHtml(m.paragraph.num)}</span>
+        <span class="l-tr">${escapeHtml(preview)}</span>
+      </li>`;
+    }).join('')}`;
+  ul.querySelectorAll('li[data-jump-bs]').forEach(li => {
+    li.addEventListener('click', () => {
+      const [gid, fragment] = li.dataset.jumpBs.split('|');
+      applyHash('#/entry/' + encodeURIComponent(gid) + '/' + fragment);
+    });
+  });
+}
+
+function renderBrowsePanel(ul) {
+  // Group A: by Arabic root
+  // Group B: by ancient author (extracted from belegstellen)
+  const roots = new Map(); // root_arabic → [entries]
+  for (const e of state.entries) {
+    if (state.volume !== 'all' && e.volume !== state.volume) continue;
+    if (!roots.has(e.root)) roots.set(e.root, []);
+    roots.get(e.root).push(e);
+  }
+  const authors = new Map(); // 'author work' → count
+  for (const m of allBelegstellen()) {
+    if (state.volume !== 'all' && m.entry.volume !== state.volume) continue;
+    if (!m.bs.author) continue;
+    const key = (m.bs.author + (m.bs.work ? ' ' + m.bs.work : '')).trim();
+    authors.set(key, (authors.get(key) || 0) + 1);
+  }
+  const sortedAuthors = [...authors.entries()].sort((a, b) => b[1] - a[1]);
+
+  ul.innerHTML = `
+    <li class="root-divider">By Arabic root (${roots.size})</li>
+    ${[...roots.entries()].map(([r, es]) => `
+      <li data-browse-root="${escapeHtml(r)}">
+        <span class="l-ar">${escapeHtml(r)}</span>
+        <span class="l-tr">${es.length}</span>
+      </li>
+    `).join('')}
+    <li class="root-divider">By ancient author / work (${sortedAuthors.length})</li>
+    ${sortedAuthors.slice(0, 80).map(([a, n]) => `
+      <li data-browse-source="${escapeHtml(a)}">
+        <span class="l-tr">${escapeHtml(a)}</span>
+        <span class="l-ar">${n}</span>
+      </li>
+    `).join('')}
+    ${sortedAuthors.length > 80 ? `<li class="root-divider">… ${sortedAuthors.length - 80} more (long tail)</li>` : ''}
+  `;
+  ul.querySelectorAll('li[data-browse-root]').forEach(li => {
+    li.addEventListener('click', () => {
+      // Switch back to Part A, search by root
+      state.tab = 'a';
+      document.querySelectorAll('.tab').forEach(t =>
+        t.classList.toggle('active', t.dataset.tab === 'a'));
+      // Render Part A scoped to this root by faking a search
+      const root = li.dataset.browseRoot;
+      const targets = state.entries.filter(e => e.root === root);
+      if (targets.length === 1) selectEntry(targets[0].gid);
+      else if (targets.length > 0) selectEntry(targets[0].gid);
+    });
+  });
+  ul.querySelectorAll('li[data-browse-source]').forEach(li => {
+    li.addEventListener('click', () => {
+      applyHash('#/source/' + encodeURIComponent(li.dataset.browseSource));
+    });
+  });
+}
+
+function selectGloss(idx, opts = {}) {
   const g = state.glossary[idx];
+  if (!g) return;
   state.selectedId = 'g_' + idx;
+  if (!opts.skipPush) pushHash('#/gloss/' + idx);
   // Each raw ref may bundle multiple refs separated by commas.
   // Resolve to an entry in the SAME volume first; fall back to other volume.
   const refLinks = (g.refs || []).flatMap(r => {
@@ -324,7 +560,142 @@ document.addEventListener('keydown', (e) => {
   }
 });
 
-loadData().catch(err => {
+// ---------- URL routing ----------
+// Hash format:
+//   #/                     → welcome screen
+//   #/entry/alif:abadun    → open entry in Part A
+//   #/entry/alif:abadun/7.4 → open entry, scroll to paragraph 7.4
+//   #/entry/alif:abadun/bs-arun_6-7.4-b  → open entry, highlight specific belegstelle
+//   #/gloss/12             → open glossary entry by index
+//   #/search/<query>       → run a search
+//   #/vol/ba               → set volume filter
+function applyHash(hash, opts = {}) {
+  const h = hash.replace(/^#\/?/, '');
+  if (!h) {
+    // welcome screen
+    state.selectedId = null;
+    return;
+  }
+  const parts = h.split('/');
+  if (parts[0] === 'entry' && parts[1]) {
+    state.tab = 'a';
+    document.querySelectorAll('.tab').forEach(t =>
+      t.classList.toggle('active', t.dataset.tab === 'a'));
+    selectEntry(parts[1], { skipPush: true });
+    if (parts[2]) {
+      // Defer to let the entry render fully
+      setTimeout(() => {
+        const id = parts[2].startsWith('bs-') ? parts[2] : 'para-' + parts[2];
+        const target = document.getElementById(id);
+        if (!target) return;
+        // Scroll the main pane (overflow-y: auto). Use the 2-arg form because
+        // the smooth-behavior option is intercepted in some embed contexts.
+        const main = document.querySelector('main');
+        if (main) main.scrollTo(0, Math.max(0, target.offsetTop - 12));
+        else target.scrollIntoView();
+        if (parts[2].startsWith('bs-')) {
+          document.querySelectorAll('.bs.highlighted').forEach(el => el.classList.remove('highlighted'));
+          target.classList.add('highlighted');
+        }
+      }, 80);
+    }
+  } else if (parts[0] === 'source' && parts[1]) {
+    showSourceView(decodeURIComponent(parts[1]));
+    return;
+  } else if (parts[0] === 'gloss' && parts[1]) {
+    state.tab = 'b';
+    document.querySelectorAll('.tab').forEach(t =>
+      t.classList.toggle('active', t.dataset.tab === 'b'));
+    selectGloss(parseInt(parts[1], 10), { skipPush: true });
+  } else if (parts[0] === 'search' && parts[1]) {
+    state.query = decodeURIComponent(parts[1]);
+    document.getElementById('q').value = state.query;
+    renderList();
+  } else if (parts[0] === 'vol' && parts[1]) {
+    state.volume = parts[1];
+    document.getElementById('vol').value = state.volume;
+    renderList();
+  }
+}
+
+function pushHash(hash) {
+  if (location.hash !== hash) {
+    history.pushState({}, '', hash);
+  }
+}
+
+// Iterate over every belegstelle in the data and yield matches for a predicate.
+function* allBelegstellen() {
+  for (const e of state.entries) {
+    if (!e.paragraphs) continue;
+    for (const p of e.paragraphs) {
+      for (const bs of p.belegstellen) {
+        yield { bs, paragraph: p, entry: e };
+      }
+    }
+  }
+}
+
+function showSourceView(sourceLabel) {
+  // Strip volume scope from source label normalisation
+  const target = sourceLabel.trim().toLowerCase();
+  const matches = [];
+  for (const m of allBelegstellen()) {
+    const candidate = ((m.bs.author || '') + ' ' + (m.bs.work || '')).trim().toLowerCase();
+    if (candidate === target) matches.push(m);
+  }
+  const html = `
+    <div class="source-view">
+      <header class="source-header">
+        <span class="source-label">Citations from</span>
+        <h2>${escapeHtml(sourceLabel)}</h2>
+        <p class="source-meta">${matches.length} belegstelle${matches.length === 1 ? '' : 'n'}</p>
+      </header>
+      <div class="source-list">
+        ${matches.slice(0, 200).map(m => `
+          <article class="source-item">
+            <header class="source-item-head">
+              <a class="source-item-ref" href="#/entry/${encodeURIComponent(m.entry.gid)}/bs-${escapeHtml(m.bs.id)}"
+                 data-jump-bs="${escapeHtml(m.entry.gid)}|bs-${escapeHtml(m.bs.id)}">
+                <strong>${escapeHtml(m.entry.translit || m.entry.arabic || m.entry.id)}</strong>
+                <span class="source-item-section">§${escapeHtml(m.paragraph.num)}</span>
+                · ${escapeHtml(m.bs.reference || '')}
+              </a>
+            </header>
+            ${m.bs.greek ? `<div class="bs-greek" lang="grc">${linkifyGreek(escapeHtml(m.bs.greek), m.entry.volume)}</div>` : ''}
+            ${m.bs.arabic ? `<div class="bs-arabic">${escapeHtml(m.bs.arabic)}</div>` : ''}
+          </article>
+        `).join('')}
+        ${matches.length > 200 ? `<p class="source-truncated">+${matches.length - 200} more</p>` : ''}
+      </div>
+    </div>
+  `;
+  document.getElementById('entry').innerHTML = html;
+  document.querySelectorAll('a[data-jump-bs]').forEach(a => {
+    a.addEventListener('click', ev => {
+      ev.preventDefault();
+      const [gid, fragment] = a.dataset.jumpBs.split('|');
+      applyHash('#/entry/' + encodeURIComponent(gid) + '/' + fragment);
+    });
+  });
+  document.querySelectorAll('#entry a[data-gloss]').forEach(a => {
+    a.addEventListener('click', ev => {
+      ev.preventDefault();
+      selectGloss(parseInt(a.dataset.gloss, 10));
+    });
+  });
+  state.selectedId = 'source:' + sourceLabel;
+  document.querySelectorAll('#list li').forEach(li => li.classList.remove('selected'));
+}
+
+// Both events: popstate fires on back/forward when pushState was used; hashchange
+// fires on any hash change (more reliable in some embed contexts).
+window.addEventListener('popstate', () => applyHash(location.hash));
+window.addEventListener('hashchange', () => applyHash(location.hash));
+
+loadData().then(() => {
+  if (location.hash) applyHash(location.hash);
+}).catch(err => {
   document.getElementById('entry').innerHTML =
     `<div class="welcome"><h2>Couldn't load data</h2><p>${err.message}</p></div>`;
 });
