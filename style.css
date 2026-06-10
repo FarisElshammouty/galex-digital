@@ -20,7 +20,7 @@ html, body {
   padding: 0;
   background: var(--bg);
   color: var(--ink);
-  font-family: "Brill", "Charis SIL", "Gentium Plus", "Times New Roman", serif;
+  font-family: "Gentium Plus", "Brill", "Charis SIL", "Times New Roman", serif;
   font-size: 16px;
   line-height: 1.55;
 }
@@ -156,7 +156,7 @@ nav#sidebar {
 #list .l-gr {
   font-size: 16px;
   color: var(--gr-color);
-  font-family: "Brill", "Gentium Plus", serif;
+  font-family: "Gentium Plus", "Brill", serif;
 }
 #list .root-divider {
   padding: 6px 16px 2px;
@@ -352,7 +352,7 @@ article#entry {
 }
 .bs-greek {
   color: var(--gr-color);
-  font-family: "Brill", "Gentium Plus", "GFS Didot", serif;
+  font-family: "Gentium Plus", "Brill", "GFS Didot", serif;
   font-size: 17px;
   margin: 4px 0;
   line-height: 1.45;
@@ -408,7 +408,7 @@ article#entry {
 
 .gr {
   color: var(--gr-color);
-  font-family: "Brill", "Gentium Plus", "GFS Didot", serif;
+  font-family: "Gentium Plus", "Brill", "GFS Didot", serif;
 }
 .ar {
   color: var(--ar-color);
@@ -421,7 +421,7 @@ article#entry {
 .glossary-entry .headword {
   font-size: 26px;
   color: var(--gr-color);
-  font-family: "Brill", "Gentium Plus", serif;
+  font-family: "Gentium Plus", "Brill", serif;
   margin-bottom: 8px;
 }
 .glossary-entry .body {
@@ -492,3 +492,81 @@ footer {
 
 /* Forms tab list rows */
 #list li .l-tr em { font-style: italic; }
+
+/* Quick wins: cite button, footer links, about page, search marks */
+.cite-btn {
+  margin-left: 10px;
+  font-size: 11px;
+  padding: 2px 8px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--panel);
+  color: var(--accent);
+  cursor: pointer;
+  font-family: inherit;
+}
+.cite-btn:hover { background: var(--accent-soft); }
+footer { display: flex; justify-content: space-between; align-items: center; }
+.footer-links a { color: var(--accent); text-decoration: none; }
+.footer-links a:hover { text-decoration: underline; }
+mark {
+  background: #fde68a;
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 1px;
+}
+.signs-table { border-collapse: collapse; margin: 8px 0; }
+.signs-table td { border: 1px solid var(--border); padding: 4px 10px; font-size: 14px; }
+.signs-table .sign-cell { font-size: 16px; text-align: center; width: 48px; color: var(--accent); }
+.about-page h3 { color: var(--accent); margin-top: 22px; }
+
+/* Parallel manuscript versions inside a Belegstelle */
+.bs-versions { display: flex; flex-direction: column; gap: 6px; margin-top: 4px; }
+.bs-version-row {
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 6px 10px;
+}
+.bs-version-chip {
+  flex: 0 0 auto;
+  font-size: 11px;
+  font-weight: 700;
+  color: #92400e;
+  background: #fef3c7;
+  border: 1px solid #fcd34d;
+  border-radius: 4px;
+  padding: 1px 7px;
+  white-space: nowrap;
+}
+.bs-version-text { font-size: 15px; font-style: italic; }
+
+/* Knowledge graph */
+.graph-svg {
+  width: 100%;
+  height: auto;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  margin-top: 12px;
+}
+.graph-svg .gnode:hover circle { fill-opacity: 1; stroke: #fbbf24; }
+.graph-legend {
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+  font-size: 13px;
+  color: var(--muted);
+  margin-top: 10px;
+}
+.graph-legend i {
+  display: inline-block;
+  width: 11px; height: 11px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.graph-view .hint { color: var(--muted); font-size: 13px; }
+.graph-view .hint a { color: var(--accent); }

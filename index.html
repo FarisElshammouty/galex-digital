@@ -3,7 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GALex Digital — A Greek and Arabic Lexicon</title>
+<title>GALex Digital — A Greek and Arabic Lexicon (Alif &amp; Bāʾ)</title>
+<meta name="description" content="Digital companion to A Greek and Arabic Lexicon (GALex), vols. 1–2, ed. Arnzen, Endress & Gutas (Brill). Searchable entries, evidence units, glossary, and morphological register.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Gentium+Plus:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -29,6 +33,7 @@
     <button data-tab="evidence" class="tab">Evidence</button>
     <button data-tab="forms" class="tab" title="Morphological register: look up any inflected Arabic form">Forms</button>
     <button data-tab="browse" class="tab">Browse</button>
+    <button data-tab="graph" class="tab" title="Relation graph: Arabic lemma ↔ Greek correspondences ↔ sources">Graph</button>
   </div>
   <ul id="list"></ul>
 </nav>
@@ -47,8 +52,13 @@
 
 <footer>
   <span id="stats"></span>
+  <span class="footer-links">
+    <a href="#/about">About &amp; how to cite</a> ·
+    <a href="https://github.com/FarisElshammouty/galex-digital" target="_blank" rel="noopener">Data &amp; code</a>
+  </span>
 </footer>
 
 <script src="app.js"></script>
+<script src="graph.js"></script>
 </body>
 </html>

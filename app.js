@@ -140,6 +140,10 @@ function renderList() {
     renderFormsPanel(ul, qNorm);
     return;
   }
+  if (state.tab === 'graph') {
+    renderGraphPanel(ul, qNorm);
+    return;
+  }
 
   if (state.tab === 'a') {
     const filtered = state.entries.filter(e => inVolume(e) && matchEntry(e, qNorm, q));
@@ -239,7 +243,10 @@ function selectEntry(gid, opts = {}) {
   const bodyHtml = renderEntryBody(e);
   document.getElementById('entry').innerHTML = `
     <div class="entry-head">
-      <span class="pdf-page">${volLabel} · PDF page ${e.pdf_page_start}</span>
+      <span class="pdf-page">${volLabel} · PDF page ${e.pdf_page_start}
+        <button class="cite-btn" id="cite-btn" title="Copy citation">❞ Cite</button>
+        <button class="cite-btn" id="graph-btn" title="Show relation graph">◉ Graph</button>
+      </span>
       <div class="root">root ${escapeHtml(e.root || '')}</div>
       <span class="arabic">${escapeHtml(e.arabic || '')}</span>
       <span class="translit">${escapeHtml(e.translit || '')}</span>
@@ -247,6 +254,8 @@ function selectEntry(gid, opts = {}) {
     </div>
     <div class="entry-body">${bodyHtml}</div>
   `;
+  document.getElementById('cite-btn')?.addEventListener('click', () => copyCitation(e));
+  document.getElementById('graph-btn')?.addEventListener('click', () => showGraph(e.gid));
   // For cross-ref entries, turn "→target_word" patterns into clickable jumps
   if (e.is_cross_ref) {
     const body = document.querySelector('.entry-body');
@@ -277,13 +286,39 @@ function selectEntry(gid, opts = {}) {
     li.classList.toggle('selected', li.dataset.id === e.gid));
   const sel = document.querySelector('#list li.selected');
   if (sel) sel.scrollIntoView({ block: 'nearest' });
+  // Highlight active search hits inside the entry
+  if (state.query) {
+    highlightMatches(document.getElementById('entry'), normalize(state.query));
+  }
 }
 
-// Render an entry body using the new paragraphs[] structure if available,
-// falling back to legacy body_html.
+// Printed-page offsets: Part A printed page 1 corresponds to these PDF pages.
+const PRINT_OFFSET = { alif: 58, ba: 46 };
+
+function copyCitation(e) {
+  const vol = e.volume === 'alif'
+    ? { n: '1 (Alif)', year: '2020' }
+    : { n: '2 (Bāʾ)', year: '2021' };
+  const printed = e.pdf_page_start - (PRINT_OFFSET[e.volume] ?? 0);
+  const cite = `Rüdiger Arnzen, Gerhard Endress & Dimitri Gutas (eds.), ` +
+    `A Greek and Arabic Lexicon (GALex), vol. ${vol.n}, 2nd rev. ed., ` +
+    `Leiden: Brill, ${vol.year}, s.v. ${e.translit}, p. ${printed > 0 ? printed : '?'}.`;
+  navigator.clipboard.writeText(cite).then(() => {
+    const btn = document.getElementById('cite-btn');
+    if (btn) { btn.textContent = '✓ Copied'; setTimeout(() => btn.textContent = '❞ Cite', 1500); }
+  }).catch(() => prompt('Copy citation:', cite));
+}
+
+// Render an entry body using the paragraphs[] structure; entries whose body
+// didn't parse into paragraphs (cross-refs, irregular layouts) fall back to
+// the raw body text with script marking.
 function renderEntryBody(e) {
   if (!e.paragraphs || e.paragraphs.length === 0) {
-    return e.body_html || '<em>(no body parsed)</em>';
+    if (e.body_text) {
+      return `<div class="preamble"><span class="cite">${
+        markScripts(escapeHtml(e.body_text))}</span></div>`;
+    }
+    return '<em>(no body parsed)</em>';
   }
   const out = [];
   for (const para of e.paragraphs) {
@@ -354,6 +389,58 @@ function linkifyGreek(escapedText, preferredVolume) {
   );
 }
 
+// Highlight occurrences of the active search query inside a rendered entry.
+// Diacritic-insensitive: walks text nodes building a normalized-to-original
+// index map so 'battata' highlights 'l-battata' and 'αιδιος' hits 'ἀΐδιος'.
+function highlightMatches(container, qNorm) {
+  if (!qNorm || qNorm.length < 2) return;
+  const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, {
+    acceptNode(n) {
+      if (!n.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
+      if (n.parentElement.closest('mark, script, style')) return NodeFilter.FILTER_REJECT;
+      return NodeFilter.FILTER_ACCEPT;
+    }
+  });
+  const nodes = [];
+  while (walker.nextNode()) nodes.push(walker.currentNode);
+
+  let marks = 0;
+  for (const node of nodes) {
+    if (marks > 300) break;
+    const text = node.nodeValue;
+    // Build normalized string + map back to original indices
+    const map = [];
+    let norm = '';
+    for (let i = 0; i < text.length; i++) {
+      const n = normalize(text[i]);
+      for (const ch of n) { norm += ch; map.push(i); }
+    }
+    const ranges = [];
+    let from = 0, pos;
+    while ((pos = norm.indexOf(qNorm, from)) !== -1) {
+      const startO = map[pos];
+      const endO = map[pos + qNorm.length - 1] + 1;
+      ranges.push([startO, endO]);
+      from = pos + qNorm.length;
+      if (ranges.length > 20) break;
+    }
+    if (!ranges.length) continue;
+    // Rebuild the node with <mark> wrappers (right-to-left keeps offsets valid)
+    const frag = document.createDocumentFragment();
+    let cursor = 0;
+    for (const [s, e] of ranges) {
+      if (s > cursor) frag.appendChild(document.createTextNode(text.slice(cursor, s)));
+      const mk = document.createElement('mark');
+      mk.textContent = text.slice(s, e);
+      frag.appendChild(mk);
+      cursor = e;
+      marks++;
+    }
+    if (cursor < text.length) frag.appendChild(document.createTextNode(text.slice(cursor)));
+    node.parentNode.replaceChild(frag, node);
+  }
+}
+
 // Wrap GALex editorial signs (▬ * ⊗ ! ≅ ≠ ¶ ●) with hover tooltips explaining
 // their meaning, sourced from the official Signs list.
 function signTooltips(html) {
@@ -405,9 +492,17 @@ function renderBelegstelle(bs, para, entry, idx) {
   const greekHtml = bs.greek
     ? `<div class="bs-greek" lang="grc">${linkifyGreek(escapeHtml(bs.greek), entry.volume)}</div>`
     : '';
-  const arabicHtml = bs.arabic
-    ? `<div class="bs-arabic">${escapeHtml(bs.arabic)}</div>`
-    : '';
+  // Parallel manuscript versions render as stacked, labelled rows
+  let arabicHtml = '';
+  if (bs.arabic_versions && bs.arabic_versions.length >= 2) {
+    arabicHtml = `<div class="bs-versions">` + bs.arabic_versions.map(v => `
+      <div class="bs-version-row">
+        <span class="bs-version-chip" title="Manuscript / version">${escapeHtml(v.label)}</span>
+        <span class="bs-version-text">${escapeHtml(v.text)}</span>
+      </div>`).join('') + `</div>`;
+  } else if (bs.arabic) {
+    arabicHtml = `<div class="bs-arabic">${escapeHtml(bs.arabic)}</div>`;
+  }
 
   const refRow = (bs.arabic_ref || bs.notes)
     ? `<div class="bs-meta">
@@ -718,6 +813,16 @@ function applyHash(hash, opts = {}) {
         }
       }, 80);
     }
+  } else if (parts[0] === 'about') {
+    showAbout();
+    return;
+  } else if (parts[0] === 'graph' && parts[1]) {
+    state.tab = 'graph';
+    document.querySelectorAll('.tab').forEach(t =>
+      t.classList.toggle('active', t.dataset.tab === 'graph'));
+    renderList();
+    showGraph(decodeURIComponent(parts[1]), { skipPush: true });
+    return;
   } else if (parts[0] === 'source' && parts[1]) {
     showSourceView(decodeURIComponent(parts[1]));
     return;
@@ -819,6 +924,44 @@ function showSourceView(sourceLabel) {
     });
   });
   state.selectedId = 'source:' + sourceLabel;
+  document.querySelectorAll('#list li').forEach(li => li.classList.remove('selected'));
+}
+
+function showAbout() {
+  const signRows = Object.entries(state.signsDict || {}).map(([sign, expl]) =>
+    `<tr><td class="sign-cell">${escapeHtml(sign)}</td><td>${escapeHtml(expl)}</td></tr>`).join('');
+  document.getElementById('entry').innerHTML = `
+    <div class="welcome about-page">
+      <h2>About GALex Digital</h2>
+      <p>This is an independent digital companion to <em>A Greek and Arabic Lexicon (GALex):
+      Materials for a Dictionary of the Mediaeval Translations from Greek into Arabic</em>,
+      edited by Rüdiger Arnzen, Gerhard Endress and Dimitri Gutas — Vol. 1 (Alif), 2nd rev. ed.,
+      Brill 2020; Vol. 2 (Bāʾ), 2nd rev. ed., Brill 2021 (Handbook of Oriental Studies I.11).</p>
+      <p>All scholarly content — entries, citations, analyses — is the work of the GALex
+      editors and © Koninklijke Brill NV. This site is a non-commercial research aid;
+      evidence-unit segmentation follows the project's internal rules
+      (R. Arnzen, <em>Beginnings and endings of Belegstellen</em>, 2020).</p>
+
+      <h3>Anatomy of an entry</h3>
+      <p>Each Arabic lemma is organised in numbered paragraphs, one per Greek correspondence.
+      Inside each paragraph, every <strong>evidence unit (Belegstelle)</strong> is shown as a card:
+      the Greek passage, its Arabic rendering (in transliteration, as printed), the source
+      (clickable — opens all citations of that work plus its full bibliography), the precise
+      reference, and the manuscript version where relevant.</p>
+
+      <h3>Editorial signs</h3>
+      <table class="signs-table">${signRows}</table>
+
+      <h3>How to cite</h3>
+      <p>Always cite the printed lexicon, not this site. Every entry has a
+      <em>❞ Cite</em> button that copies a full reference including the printed page.</p>
+
+      <h3>Data &amp; code</h3>
+      <p>Parsed datasets (JSON) and the parser/site source are at
+      <a href="https://github.com/FarisElshammouty/galex-digital" target="_blank" rel="noopener">github.com/FarisElshammouty/galex-digital</a>.
+      The morphological register (Forms tab) derives from GALex working files.</p>
+    </div>`;
+  state.selectedId = 'about';
   document.querySelectorAll('#list li').forEach(li => li.classList.remove('selected'));
 }
 
