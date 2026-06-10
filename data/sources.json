@@ -1,0 +1,1530 @@
+{
+ "sources": {
+  "Aelian. Tact.": {
+   "abbrev": "Aelian. Tact.",
+   "greek_edition": "Aelianus: Tactica theoria. – Aelianus’ Theorie der Taktik. Ed. H. Köchly et W. Rustow. Leipzig 1855. (Griechische Kriegsschriftsteller II, 1.) — Ref. to | page | a/b | line | .",
+   "arabic_titles": [
+    "Fī l-Ṣufūf wa-asmāʾihā wa-aʿdādihā ʿalā qawl al- mutaqaddimīn."
+   ],
+   "arabic_editions": [
+    "Wüstenfeld, Ferdinand: Die arabische Übersetzung der Taktik des Aelianus. In: Ferdinand Wüstenfeld: Das Heerwesen der Muhammedaner nach dem Arabischen. Göttingen 1880. (Abhandlungen der Königlichen Gesellschaft der Wissenschaften zu Göttingen: Historisch-philologische Classe; 26. 1880, Abh. 1 und 2.) Repr. in: Ferdinand Wüstenfeld: Schriften zur arabisch-islamischen Geschichte. Vol. II. Hrsg. von Fuat Sezgin. Frankfurt a.M. 1986, pp. 45– 109. — Ref. to | page | . | line | of the original printing (separate folios of the Arabic text; for the reprint, add 77)."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Dain = Alphonse Dain: Histoire du texte d’Élien le tacticien des origines à la fin du moyen âge. Paris 1946."
+   ],
+   "other": []
+  },
+  "Alex. An. mant. [Lib. arb.]": {
+   "abbrev": "Alex. An. mant. [Lib. arb.]",
+   "greek_edition": "Alexander Aphrodisiensis: De anima cum mantissa. Ed. Ivo Bruns. Berolini 1887. (Supplementum Aristotelicum. 2,1.) ▪ Mantissa, pp. 172.16–175.32 [De libero arbitrio] — Ref. to | page | . | line |. R.W. Sharples: Alexander of Aphrodisias on Fate. London 1983, pp. 214–7; adnot. pp. 273–4. — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "Maqāla fī l-Istiṭāʿa."
+   ],
+   "arabic_editions": [
+    "Ruland, Hans-Jochen: Die arabischen Fassungen von zwei Schriften des Alexander von Aphrodisias: Über die Vorsehung und Über das liberum arbitrium. Saarbrücken 1976. (Phil. Diss. Saarbrücken, 1975.) — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Badawī = Badawī, ʿAbd-al-Raḥmān [ed.]: Commentaires sur Aristote perdus en grec et autres épîtres. Beyrouth 1971, pp. 80–82."
+   ],
+   "other": []
+  },
+  "Alex. An. mant. [Vis.]": {
+   "abbrev": "Alex. An. mant. [Vis.]",
+   "greek_edition": "Alexander Aphrodisiensis: De anima cum mantissa. Ed. Ivo Bruns. Berolini 1887. (Supplementum Aristotelicum. 2,1.) / Mantissa, pp. 141.29–146.17, 147.5–25: De visu. — Ref. to | page| . |line| .",
+   "arabic_titles": [
+    "Maqāla fī kayfa yakūn al-ibṣār ʿalā maḏhab Arisṭāṭālīs."
+   ],
+   "arabic_editions": [
+    "Gätje, Helmut: Studien zur Überlieferung der aristotelischen Psychologie im Islam. Heidelberg 1971 (Annales Universitatis Saraviensis. Reihe: Philos. Fakultät. Bd. 11), pp. 140–72: ‘Die Schrift des Alexander von Aphrodisias über das Sehen’. — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page|",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Alex. qu. I 2 [Color]": {
+   "abbrev": "Alex. qu. I 2 [Color]",
+   "greek_edition": "Alexander Aphrodisiensis: Scripta minora reliqua. Ed. Ivo Bruns. Berolini 1892 (Supplementum Aristotelicum. 2,2), pp. 5.1–7.19. Quaestio I 2: Περὶ χρώματός τινα [De colore]. — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "Maqāla fī l-Lawn wa-ayy šayʾ huwa."
+   ],
+   "arabic_editions": [
+    "Gätje, Helmut: Die arabische Übersetzung der Schrift des Alexander von Aphrodisias über die Farbe. Göttingen 1967. (Nachrichten der Akademie der Wissenschaften in Göttingen. I: Phil.-hist. Kl. Jg. 1967. Nr. 10.) — Ref. to | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | line |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Alex. qu. I 5 [Auct.]": {
+   "abbrev": "Alex. qu. I 5 [Auct.]",
+   "greek_edition": "Alexander Aphrodisiensis: Scripta minora reliqua. Ed. Ivo Bruns. Berolini 1892 (Supplementum Aristotelicum. 2,2), pp. 13.9–32. Quaestio I 5: : Διὰ τί ἡ αὔξησις κατὰ τὸ εἶδος μόνον ἀλλ’ οὐχὶ κατὰ τὴν ὕλην [De auctu]. — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "Maqāla fī anna l-Nušūʾ wal-namāʾ yakūnān fī l-ṣūra lā fī l- hayūlā."
+   ],
+   "arabic_editions": [
+    "Ruland, Hans-Jochen: Die arabische Übersetzung der Schrift des Alexander von Aphrodisias über das Wachstum <Quaestio I 5>. Göttingen 1981. (Nachrichten der Akademie der Wissenschaften in Göttingen. I: Phil.-hist. Kl. Jg. 1981. Nr. 2.) — Ref. to | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | line |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Alex. qu. I 11a [Univ.]": {
+   "abbrev": "Alex. qu. I 11a [Univ.]",
+   "greek_edition": "Alexander Aphrodisiensis: Scripta minora reliqua. Ed. Ivo Bruns. Berolini 1892 (Supplementum Aristotelicum. 2,2), pp. 21.12–22.20. ▪ Quaestio I 11 a: Πῶς εἴρηται ἐν τῷ Περὶ ψυχῆς τὸ γὰρ ζῷον τὸ καθόλου ἤτοι οὐδέν ἐστιν ἢ ὕστερον [De universalibus]. — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "",
+    "Versio Abū ʿUṯmān al-Dimašqī = Maqāla fī l-Qawl Arisṭāṭālīs fī kitāb al-Nafs anna l-ḥayawān al-kullī immā allā yakūn šayʾan al-batta wa-immā an yakūn ḥudūṯuhū aḫīran."
+   ],
+   "arabic_editions": [
+    "Ruland, Hans-Jochen: Zwei arabische Fassungen der Abhandlung des Alexander von Aphrodisias über die Universalia <Quaestio I 11 a>. Göttingen 1979. (Nachrichten der Akademie der Wissenschaften in Göttingen. I: Phil.-hist. Kl. Jg. 1979. Nr. 10.) — Ref. to versio Esc. / al-Dimašqī | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Versio MS. Esc. = Maqāla fī l-Ašyāʾ al-ʿāmmiyya al- kulliyya wa-annahā laysat bi-aʿyān qāʾima.",
+    "Badawī = Badawī, ʿAbd-al-Raḥmān [ed.]: Arisṭū ʿinda l-ʿArab; 1. al- Qāhira 1947 (repr. Kuwayt 1978), pp. 279.16–280 [versio Abū ʿUṯmān]."
+   ],
+   "other": []
+  },
+  "Alex. qu. I 24 [Mat.]": {
+   "abbrev": "Alex. qu. I 24 [Mat.]",
+   "greek_edition": "Alexander Aphrodisiensis: Scripta minora reliqua. Ed. Ivo Bruns. Berolini 1892 (Supplementum Aristotelicum, 2.2), pp. 37.14–39.7. ▪ Quaestio II 11: Ἐξήγησις λέξεως ἐκ τοῦ πρώτου τῆς Φυσικῆς ἀκροάσεως Ἀριστοτέλους ἐπὶ τέλει εἰρημένης, δι᾿ ἧς λέγει εὑρεθεῖσαν τὴν ὕλην λῦσαι καὶ τὰς τῶν ἀρχαίων ἀπορίας [De materia]. — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "M. fī l-mādda wa-l-ʿadam wa-l-kawn wa-ḥall masʾalat unās min al-qudamāʾ abṭalū bihā l-kawn, min k. Arisṭūṭālis fī Samʿ al-kiyān."
+   ],
+   "arabic_editions": [
+    "Badawī, ʿAbd-al-Raḥmān [ed.]: Commentaires sur Aristote perdus en grec et autres épîtres. Beyrouth 1972, pp. 44–46. Ref. to | page | . | line | . (Occasional references only.)"
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Alex. qu. II 11 [Gener.]": {
+   "abbrev": "Alex. qu. II 11 [Gener.]",
+   "greek_edition": "Alexander Aphrodisiensis: Scripta minora reliqua. Ed. Ivo Bruns. Berolini 1892 (Supplementum Aristotelicum, 2.2), pp. 55.18–57.6. ▪ Quaestio II 11: Διὰ τί τὸ γινόμενον ἐκ τῆς στερήσεως μεταβάλλον ἅμα ἐκ τοῦ ἐναντίου αὐτοῦ μεταβάλλει [De generatione]. — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "M. fi anna l-Mukawwan iḏā staḥāla staḥāla min ḍiddihī ayḍan maʿan ʿalā raʾy Arisṭūṭālīs."
+   ],
+   "arabic_editions": [
+    "Badawī, ʿAbd-al-Raḥmān [ed.]: Arisṭū ʿind al-ʿArab. Cairo 1947, pp. 286–8, compared with MS. Istanbul, Carullah, 1279, foll. 63a24–b21. — Ref. to | page | . | line | . (Occasional references only.)"
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Alex. qu. II 19 [Mundi ord.]": {
+   "abbrev": "Alex. qu. II 19 [Mundi ord.]",
+   "greek_edition": "Alexander Aphrodisiensis: Scripta minora reliqua. Ed. Ivo Bruns. Berolini 1892 (Supplementum Aristotelicum, 2.2), pp. 63.8–28. ▪ Quaestio II 19: Ὅτι εἰ ὁ κόσμος ἀΐδιός ἐστι, τὸ δὲ κόσμῳ εἶναι αὐτῷ ἡ τάξις ἐστίν, εἴη ἂν ἐν τῇ οἰκείᾳ οὐσίᾳ αὐτοῦ καὶ τοῦτο [De mundi ordine]. — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "Faṣl fi l-ʿālam wa-ayy aǧzaʾihī taḥtāǧ fī ṯabātihā wa- dawāmihā ilā tadbīr aǧzāʾ uḫrā."
+   ],
+   "arabic_editions": [
+    "MS. Istanbul, Carullah, 1279, foll. 63b21–64a13. (Occasional references only.)"
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Alex. qu. III 3 [Sens.]": {
+   "abbrev": "Alex. qu. III 3 [Sens.]",
+   "greek_edition": "Alexander Aphrodisiensis: Scripta minora reliqua. Ed. Ivo Bruns. Berolini 1892 (Supplementum Aristotelicum. 2,2), pp. 82.21–86. ▪ Quaestio III 3: Λέξεως ἐξήγησις ἐκ τοῦ δευτέρου ὁμοίως Περὶ ψυχῆς, δι᾿ ἧς περὶ αἰσθήσεως λέγει [De sensu]. – Ref. to | page | . | line |.",
+   "arabic_titles": [
+    "Maqāla fī l-Ḥiss wa-kayfa huwa ʿalā maḏhab Arisṭū."
+   ],
+   "arabic_editions": [
+    "Ruland, Hans-Jochen [ed.]: Die arabische Übersetzung der Schrift des Alexander von Aphrodisias über die Sinneswahrnehmung. Göttingen 1978. (Nachrichten der Akademie der Wissenschaften in Göttingen. I: Phil.-hist. Kl. Jg. 1978. Nr. 5.) — Ref. to | page | . | line |."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Aristoteles": {
+   "abbrev": "Aristoteles",
+   "greek_edition": "",
+   "arabic_titles": [],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [
+    "Bonitz = Hermann Bonitz: Index Aristotelicus. Berolini 1870; repr. Graz 1955.",
+    "CWA = The Complete Works of Aristotle: the revised Oxford translation. Ed. by Jonathan Barnes. Princeton, N.J., 1981."
+   ],
+   "other": [
+    "All references of Greek texts except the Testamentum are to:",
+    "Aristotelis opera: Aristoteles graece ex recensione",
+    "Immanuelis Bekkeri. Berolini 1831, | book [chapter] | , | page",
+    "| a/b | line | ."
+   ]
+  },
+  "Arist. An. post.": {
+   "abbrev": "Arist. An. post.",
+   "greek_edition": "Aristoteles: Analytica posteriora. — Aristotelis Analytica priora et posteriora. Rec. W. D. Ross. Oxonii 1964; repr. 1982. (Scriptorum Classicorum Bibliotheca Oxoniensis.)",
+   "arabic_titles": [
+    "K. Anūlūṭīqā l-awāḫir wa-huwa l-maʿrūf bi-kitāb al-Burhān."
+   ],
+   "arabic_editions": [
+    "Badawī, ʿAbd-al-Raḥmān [ed.]: Manṭiq Arisṭū. [2nd ed.] al- Kuwayt, Bayrut 1980; vol. 2, pp. 329–485. — Ref. to | page | . | line | / [MS Paris ar. 2346] | fol. | a/b | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Arist. An. pr.": {
+   "abbrev": "Arist. An. pr.",
+   "greek_edition": "Aristoteles: Analytica priora. — Aristotelis Analytica priora et posteriora. Rec. W. D. Ross. Oxonii 1964; repr. 1982 [etc.]. (Scriptorum Classicorum Bibliotheca Oxoniensis.)",
+   "arabic_titles": [
+    "K. Anūlūṭīqā l-ūlā [kitāb al-Qiyās]."
+   ],
+   "arabic_editions": [
+    "Badawī, ʿAbd-al-Raḥmān [ed.]: Manṭiq Arisṭu. [2nd ed.] al- Kuwayt, Bayrūt 1980, vol. 1, pp. 137–316. — Ref. to | page | . | line | / [MS Paris ar. 2346] | fol. | a/b | line | . (Occasional references only.)"
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Arist. Cael.": {
+   "abbrev": "Arist. Cael.",
+   "greek_edition": "Aristoteles: De caelo. — Aristote. Du ciel. Ed. Paul Moraux. Paris 1965.",
+   "arabic_titles": [
+    "K. al-Samāʾ wal-ʿālam [versio A, B, C].",
+    "Versio A (Abū l-Faraǧ ibn al-Ṭayyib) = MS Paris Bibl. Nat. Ar. 2281, ff. 63–124 (fragments: unpublished edition by G. Endress). — References to | fol. | a/b | line |.",
+    "Versio B (Yaḥyā [Yūḥannā] ibn al-Biṭrīq) = a) I, 1–7 (268a1–276a17): unpublished edition by G. Endress (Arabic references not given). b) I, 8 – IV, 6 (276a18–313b23): unpublished edition by G. Endress; the references are to ʿAbd-al-Raḥmān Badawī: Arisṭūṭālīs fī l-Samāʾ wa-l-Āṯār al-ʿulwiyya. al-Qāhira 1961.",
+    ""
+   ],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [
+    "Versio C = I, 1–7 (revised version of B): unpublished edition by G. Endress; references are given to Badawī, as above.",
+    "Endress = Endress, Gerhard: Die arabischen Übersetzungen von Aristoteles’ Schrift De Caelo. Phil. Diss. Frankfurt a.M. 1965. Frankfurt 1966."
+   ],
+   "other": []
+  },
+  "Arist. Cat.": {
+   "abbrev": "Arist. Cat.",
+   "greek_edition": "Aristoteles: Categoriae. — Aristotelis Categoriae et Liber de interpretatione. Ed. L. Minio-Paluello. Oxonii 1949. Repr. 1978. (Scriptorum Classicorum Bibliotheca Oxoniensis.)",
+   "arabic_titles": [
+    "K. Qāṭīġūriyās."
+   ],
+   "arabic_editions": [
+    "Badawī, ʿAbd-al-Raḥmān [ed.]: Manṭiq Arisṭū. Ǧuzʾ 1–3. Kuwayt, Bairūt 1980; 1, pp. 33–76. — Ref. to | page | . | line | / [MS Paris ar. 2346] | fol. | a/b | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Georr = Khalil Georr: Les Catégories d’Aristote dans leurs versions syro-arabes. Beyrouth 1948.",
+    "Ibn al-Ṭayyib = Lemmata in Abū l-Faraǧ Abdallāh ibn al-Ṭayyib: Tafsīr Maqūlāt Arisṭāṭālīs, ed. Maurice Bouyges in: Averroès. Talkhîç kitâb al-Maqoûlāt, publié avec une recension nouvelle du Kitâb al- Maqoûlât (Catégories) d’Aristote. Beyrouth 1932. — Ed. Cleophea Ferrari : Der Kategorienkommentar von Abū l-Faraǧ ʿAbdallāh Ibn aṭ-Ṭayyib. Text und Untersuchungen. Leiden [etc.] 2006. (Aristoteles Semitico-Latinus, vol. 19.)"
+   ],
+   "other": []
+  },
+  "Arist. De an.": {
+   "abbrev": "Arist. De an.",
+   "greek_edition": "Aristoteles: De anima. — Aristote. De l’âme. Texte établi par A. Jannone. Traduction et notes par E. Barbotin. Paris 1966. (Collection des Universités de France.)",
+   "arabic_titles": [
+    "Kitāb al-Nafs.",
+    "Paraphr. Arist. De an."
+   ],
+   "arabic_editions": [
+    "Arisṭuṭālīs. Fī l-Nafs [etc.]. [Ed.:] ʿAbd-al-Raḥmān Badawī. al-Qāhira 1954.",
+    "Rüdiger Arnzen: Aristoteles’ De anima, eine verlorene spätantike Paraphrase in arabischer und persischer Überlieferung. Arabischer Text nebst Kommentar, quellengeschichtlichen Studien und Glossaren / hrsg. von Rüdiger Arnzen. Leiden 1988. (Aristoteles Semitico-Latinus, vol. 9.) — Ref. to | page | . | line | . In vol. I (letter alif), references are to:",
+    "Ahwānī = Aḥmad Fuʾād al-Ahwānī [ed.], Talḫīṣ kitāb al-Nafs li-Abī l- Walīd Ibn Rušd wa-arbaʿ rasaʾil. al-Qāhira 1950, pp. 125–75 [pages given in the margins of Arnzen’s edition]. See also Philop. In De an."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Arist. Div.: v. Ps.-Arist.": {
+   "abbrev": "Arist. Div.: v. Ps.-Arist.",
+   "greek_edition": "",
+   "arabic_titles": [],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Arist. Eth. Nic.": {
+   "abbrev": "Arist. Eth. Nic.",
+   "greek_edition": "Aristoteles: Ethica Nicomachea. — Aristotelis Ethica Nicomachea. Ed. I. Bywater. Oxonii 1894. Repr. 1962. (Scriptorum Classicorum Bibliotheca Oxoniensis.)",
+   "arabic_titles": [
+    "K. al-Aḫlāq al-musammā bi-Nīqūmāḫiyā."
+   ],
+   "arabic_editions": [
+    "The Arabic version of the Nicomachean Ethics. Ed. by Anna A. Akasoy and Alexander Fidora, with an introduction and annotated translation by Douglas M. Dunlop. Leiden [etc.] 2005. (Aristoteles Semitico-Latinus, vol. 17.) In GALex vol. I (letter alif), references are to:",
+    "Badawī = Badawī, ʿAbd-al-Raḥmān: al-Aḫlāq, taʾlīf Arisṭūṭālīs, tarǧamat Isḥāq b. Ḥunayn. al-Kuwayt 1979. — Ref. to | page | . | line | Badawī.",
+    "Axelroth = Axelroth, Dorothy G.: An analysis of the Arabic translation of Book Ten of Aristotle’s Nicomachean Ethics. Diss. Philadelphia, Dropsie College, 1968. — Ref. to | page | . | line | Axelroth."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Arberry = Arthur John Arberry: ‘The Nicomachean Ethics in Arabic’. In: Bulletin of the School of Oriental and African Studies; 17 (1955) 1– 9 [specimen ed. of book IX, 1]."
+   ],
+   "other": []
+  },
+  "Arist. Gener. anim.": {
+   "abbrev": "Arist. Gener. anim.",
+   "greek_edition": "Aristoteles: De generatione animalium. Ed. H.J. Drossaart Lulofs. Oxonii 1965. (Scriptorum Classicorum Bibliotheca Oxoniensis.)",
+   "arabic_titles": [
+    "K. al-Ḥayawān, maq. 15–19: fī Kawn al-ḥayawān."
+   ],
+   "arabic_editions": [
+    "Aristotle. Generation of animals: the Arabic translation commonly ascribed to Yaḥyā ibn al-Biṭrīq. Ed. with introd. and glossary by J. Brugman and H. J. Drossaart Lulofs. Leiden 1971. (Publications of the De Goeje Fund. Nr. 23.) — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Arist. Hist. anim.": {
+   "abbrev": "Arist. Hist. anim.",
+   "greek_edition": "Aristoteles: Historia animalium. — Aristote. Histoire des animaux. Texte établi et traduit par Pierre Louis. Paris 1964– 9. (Collection des Universités de France, publié sous le patronage de l’Association Guillaume Budé.)",
+   "arabic_titles": [
+    "K. al-Ḥayawān, maqāla 1–10: fī Maʿrifat ṭabāʾiʿ al- ḥayawān al-barrī wa-l-baḥrī."
+   ],
+   "arabic_editions": [
+    "Arisṭūṭālīs. Ṭibāʿ al-ḥayawān. Ḥaqqaqahū wa-šaraḥahū wa-qaddama lahū ʿAbd-al-Raḥman Badawī. al-Kuwayt 1977. — Ref. to | page | . | line | (Occasional references only)."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Arist. Int.": {
+   "abbrev": "Arist. Int.",
+   "greek_edition": "Aristoteles: De interpretatione. — Aristotelis Categoriae et Liber de interpretatione. Ed. L. Minio-Paluello. Oxonii 1949. Repr. 1978. (Scriptorum Classicorum Bibliotheca Oxoniensis.)",
+   "arabic_titles": [
+    "K. al-ʿIbāra."
+   ],
+   "arabic_editions": [
+    "Badawī, ʿAbd-al-Raḥmān [ed.]: Manṭiq Arisṭū. Ǧuzʾ 1–3. Kuwayt, Bayrūt 1980; 1, pp. 99–133. — Ref. to | page | . | line | / [MS Paris ar. 2346] | fol. | a/b | line | .",
+    "Pollak, Isidor [ed.]: Die Hermeneutik des Aristoteles in der arabischen Übersetzung des Isḥāḳ ibn Ḥonain. Hrsg. und mit einem Glossar der philosophischen Termini versehen. Leipzig 1913. (Abhandlungen für die Kunde des Morgenlandes. Bd. 13, 1.) [Standard edition, with line references of the Paris MS.]"
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Arist. Mag. mor.": {
+   "abbrev": "Arist. Mag. mor.",
+   "greek_edition": "Aristoteles: Magna Moralia. Ed. Franciscus Susemihl. Lipsiae 1883. (Bibliotheca Teubneriana.)",
+   "arabic_titles": [
+    "K. fī Faḍāʾil al-nafs; K. al-Faḍīla."
+   ],
+   "arabic_editions": [
+    "Kellermann, Mechthild: Ein pseudoaristotelischer Traktat über die Tugend. Edition und Übersetzung der arabischen Fassungen des Abū Qurra und des Ibn aṭ-Ṭayyib. Erlangen 1965. (Phil. Diss. Erlangen 1965.) — Ref. to the translation of Theodoros Abū Qurra (pp. 39.14–38.14): versio Q | page | . | line | ; to the translation of Abū l-Faraǧ ibn al-ṭayyib (pp. 59.18–56.6): versio T | page | . | line | ."
+   ],
+   "ref_formats": [],
+   "secondary": [
+    "Dirlmeier = Aristoteles: Magna Moralia. Übers. von Franz Dirlmeier. Darmstadt 1958. (Aristoteles: Werke. Bd VIII)"
+   ],
+   "other": []
+  },
+  "Arist. Metaph.": {
+   "abbrev": "Arist. Metaph.",
+   "greek_edition": "Aristoteles: Metaphysica. Ed. W. Jaeger. Oxonii 1957. Repr. 1980. (Scriptorum Classicorum Bibliotheca Oxoniensis.)",
+   "arabic_titles": [
+    "K. Mā baʿd al-ṭabīʿa."
+   ],
+   "arabic_editions": [
+    "Averroès. Tafsīr mā baʿd aṭ-ṭabīʿat. Texte arabe inédit établi par Maurice Bouyges. Vol. 1–3 [with] Notice. Beyrouth 1938–52. (Bibliotheca Arabica Scholasticorum: Série arabe; t. V,1.2. VI. VII.) — Ref. to | page | . | line | (= Lemmata in Averroes’ commentary) and/or to | page | v | line | (= translation of Eustace [Usṭāṯ], given in margine besides the versions of Isḥāq and Abū Bišr Mattā for books α and Λ)."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Bouyges Critique = M. Bouyges: ‘La critique textuelle de la Métaphysique d’Aristote et les anciennes versions arabes’. In: Mélanges de l’Université St. Joseph de Beyrouth 27 (1947–48) 147– 52.",
+    "Bouyges Notice = M. Bouyges: Averroès, Tafsîr mâ baʿd aṭ-ṭabîʿat. Notice. Beyrouth 1952 (Bibliotheca Arabica Scholasticorum: série arabe; t. V,1), pp. clxi-clxxv: ‘Lectures φ’.",
+    "Thillet = P. Thillet: ‘Remarques et notes critiques sur les traductions arabes du livre Lambda de la Métaphysique d’Aristote’. In: Association Guillaume Budé. Congrès de Lyon, 18–23 Sept. 1958. Actes du Congrès. Paris 1960, pp. 114–25.",
+    "Walzer = R. Walzer: ‘On the Arabic versions of Books A, α, and Λ of Aristotle’s Metaphysics’. In: Harvard Studies in Classical Philology 43 (1958) 217–31 (= Walzer: Greek into Arabic. Oxford 1962, pp. 114–28)."
+   ],
+   "other": []
+  },
+  "Arist. Meteor.": {
+   "abbrev": "Arist. Meteor.",
+   "greek_edition": "Aristoteles: Meteorologica. — Aristotelis Meteorologicorum libri quattuor. Ed. F. H. Fobes. Cambridge, Mass. 1919. Repr. Hildesheim 1967.",
+   "arabic_titles": [
+    "K. Arisṭūṭālīs fī l-āṯār al-ʿulwīya."
+   ],
+   "arabic_editions": [
+    "Schoonheim, Pieter L.: Aristotle’s Meteorology in the Arabico-Latin tradition. A critical edition of the texts, with introduction and indices. Leiden [etc.] 2000. (Aristoteles Semitico-Latinus, vol. 12.) — Ref. to | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | line |"
+   ],
+   "secondary": [
+    "Louis = Aristote. Météorologiques. Texte établi et traduit par Pierre Louis. Paris 1982 (Collection Budé).",
+    "Petraitis = Casimir Petraitis [ed.]: The Arabic version of Aristotle’s Meteorology. Beyrouth 1967.",
+    "Ullmann = M. Ullmann: Review of P. L. Schoonheim: Aristoteles’ Meteorologie in arabischer und lateinischer Übersetzung. Textkritische Ausgabe des ersten Buches (Leiden 1978), in: Bibliotheca Orientalis 36 (1979) 236–8."
+   ],
+   "other": []
+  },
+  "Arist. Mund.: v. Ps.-Arist.": {
+   "abbrev": "Arist. Mund.: v. Ps.-Arist.",
+   "greek_edition": "",
+   "arabic_titles": [],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Arist. Part. anim.": {
+   "abbrev": "Arist. Part. anim.",
+   "greek_edition": "Aristoteles: De partibus animalium. — Aristote. Les parties des animaux. Ed. Pierre Louis. Paris 1956.",
+   "arabic_titles": [
+    "K. al-Ḥayawān, maq. 11–14: fī Aʿḍāʾ al-ḥayawān."
+   ],
+   "arabic_editions": [
+    "Kruk, Remke: The Arabic version of Aristotle’s Parts of Animals. Book XI-XIV of the Kitāb al-Ḥayawān. A critical edition with introduction and selected glossary. Amsterdam, Oxford 1979. (Aristoteles Semitico-Latinus. — Verhandelingen der Koninklijke Nederlandse Akademie van Wetenschappen. Afd. Letterkunde. N.R., deel 97.) [Complete glossary for Book III (XIII) in MS.] — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Mattock = J. N. Mattock: Review of Kruk’s edition. In: Bulletin of the School of Oriental and African Studies 43 (1980) 364–5."
+   ],
+   "other": []
+  },
+  "Arist. Phys.": {
+   "abbrev": "Arist. Phys.",
+   "greek_edition": "Aristotelis Physica. Ed. W.D. Ross. Oxonii 1956. Repr. 1988. (Scriptorum Classicorum Bibliotheca Oxoniensis.)",
+   "arabic_titles": [
+    "al-Samāʿ al-ṭabīʿī."
+   ],
+   "arabic_editions": [
+    "Arisṭūṭālīs: al-ṭabīʿa. Ed. Abd-al-Raḥmān Badawī. Vol. 1–2. al-Qāhira 1384/1964–1385/1965. — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Kutsch & Georr = Commentaire du Kitāb as-Samāʿ aṭ-ṭabīʿī dʾAristote par Abū ʿAlī b. as-Samḥ / éd. par W[ilhelm] Kutsch et Kh. Georr [Ḫalīl al-Ǧurr]; 1er livre [all published]. In: Mélanges de l’Université Saint Joseph; t. 39 (1963) 266–312."
+   ],
+   "other": []
+  },
+  "Arist. Poet.": {
+   "abbrev": "Arist. Poet.",
+   "greek_edition": "Aristoteles: Ars poetica. — Aristotelis De arte poetica liber. Rec. Rudolfus Kassel. Oxonii 1965. (Scriptorum Classicorum Bibliotheca Oxoniensis.)",
+   "arabic_titles": [
+    "Kitāb al-Šiʿr."
+   ],
+   "arabic_editions": [
+    "Die arabische Übersetzung der Poetik des Aristoteles und die Grundlage der Kritik des griechischen Textes / von Jaroslaus Tkatsch. Bd 1–2. Wien, Leipzig 1928–32. (Akademie der Wissenschaften in Wien, Phil.-hist. Klasse: Kommission für die Herausgabe der arabischen Aristoteles-Übersetzungen.)"
+   ],
+   "ref_formats": [],
+   "secondary": [
+    "Badawī = Arisṭūṭālīs. Fann al-šiʿr: maʿa l-tarǧama al-ʿarabiyya al- qadīma [...]. Ed. ʿAbd-al-Raḥmān Badawī. al-Qāhira 1953, pp. 85– 145. ʿAyyād = Kitāb Arisṭūṭālīs fī l-šiʿr: naql Abī Bišr Mattā ibn Yūnus al- Qunnāʾī. Ed. Šukrī Muḥammad Ayyād. al-Qāhira 1967."
+   ],
+   "other": []
+  },
+  "Arist. Probl.: v. Ps.-Arist.": {
+   "abbrev": "Arist. Probl.: v. Ps.-Arist.",
+   "greek_edition": "",
+   "arabic_titles": [],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Arist. Rhet.": {
+   "abbrev": "Arist. Rhet.",
+   "greek_edition": "Aristoteles: Ars rhetorica. — Aristotelis Ars Rhetorica. Ed. Rudolfus Kassel. Berolini et Novi Eboraci 1976.",
+   "arabic_titles": [
+    "K. Rīṭūrīqā ay al-Ḫiṭāba."
+   ],
+   "arabic_editions": [
+    "Aristotle’s Ars Rhetorica: the Arabic version. A new edition, with commentary and glossary by M. C. Lyons. Vol. 1. 2. Cambridge 1982. — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Arist. Soph. el.": {
+   "abbrev": "Arist. Soph. el.",
+   "greek_edition": "Aristoteles: Sophistici elenchi. — Aristotelis Topica et Sophistici elenchi. Rec. W. D. Ross. Oxonii 1958, repr. 1984. (Scriptorum Classicorum Bibliotheca Oxoniensis.)",
+   "arabic_titles": [
+    "K. Sufisṭīqā (versio Yaḥyā ibn ʿAdī); k. Tabkīt al- sūfisṭā’iyyīn (versio ʿĪsā b. Isḥāq b. Zurʿa); k. al-Tabṣīr bi- muġālaṭāt al-sufisṭāʾiyya (versio vetusta fort. al-Nāʿimī attribuenda)."
+   ],
+   "arabic_editions": [
+    "Badawī, ʿAbd-al-Raḥmān [ed.]: Manṭiq Arisṭu. [2nd ed.] al- Kuwayt, Bayrūt 1980, vol. 3, pp. 773–1054. [For the first ed. of Manṭiq Arisṭū, al-Qāhira 1948–52, pp. 737–1018, subtract 36 from the folios given.). — Ref. to versio Ibn ʿAdī / versio Ibn Zurʿa / versio vetusta | page | . | line | / [MS Paris ar. 2346] | fol. | a/b | line | . (Occasional references only.)"
+   ],
+   "ref_formats": [
+    "Ref. to versio Ibn ʿAdī / versio Ibn Zurʿa / versio vetusta | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Arist. Testamentum": {
+   "abbrev": "Arist. Testamentum",
+   "greek_edition": "Aristoteles: Testamentum. In: Aristotelis Privatorum scriptorum fragmenta. Ed. Marianus Plezia. Leipzig 1977 (Bibliotheca Teubneriana), pp. 38–40. — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "Waṣiyyat Arisṭā<ṭā>līs."
+   ],
+   "arabic_editions": [
+    "Ibn al-Nadīm: K. al-Fihrist. Hrsg. von Gustav Flügel. Leipzig 1871–2, 247.19–248.13. — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Arist. Top.": {
+   "abbrev": "Arist. Top.",
+   "greek_edition": "Aristoteles: Topica. — Aristotelis Topica et Sophistici elenchi. Rec. W. D. Ross. Oxonii 1958, repr. 1984. (Scriptorum Classicorum Bibliotheca Oxoniensis.)",
+   "arabic_titles": [
+    "K.Ṭūbīqa [al-Ǧadal]."
+   ],
+   "arabic_editions": [
+    "Badawī, ʿAbd-al-Raḥmān [ed.]: Manṭiq Arisṭu. [2nd ed.] al- Kuwayt, Bayrūt 1980; vol. 2–3, pp. 489–769. — Ref. to | page | . | line | / [MS Paris ar. 2346] | fol. | a/b | line | . (Occasional references only.)"
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Arist. Virt.: v. Ps.-Arist.": {
+   "abbrev": "Arist. Virt.: v. Ps.-Arist.",
+   "greek_edition": "",
+   "arabic_titles": [],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Artem. Onirocr.": {
+   "abbrev": "Artem. Onirocr.",
+   "greek_edition": "Artemidorus Daldianus: Oneirocritica. — Artemidori Daldiani Onirocriticon Libri V. Ed. Roger A. Pack. Lipsiae 1963. (Bibliotheca Teubneriana.) — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "K. Taʿbīr al-ruʾyā."
+   ],
+   "arabic_editions": [
+    "Fahd, Toufic: Artémidore d’Éphèse. Le livre des songes. Édition critique avec introduction. Damas 1964. — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Breen = Anthony Breen: ‘Observations on the Arabic Translation of Artemidorus: Book I’. In: Le Muséon 101 (1988) 179–81.",
+    "Browne = Gerald M. Browne: ‘Ad Artemidorum Arabum’. In: Le Muséon 97 (1984) 207–20.",
+    "Browne II = id.: ‘Ad Artemidorum Arabum II’. Ibid. 103 (1990) 267–82.",
+    "Browne III = id.: ‘Ad Artemidorum Arabum III’. Ibid. 105 (1992) 173– 186.",
+    "Del Corno = Dario Del Corno: Review of Pack’s edition. In: Gnomon 37 (1965) 669–79.",
+    "Del Corno Reliquiae = Darius Del Corno: Graecorum de re onirocritica scriptorum reliquiae, Milano-Varese 1969.",
+    "Endreß = G. Endreß: Review of Fahd’s edition. In: Oriens 25/26 (1976) 341–51.",
+    "Fahd Err. = T. Fahd’s list of Errata appended to his edition. Festugière = Artémidore. Le Clef des songes. Traduit et annoté par A[ndré] J[ean] Festugière. Paris 1975. (Bibliothèque des textes philosophiques.)",
+    "Pack 1967 = Roger A. Pack: ‘On Artemidorus and his Arabic translator’. In: Transactions of the American Philological Association 98 (1967) 313–26.",
+    "Pack 1976 = Roger A. Pack: ‘Artemidoriana Graeco-Arabica’. In: Transactions of the American Philological Association 106 (1976) 307–12.",
+    "Rosenthal = F. Rosenthal: ‘From Arabic books and manuscripts XII: The Arabic translation of Artemidorus’. In: Journal of the American Oriental Society 85 (1965) 139–44.",
+    "Schmitt = Elisabeth Schmitt: Lexikalische Untersuchungen zur arabischen Übersetzung von Artemidors Traumbuch. Wiesbaden 1970. (Akademie der Wissenschaften und der Literatur. Veröffentlichungen der Orientalischen Kommission. Bd. 23.)",
+    "Strohmaier = G. Strohmaier: Review of Fahdʾs edition. In: Orientalistische Literaturzeitung 62 (1967) 270–5. Strohmaier Götter = G. Strohmaier: ‘Die griechischen Götter in einer christlich-arabischen Übersetzung’. In: Franz Altheim und Ruth Stiehl: Die Araber in der alten Welt; V,1. Berlin 1968, pp. 127–62.",
+    "Vajda = G. Vajda: Review of Fahd’s edition. In: Arabica 13 (1966) 88– 90."
+   ],
+   "other": []
+  },
+  "Cass. Bass. Geopon.": {
+   "abbrev": "Cass. Bass. Geopon.",
+   "greek_edition": "Geoponica sive Cassiani Bassi scholastici De re rustica eclogae, rec. Henricus Beckh. Leipzig: Teubner, 1895. — Ref. to | book | , | chapter | . | section | .",
+   "arabic_titles": [
+    "K. al-Filāḥa al-yūnāniyyya li-Qusṭūs ibn Lūqā al-Rūmī."
+   ],
+   "arabic_editions": [
+    "Ed. Wāʾil ʿAbd-al-Raḥīm Iʿbīd. ʿAmmān 1420/1999. — References from: Ullmann, WGAÜ, Suppl."
+   ],
+   "ref_formats": [
+    "Ref. to | book |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Ceb. Tab.": {
+   "abbrev": "Ceb. Tab.",
+   "greek_edition": "Cebetis Tabula. — Ed. Karl Praechter: Cebetis Tabula, Rec, Carolus Praechter. Lipsiae: Teubner, 1893. — Ref. to | page | | line | .",
+   "arabic_titles": [
+    "Qābis"
+   ],
+   "arabic_editions": [
+    "Arabic text in ʿA. Badawī, ed., Al-ḥikma al-ḫālida, Cairo , ref. to page.line."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Cyranis": {
+   "abbrev": "Cyranis",
+   "greek_edition": "Hermes Trismegistos: Cyranides, I. Ed. Maryse Waegeman: Amulet and Alphabet: Magical Amulets in the First Book of Cyranides. Amsterdam, 1987.",
+   "arabic_titles": [
+    "Kitāb Ǧiranīs."
+   ],
+   "arabic_editions": [
+    "Isabel Toral-Niehoff: Kitāb Ğiranīs. Die arabische Übersetzung der ersten Kyranis des Hermes Trismegistos und die griechischen Parallelen, herausgegeben, übersetzt und kommentiert. Quellen und Forschungen zur antiken Welt, 43. München: Utz, 2004. — References from: Ullmann, WGAÜ, Suppl."
+   ],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "De Causis: v. Proclus El. theol.": {
+   "abbrev": "De Causis: v. Proclus El. theol.",
+   "greek_edition": "",
+   "arabic_titles": [],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Diosc. Mat. med.": {
+   "abbrev": "Diosc. Mat. med.",
+   "greek_edition": "Pedanii Dioscuridis Anazarbei De materia medica libri quinque. Ed. Max Wellmann. Vol. 1–3. Berolini 1906–14. Repr. 1958. — Ref. to | volume | , | page | . | line | .",
+   "arabic_titles": [
+    "[K. Diyūsqūrīdis fī l-Mādda al-ṭibbiyya / fī Hayūlā l-ṭibb].",
+    "al-Ḥāwī = quotations in:",
+    "Translation of Abū Sālim al-Malaṭī (versio Melitenensis)",
+    "Translation of Mihrān ibn Manṣūr ibn Mihrān (versio Mihrān)",
+    "Vetus translatio"
+   ],
+   "arabic_editions": [
+    "Translation of Iṣṭifān ibn Bāsīl (versio Stephani): Kitāb al- Ḥašāʾiš fī hayūlā l-ṭibb. Standard references are to the quotations in: Ibn al-Bayṭār, Ḍiyaʾ-al-Din ʿAbdallāh: al-Ǧāmiʿ li-mufradāt al -adwiya wa-l-aġḏiya, ǧuzʾ 1–4. Būlāq 1291 H. — Ref. to Ibn al-Bayṭār Ǧāmiʿ | volume | , | page | . | line | ; occasional references to Ullmann, WGAÜ, | page |.",
+    "Occasional references a) to ed. Dubler & Terés, Dubler/Terés = César E. Dubler, Emilio Terés: La ‘Materia Médica’ de Dioscórides. Transmisión medieval y renacentista. Vol. 1–6. Tetuán, Barcelona 1952–59. Vol. 2: La versión árabe de la ‘Materia médica’ de Dioscórides. Texto, variantes e indices. 1952–57. b) from Ullmann, WGAÜ, | page | (quoting ‹Versio A ›).",
+    "al-Rāzī, Abū Bakr Muḥammad: al-Ḥāwī fī l-ṭibb. Ḥaydarābād 1374– 90/1955–70. Ǧuzʾ 20, 21: al-Adwiya al-mufrada. [Glossary in manuscript prepared by Klaus Alshut.] — Ref. to Ḥāwī | volume | , | page | . | line |.",
+    "References from: Ullmann, WGAÜ, quoting mss. Paris: BnF, 4947; Istanbul: Topkapı Sarayı, Ahmet III, 2127 (‹Versio B›).",
+    "References from: Ullmann, WGAÜ Suppl., quoting mss. Mašhad, Istanbul, Tehran (v. WGAÜ Suppl. 23f., ‹Versio C›).",
+    "References from: Ullmann, Dioskurides = Manfred Ullmann: Untersuchungen zur arabischen Überlieferung der Materia medica des Dioskurides, mit Beiträgen von Rainer Degen. Wiesbaden 2009, 171–318 (‘Glossar zur Vetus translatio’), quoting ms. Istanbul: Aya Sofya, 3704 (olim Topkapı Sarayı, Ahmet III, 2147)."
+   ],
+   "ref_formats": [
+    "Ref. to | volume |",
+    "Ref. to Ibn al-Bayṭār Ǧāmiʿ | volume |",
+    "Ref. to Ḥāwī | volume |"
+   ],
+   "secondary": [
+    "Berendes = Julius Berendes: Des Pedanios Dioskurides aus Anazarbos Arzneimittellehre in fünf Büchern. Stuttgart 1902; repr. Wiesbaden 1970; Graz 1988. Dietrich, Dioscurides Triumphans = Dioscurides Triumphans. Ein anonymer arabischer Kommentar (Ende 12. Jh. n. Chr.) zur Materia medica. Arabischer Text nebst kommentierter deutscher Übersetzung, hrsg. von Albert Dietrich. T. 1: Text. T. 2: Übersetzung und Kommentar. Göttingen 1988. (Abhandlungen der Akademie der Wissenschaften in Göttingen. Phil.-Hist. Klasse, 3. Folge, Nr. 172. 173.)",
+    "Leclerc = Lucien Leclerc: ‘Traité des Simples par Ibn el-Beïthar’. In: Notices et extraits des manuscrits de la Bibliothèque nationale, 23,1; 25,1; 26,1. Paris 1877, 1881, 1883."
+   ],
+   "other": []
+  },
+  "Erat. Cub. dupl.": {
+   "abbrev": "Erat. Cub. dupl.",
+   "greek_edition": "Eratosthenis Epistola de cubi duplicatione, ap. Archimidis opera omnia cum commentariis Eutocii. Ed. Iohan Ludvig Heiberg, corrigenda adiecit Evangelos Stamatis. Vol. III, pp. 88–96. Stuttgardiae in aedibus B.G. Teubneri 1915. Repr. 1972. — Ref. to | page | . | line | .",
+   "arabic_titles": [],
+   "arabic_editions": [
+    "Amin Muwafi and A.N. Philippou, ‘An Arabic Version of Eratosthenes on Mean Proportionals’; Richard Lorch, ‘A Note on the Technical Vocabulary in Eratosthenes’ Tract on Mean Proportionals’. In: Journal for the History of Arabic Science; 5. Aleppo 1981, pp. 147–70. — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Eucl. El.": {
+   "abbrev": "Eucl. El.",
+   "greek_edition": "Euclides. Elementa. Post I[ohan] L[udvig] Heiberg ed. Evangelos S. Stamatis. Vol. I–V. Lipsiae 1969–77. (Bibliotheca Teubneriana.) — Ref. to | book [uppercase roman numerals] | . | section | : | volume [lowercase roman numerals] | , | page | . | line | .",
+   "arabic_titles": [
+    "K. Uqlīdis al-muḫtaṣar fī ʿilm al-uṣūl"
+   ],
+   "arabic_editions": [
+    "Codex Leidensis 399,1. Euclidis Elementa ex interpretatione al-Hadschdschadschii cum commentariis al- Narizii. Edd. R.O. Besthorn et J.L. Heiberg. Vol. 1–3. Hauniae 1893–1932. — Ref. to | volume | . | fascicle | , | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | book [uppercase roman numerals] |",
+    "Ref. to | volume |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Galen Alim. Fac.": {
+   "abbrev": "Galen Alim. Fac.",
+   "greek_edition": "Galenus: De alimentorum facultatibus. In: Claudii Galeni Opera omnia. Ed. C. G. Kühn. T. VI, 2. Lipsiae 1823 [repr. Hildesheim 1965], pp. 453–748. — Ref. to | vol. | , | page | . | line | .",
+   "arabic_titles": [
+    "K. Quwā l-aġḏiya."
+   ],
+   "arabic_editions": [
+    "References from: Ullmann, WGAÜ, quoting Ms Kairo, Dār al-kutub al-miṣriyya 1727 ṭibb, fol. 96–204."
+   ],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Galen Anat. admin.": {
+   "abbrev": "Galen Anat. admin.",
+   "greek_edition": "Galenus: De anatomicis administrationibus. In: Claudii Galeni Opera omnia. Ed. C. G. Kühn. T. II, Lipsiae 1826 (repr. Hildesheim 1965). — Ref. to | vol. | , | page | . | line | .",
+   "arabic_titles": [
+    "K. ʿIlāǧ al-tašrīḥ."
+   ],
+   "arabic_editions": [
+    "References from: Manfred Ullmann: Wörterbuch zu den griechisch-arabischen Übersetzungen. Wiesbaden 2002. — Ref. to WGAÜ p. | page | | line | ."
+   ],
+   "ref_formats": [],
+   "secondary": [
+    "Garofalo = Galeni anatomicarum administrationum libri qui supersunt novem. Earundem interpretatio arabica Hunaino Isaaci filio ascripta. Ed. Ivan Garofalo. T. 1–2. Napoli 1986–2000.",
+    "Simon = Sieben Bücher Anatomie des Galen: Ἀναταμικῶν ἐγχειρήσεων βιβλίων Θ᾿–ΙΕ᾿. Zum ersten Male veröffentlicht … von Max Simon. Leipzig 1906"
+   ],
+   "other": []
+  },
+  "Galen An. virt.": {
+   "abbrev": "Galen An. virt.",
+   "greek_edition": "Galenus: Quod animi virtutes corporis temperamenta sequantur. In: Claudii Galeni Pergameni Scripta minora. Vol. II. Ed. I. Mueller. Lipsiae 1891 (Bibliotheca Teubneriana), pp. xxxiii–lv, 32–79. — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "Maqāla fī anna Quwā l-nafs tābiʿa li-mizāǧ al-badan."
+   ],
+   "arabic_editions": [
+    "Biesterfeldt, Hans Hinrich: Galens Traktat „Daß die Kräfte der Seele den Mischungen des Körpers folgen“ in arabischer Übersetzung. Wiesbaden 1973. (Abhandlungen für die Kunde des Morgenlandes. Bd. 40,4.) — Ref. to | page | . | line | . Biesterfeldt Ǧālīnūs = H. H. Biesterfeldt: ‘Ǧālīnūs Quwā n-nafs: zitiert, adaptiert, korrigiert’. In: Der Islam 63 (1986) 119–36."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Theiler = Willy Theiler: Poseidonios. Die Fragmente. Bd 1. 2. Berlin 1982, Nr. 423: 1, 342–4, vgl. 2, 360–1."
+   ],
+   "other": []
+  },
+  "Galen Diff. febr.": {
+   "abbrev": "Galen Diff. febr.",
+   "greek_edition": "De differentiis febrium libri. In: Claudii Galeni Opera omnia. Ed. C. G. Kühn. T. VII, 4. Lipsiae 1824 [repr. Hildesheim 1965], pp. 273–405. — Ref. to | vol. |, | page | . | line | .",
+   "arabic_titles": [
+    "K. Aṣnāf al-ḥummayāt."
+   ],
+   "arabic_editions": [
+    "Ed. Matthias Wernhard: Über die Arten der Fieber in der arabischen Version des Ḥunain ibn Isḥāq. Diss. München 2004. URL: <http://edoc.ub.uni- muenchen.de/archive/00006399/01/Wernhard_Matthias.pdf>. — References from: Ullmann, WGAÜ, Suppl."
+   ],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Galen Elem.": {
+   "abbrev": "Galen Elem.",
+   "greek_edition": "Galenus: De elementis ex Hippocrate. In: Claudii Galeni Opera omnia. Ed. C. G. Kühn. T. I, 413–508. Lipsiae 1821 (repr. Hildesheim 1964). — Ref. to | book | | chapter | : | page | . | line | .",
+   "arabic_titles": [
+    "K Ǧālīnūs fī l-Usṭuqussāt ʿalā raʾy Abuqrāṭ."
+   ],
+   "arabic_editions": [
+    "K Ǧālīnūs fī l-Usṭuqussāt ʿalā raʾy Abuqrāṭ / naql Abī Zayd Ḥunayn b. Isḥāq al-ʿIbādī al-mutaṭabbib; taḥqīq Muḥammad Salīm Sālim. Cairo 1986. — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | book |",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Galen In De off. med.": {
+   "abbrev": "Galen In De off. med.",
+   "greek_edition": "Galenus: Commentaria in Hippocratis De officina medici. In: Claudii Galeni Opera omnia. Ed. C. G. Kühn. T. XVIII, p. II. Lipsiae 1830. Repr. Hildesheim 1965. — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "Tafsīr kitāb Qāṭiyaṭrīyūn li-Buqrāṭ."
+   ],
+   "arabic_editions": [
+    "Galeni in Hippocratis De officina medici commentariorum versionem arabicam, quoad exstat, ex cod. Scorialensi et excerpta, quae ʿAlī ibn Riḍwān ex eis sumpsit, ex codice Cantabrigiensi ed. et in linguam anglicam vertit Malcolm Lyons. Berolini 1963. (Corpus Medicorum Graecorum: Supplementum Orientale. 1.) — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Vogt = De Galeni in libellum Κατ᾿ ἰητρεῖον commentariis / scripsit Siegfried Vogt. Marburg, Univ., diss. 1910."
+   ],
+   "other": []
+  },
+  "Galen In Progn.": {
+   "abbrev": "Galen In Progn.",
+   "greek_edition": "In Hippocratis Prognosticum commentarii. Ed. In: Claudii Galeni Opera omnia. Ed. C. G. Kühn. T. XVIII, 1. Lipsiae 1829 [repr. Hildesheim 1965], pp. 1–317. — Ref. to | vol. |, | page | . | line | .",
+   "arabic_titles": [
+    "Tafsīr k. Buqrāṭ fī Taqdimat al-maʿrifa."
+   ],
+   "arabic_editions": [
+    "Ms. Dublin: Chester Beatty, 3127. — References from: Ullmann, WGAÜ, Suppl.."
+   ],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Galen Loc. aff.": {
+   "abbrev": "Galen Loc. aff.",
+   "greek_edition": "Galenus: De locis affectis. In: Claudii Galeni Opera omnia. Ed. C. G. Kühn. T. VIII, 1. Lipsiae 1824 [repr. Hildesheim 1965], pp. 1–451. — Ref. to | vol. |, | page | . | line | .",
+   "arabic_titles": [
+    "K. al-Aʿḍāʾ al-ālima."
+   ],
+   "arabic_editions": [
+    "Ms. London: Wellcome Library, Or. 14a; cf. Ivan Garofalo: La traduzione araba del De locis affectis di Galeno, in: Studi Classici e Orientali 45 (1995): 13–63. — References from: Ullmann, WGAÜ, Suppl."
+   ],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Galen Med. phil.": {
+   "abbrev": "Galen Med. phil.",
+   "greek_edition": "Galenus: Quod optimus medicus sit etiam philosophus. In: Claudii Galeni Pergameni Scripta minora. Vol. II. Ed. I. Mueller, Lipsiae 1891 (Bibliotheca Teubneriana), p. iii–xi, 1–8. — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "Maqāla fī annahū Yaǧib an yakūn al-ṭabīb al-fāḍil faylasūfan."
+   ],
+   "arabic_editions": [
+    "Bachmann, Peter: Galens Abhandlung darüber, daß der vorzügliche Arzt Philosoph sein muß, arabisch und deutsch hrsg. Göttingen 1965. (Nachrichten der Akademie der Wissenschaften in Göttingen. I: Phil.-hist. Kl. Jg. 1965. Nr. 1.) — Ref. to | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | line |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Galen Nat. fac.": {
+   "abbrev": "Galen Nat. fac.",
+   "greek_edition": "Galen: De facultatibus naturalibus. In: Claudii Galeni Opera omnia. Ed. C. G. Kühn. T. II, 1. Lipsiae 1821 [repr. Hildesheim 1965], pp. 1–214. — Ref. to | vol. |, | page | . | line | .",
+   "arabic_titles": [
+    "K. al-Quwā l-ṭabīʿiyya."
+   ],
+   "arabic_editions": [
+    "Ms. Leiden, Univ., or. 1297. References from: Ullmann, WGAÜ"
+   ],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Galen Nerv. diss.": {
+   "abbrev": "Galen Nerv. diss.",
+   "greek_edition": "Galenus: De nervorum dissectione. In: C[arl] G[ottlob] Kühn: Claudii Galeni opera omnia. Editionem curavit C. G. Kuehn. Leipzig 1821–33. Repr. Hildesheim 1964–5. II, pp. 831–56.",
+   "arabic_titles": [
+    "Maqālat Ǧālīnūs fī Tašrīḥ al-ʿaṣab. — In: Ahmad M. Al- Dubayan: Galen. Über die Anatomie der Nerven. Originalschrift und alexandrinisches Kompendium in arabischer Überlieferung. Berlin 2000 (Islamkundliche Untersuchungen, Bd 228), pp. 98–117. — Ref. to | page | . | line | . In GALex vol. 1 (letter alif), references are to MS Berlin, Staatsbibliothek, Petermann 521 (Ahlwardt 6233), foll. 67b–76a."
+   ],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Galen Puls. introd.": {
+   "abbrev": "Galen Puls. introd.",
+   "greek_edition": "Galenus: De pulsibus ad eos qui introducunter (ad Teuthram). In: Claudii Galeni Opera omnia. Ed. C. G. Kühn. T. VIII, 2. Lipsiae 1824 [repr. Hildesheim 1965], pp. 453–92. — Ref. to | vol. |, | page | . | line | .",
+   "arabic_titles": [
+    "K. al-Nabḍ al-ṣaġīr (K. ilā Ṭūṯaran fī l-nabḍ li-l-mutaʿllimīn)."
+   ],
+   "arabic_editions": [
+    "Ed. Muḥammad Salīm Sālim: Kitāb Ǧālīnūs ilā Ṭūṯaran fī l- nabḍ li-l-mutaʿllimīn. [Cairo:] al-Hayʾa al-miṣriyya al-ʿāmma li- l-kitāb, 1985. — References from: Ullmann, WGAÜ, Suppl."
+   ],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Galen Simpl. medic.": {
+   "abbrev": "Galen Simpl. medic.",
+   "greek_edition": "Galenus: De simplicium medicamentorum temperamentis ac facultatibus. In: Claudii Galeni Opera omnia. Ed. C. G. Kühn. T. XI–XII, Lipsiae 1826 (repr. Hildesheim 1965). — Ref. to | vol. | , | page | . | line | .",
+   "arabic_titles": [
+    "K. Ǧālīnūs fī Quwā l-adwiya al-mufrada."
+   ],
+   "arabic_editions": [
+    "References from the translation of Ḥunain ibn Isḥāq (Ms. Escorial 793; Ms. Escorial 794; excerpts of Ibn al-Bayṭār, K. al-Ǧāmiʿ li-mufradāt al-adwiywa-l-aġḏiya; al-Rāzī: al-Ḥāwī fī l- ṭibb, a. o.) according to Manfred Ullmann: Wörterbuch zu den griechisch-arabischen Übersetzungen. Wiesbaden 2002. — Ref. to WGAÜ p. | page | | line | . For book VI, WGAÜ quotes two versions, versio A : translation of al- Biṭrīq (Ms. Istanbul, Ahmet III 2083, fol. 127a-152b) and versio B : translation of Ḥunayn ibn Isḥāq (Mss. Escorial, 793 and 794); for book X, a different translator (Ḥubayš ?) must be assumed (WGAÜ, 48–51)."
+   ],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Galen Ther. Pis.": {
+   "abbrev": "Galen Ther. Pis.",
+   "greek_edition": "Galenus [Ps.-]: De theriaca ad Pisonem. In: Claudii Galeni Opera omnia. Ed. C. G. Kühn. T. XIV. Lipsiae 1827. Repr. Hildesheim 1965. — Ref. to | page | . | line | . — Androm. = Andromachus Maior: De Theriaca carmen ad Neronem, capp. 6, 7 [excerpts appended to Galen’s text in the Arabic translation], graece ed. E. Heitsch: Die griechischen Dichterfragmente der römischen Kaiserzeit; 2. Göttingen 1964, no LXII pp. 7–15.",
+   "arabic_titles": [
+    "K. Ǧālīnūs ilā Fīsun fī l-Tiryāq."
+   ],
+   "arabic_editions": [
+    "Richter-Bernburg, Lutz: Eine arabische Version der pseudo-galenischen Schrift De Theriaca ad Pisonem. Diss. Göttingen 1969. [Glossary in MS.] — Ref. to MS Aya Sofya 3590, | folio | a/b | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to MS Aya Sofya 3590, | folio |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Hippocr. Aer.": {
+   "abbrev": "Hippocr. Aer.",
+   "greek_edition": "Hippocrates: De aere aquis locis.—Hippocratis De aere aquis locis. Ed. H. Diller. Berlin 1970. (Corpus Medicorum Graecorum. I, 1,2.) — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "Versio A [MS. Esc.]: K. Abuqrāṭ fī l-Amrāḍ al-bilādiyya.",
+    "Versio B [MSS. Aya Sofya]: K. al-Ahwiya wa-l-buldān li- Abuqrāṭ."
+   ],
+   "arabic_editions": [
+    "Hippocrates: On endemic diseases <Airs, waters and places>. Ed. and transl. with introd., notes and glossary by J. N. Mattock and M. C. Lyons. Cambridge 1969. (Arabic Technical and Scientific Texts. 5.) — Ref. to versio A / B [separate for sections 1–3, pp. 1–115] | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Jouanna = Hippocrate, tome II, 2e partie: Airs, eaux, lieux. Texte établi et traduit par Jacques Jouanna. Paris 1996. (Collection des Universités de France.)",
+    "Ullmann = M. Ullmann: ‘Galens Kommentar zu der Schrift De aere aquis locis’. In: Corpus Hippocraticum: Actes du Colloque Hippocratique de Mons (22–26 Sept. 1975). Éd. par Robert Joly. Mons 1977. (Éditions universitaires de Mons: Série Sciences Humaines. IV.)"
+   ],
+   "other": []
+  },
+  "Hippocr. Alim.": {
+   "abbrev": "Hippocr. Alim.",
+   "greek_edition": "Hippocratis: De alimento. — In: Hippocrate; tome VI, 2e partie: Du régime des maladies aiguës. De l’aliment. De lʾusage des liquides. Texte établi et traduit par Robert Joly. Paris 1972 (Collection Budé), pp. 140–47. — Ref. to | page | . | line | . Referred to only when textually significant: Hippocratis De alimento. Ed. I. L. Heiberg. Lipsiae et Berolini 1927 (Corpus Medicorum Graecorum. I, 1), pp. 79–84.",
+   "arabic_titles": [
+    "K. al-Ġiḏāʾ."
+   ],
+   "arabic_editions": [
+    "Hippocrates: On nutriment. Ed. and transl. with introduction, notes and glossary by J. N. Mattock. Cambridge 1971. (Arabic Technical and Scientific Texts. 6, 2.) — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Hippocr. Aph.": {
+   "abbrev": "Hippocr. Aph.",
+   "greek_edition": "Hippocrates: Aphorismi. Ed. W. H. S. Jones: Hippocrates, with an English translation; vol. 4. Cambridge, London, 1931 (Loeb Classical Library, 150), pp. 98–221. Referred to only when textually significant: Littré = Oeuvres complètes d'Hippo crate . Traduction nouvelle avec le texte grec en regard […] par É[mile] Littré. Paris 1839–61 (repr. Amsterdam 1962), t. IV (1844): pp. 458ff.",
+   "arabic_titles": [
+    "K. al Fuṣūl."
+   ],
+   "arabic_editions": [
+    "Ed. J. Tytler: The Aphorisms of Hippocrates, translated into Arabic by Honain Ben Ishak. Calcutta 1832. (Occasional references only)."
+   ],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Hippocr. Diaet. acut.": {
+   "abbrev": "Hippocr. Diaet. acut.",
+   "greek_edition": "Hippocrates: De diaeta acutorum.—In: Hippocrate; tome VI, 2e partie: Du régime des maladies aiguës. De l’aliment. De l’usage des liqides. Texte établi et traduit par Robert Joly. Paris 1972, pp. 35–98. — Ref. to | page | . | line | . Referred to only when textually significant: Hippocratis Opera quae feruntur omnia. Ed. Hugo Kühlewein. Vol. I, pp. 109–79. Lipsiae 1894.",
+   "arabic_titles": [
+    "K. Tadbīr al-amrāḍ al-ḥādda."
+   ],
+   "arabic_editions": [
+    "Kitāb Tadbīr al-amrāḍ al-ḥādda li-Buqrāṭ <Hippocrates: Regimen in acute diseases>. Ed. and transl. with introd., notes and glossary by M. C. Lyons. Cambridge 1966. (Arabic Technical and Scientific Texts. 1.) — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Hippocr. Genit.; Nat. puer.": {
+   "abbrev": "Hippocr. Genit.; Nat. puer.",
+   "greek_edition": "Hippocrates: De genitura [with] De natura pueri.—In: Hippocrate. Texte établi et traduit par Robert Joly. Vol. XI: De la génération [etc.], pp. 44–83. Paris 1970. — Ref. to | page | . | line | . Referred to only when textually significant: Oeuvres complètes d’Hippocrate. Ed. É. Littré. Paris 1839–61 (repr. Amsterdam 1962). T. 7, pp. 470–543.",
+   "arabic_titles": [
+    "K. al-Aǧinna."
+   ],
+   "arabic_editions": [
+    "Kitāb al-Ajinna li-Buqrāṭ. Hippocrates: On embryos <On the sperm & On the nature of the child>. Ed. and transl. with introd., commentary and glossary by M. C. Lyons and J. N. Mattock. Cambridge 1978. (Arabic Technical and Scientific Texts. 7.) — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Hippocr. Humor.": {
+   "abbrev": "Hippocr. Humor.",
+   "greek_edition": "Hippocrates: De humoribus. In: Hippocrates: [Opera] with an English translation by W. H. S. Jones. Vol. 4 (pp. 62–95: ‘On humours’). London, Cambridge, Mass. 1931 [and reprints]. (Loeb Classical Library. 150.) — Ref. to | section | . | line | .",
+   "arabic_titles": [
+    "K. al-Aḫlāṭ."
+   ],
+   "arabic_editions": [
+    "Kitāb Buqrāṭ fī l-Akhlāṭ. Hippocrates: On humours [etc.]. Ed. and transl. with introd., notes and glossary by J. N. Mattock. Cambridge 1971. (Arabic Technical and Scientific Texts. 6, 1.) — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | section |",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Hippocr. Nat. hom.": {
+   "abbrev": "Hippocr. Nat. hom.",
+   "greek_edition": "Hippocrates: De natura hominis.—Hippocrate. La nature de l’homme. Ed. Jacques Jouanna. Berlin 1975. (Corpus Medicorum Graecorum. I 1,3.) — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "K. Ṭabīʿat al-insān."
+   ],
+   "arabic_editions": [
+    "Kitāb Buqrāṭ fī Ṭabīʿat al-insān <Hippocrates: On the nature of man>. Ed. and transl. with introd., notes and glossary by J. N. Mattock and M. C. Lyons. Cambridge 1968. (Arabic Technical and Scientific Texts. 4.) — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Hippocr. Nat. puer. : v. Hippocr. Genit.": {
+   "abbrev": "Hippocr. Nat. puer. : v. Hippocr. Genit.",
+   "greek_edition": "",
+   "arabic_titles": [],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Hippocr. Off. med.": {
+   "abbrev": "Hippocr. Off. med.",
+   "greek_edition": "Hippocrates: De officina medici.—In: Hippocratis Opera quae feruntur omnia. Ed. Hugo Kühlewein. Vol. II, pp. 30–45. Lipsiae 1902. — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "K. Qāṭiyaṭriyyūn."
+   ],
+   "arabic_editions": [
+    "Kitāb Buqrāṭ al-maʿrūf bi-Qāṭīṭrīūn ay Ḥānūt al-ṭabīb <Hippocrates: In the Surgery>. Ed. and transl. with introd., notes and glossary by M. C. Lyons. Cambridge 1968. (Arabic Technical and Scientific Texts. 3, 2.) — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Hippocr. Progn.": {
+   "abbrev": "Hippocr. Progn.",
+   "greek_edition": "Hippocrates: Prognosticon.— Die hippokratische Schrift Prognostikon: Überlieferung und Text / von Bengt Alexanderson. Göteborg 1963. (Studia Graeca et Latina Gothoburgensia, 17.) — Ref. to | page | . | line |.",
+   "arabic_titles": [
+    "Martin Klamroth: ‘Über die Auszüge aus griechischen Schriftstellern bei al-Jaʿqūbī’, in: Zeitschrift der Deutschen Morgenländischen Gesellschaft, 40 (1886): 203–223. — Ref. to | page| . | line | ."
+   ],
+   "arabic_editions": [],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Hippocr. Superf.": {
+   "abbrev": "Hippocr. Superf.",
+   "greek_edition": "Hippocrates: De superfoetatione. — Hippokrates über Nachempfängnis, Geburtshilfe und Schwangerschaftsleiden. Ed. Cay Lienau. Berlin 1973. (Corpus Medicorum Graecorum. I 2,2.) — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "K. Ḥabal ʿalā ḥabal."
+   ],
+   "arabic_editions": [
+    "Kitāb Buqrāṭ fī Ḥabl ʿalā ḥabl [sic] <Hippocrates: On superfoetation>. Ed. and transl. with introd., notes and glossary by J. N. Mattock. Cambridge 1968. (Arabic Technical and Scientific Texts. 3, 1.) — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Irmer = D. Irmer: ‘Zur arabischen Überlieferung von [Hippocrates] De Superfetatione’. In: Sudhoffs Archiv 63 (1979) 1–24.",
+    "Strohmaier = G. Strohmaier: ‘Der arabische Hippocrates. Bemerkungen zu einem Aufsatz von Dieter Irmer’. In: Sudhoffs Archiv 64 (1980) 234–49.",
+    "Ullmann = M. Ullmann, ‘Die arabische Überlieferung der hippokratischen Schrift «De superfetatione»’. In: Sudhoffs Archiv 58 (1974) 254–75."
+   ],
+   "other": []
+  },
+  "Hyps. Anaph.": {
+   "abbrev": "Hyps. Anaph.",
+   "greek_edition": "Hypsicles: Anaphoricus. — Hypsikles. Die Aufgangszeiten der Gestirne [Greek text and Arabic version, with German translation]. Hrsg. und übersetzt von V. de Falco und M[ax] Krause. Göttingen 1966. (Abhandlungen der Akademie der Wissenschaften in Göttingen. I. Phil.-hist. Klasse. Folge 3, Nr. 62.)",
+   "arabic_titles": [
+    "Kitāb al-Maṭāliʿ."
+   ],
+   "arabic_editions": [
+    "Hypsikles. Die Aufgangszeiten der Gestirne, ed. Max Krause [v. supra]."
+   ],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Men. Mon.": {
+   "abbrev": "Men. Mon.",
+   "greek_edition": "Menandri Comici Sententiae [Μενάνδρου γνῶμαι μονόστιχοι]. Ed. Siegfried Jäkel. Lipsiae 1964. (Bibliotheca scriptorum Graecorum et Romanorum Teubneriana.)",
+   "arabic_titles": [],
+   "arabic_editions": [
+    "Manfred Ullmann: Die arabische Überlieferung der sogenannten Menandersentenzen. Wiesbaden 1961. (Abhandlungen für die Kunde des Morgenlandes XXXIV, 1) – Ref. to | versio [I / II) | , | number of monostichon | : | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | versio [I / II) |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Nicom. Arithm.": {
+   "abbrev": "Nicom. Arithm.",
+   "greek_edition": "Nicomachus Gerasenus: Nicomachi Geraseni Pythagorei Introductionis Arithmeticae libri II. Ed. Ricardus Hoche. Lipsiae 1866. (Bibliotheca Teubneriana.) — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "K. al-Madḫal ilā ʿilm al-ʿadad."
+   ],
+   "arabic_editions": [
+    "Ṯābit b. Qurra’s arabische Übersetzung der Ἀριθμητικὴ εἰσαγωγή des Nikomachos von Gerasa. Zum ersten Mal hrsg. von Wilhelm Kutsch. Beyrouth 1959. (Recherches publiées sous la direction de l’Institut de lettres orientales de Beyrouth. T. 9.) — Ref. to | page | . | line |."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Bertier = Janine Bertier: Nicomaque de Gérase. Introduction arithmétique. Paris 1978.",
+    "Kutsch Err. = W. Kutsch, ‘Berichtigungen und Zusätze’ to his edition, pp. 355–60 (Arabic)."
+   ],
+   "other": []
+  },
+  "Paulus Aeg.": {
+   "abbrev": "Paulus Aeg.",
+   "greek_edition": "Paulus Aegineta: Pragmatica. Ed. Iohan L. Heiberg. Corpus Medicorum Graecorum, 9. Lipsiae, Berolini: Teubner, 1921–4.",
+   "arabic_titles": [],
+   "arabic_editions": [
+    "Arabic excerpts, v. Peter Pormann: The Oriental tradition of Paul of Aegina’s Pragmatica. Studies in Ancient Medicine, vol. 29. Leiden, Boston: Brill, 2004. — References from: Ullmann WGAÜ, Suppl."
+   ],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Philop. In De an.": {
+   "abbrev": "Philop. In De an.",
+   "greek_edition": "Ioannes Philoponus: Commentaria in Aristotelis De anima. — Ioannis Philoponi In Aristotelis De anima libros commentaria. Ed. Michael Hayduck. Berolini 1897 (C. A. G.; vol. 15).",
+   "arabic_titles": [
+    "Paraphr. Arist. De an."
+   ],
+   "arabic_editions": [
+    "Rüdiger Arnzen: Aristoteles’ De anima, eine verlorene spätantike Paraphrase in arabischer und persischer Überlieferung. Arabischer Text nebst Kommentar, quellengeschichtlichen Studien und Glossaren / hrsg. von Rüdiger Arnzen. Leiden 1988. (Aristoteles Semitico-Latinus, vol. 9.) — Ref. to | page | . | line | . (Occasional references only.) In vol. 1 (letter alif), references are to:",
+    "Ahwānī = Aḥmad Fu’ād al-Ahwānī [ed.], Talḫīṣ kitāb al-Nafs li-Abī l- Walīd Ibn Rušd wa-arbaʿ rasaʾil. al-Qāhira 1950, pp. 125–75 [pages given in the margins of Arnzen’s edition]."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Philum. Ven.": {
+   "abbrev": "Philum. Ven.",
+   "greek_edition": "Philumenus: De venenatis animalibus eorumque remediis. Ed. Maximilianus Wellmann. Corpus medicorum Graecorum, 10, 1. Lipsiae, Berolini: Teubner, 1908.",
+   "arabic_titles": [
+    "Arabic excerpts in: Ibn Sīnā, al-Qānūn fī l-ṭibb, kitāb 4, fann 6, maqāla 3. — References from: Ullmann, WGAÜ."
+   ],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Plato": {
+   "abbrev": "Plato",
+   "greek_edition": "",
+   "arabic_titles": [],
+   "arabic_editions": [
+    "References to the Platonic passages quoted by Galen et al. are given according to the traditional division of folia | paragraphs [a–e] of H. Stephanus (Geneva 1578) and have been checked against the ed.: Platon, Œuvres complètes. Paris: Les Belles Lettres (Collection desUniversités de France), repr. in: Platon: Werke, griechisch und deutsch. Darmstadt: Wissenschaftliche Buchgesellschaft, 21990."
+   ],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Philum.": {
+   "abbrev": "Philum.",
+   "greek_edition": "Philumenus: De venenatis animalibus eorumque remediis. – Ed. Max Wellmann. 1908. (Corpus Medicorum Graecorum, X. 8).",
+   "arabic_titles": [
+    "Excerpts in: Ibn Sīnā: al-Qānūnfī l-ṭibb, kitāb IV, fann 6, maqāla 3."
+   ],
+   "arabic_editions": [
+    "Quoted from Manfred Ullmann, Wörterbuch zu den griechisch-arabischen Übersetzungen des 9. Jahrhunderts. Wiesbaden 2002. — Ref. to WGAÜ | page | . | line."
+   ],
+   "ref_formats": [
+    "Ref. to WGAÜ | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Plot.": {
+   "abbrev": "Plot.",
+   "greek_edition": "Plotinus: Enneades. — Plotini opera, edd. Paul Henry et Hans-Rudolf Schwyzer; t. 1–3 (t. 2: Plotiniana arabica ad fidem codicum anglice vertit Geoffrey Lewis.) Paris, Bruxelles 1951–73. (Museum Lessianum. Series Philosophica; 33–35.) — Ref. to | Enneas | | section | , | chapter | . | line | .",
+   "arabic_titles": [
+    "",
+    "Risāla fī l-ʿIlm al-ilāhī / Ps.-al-Fārābī, ed. Badawī, Aflūṭīn ʿind al-ʿArab, pp. 165–83.",
+    "al-Šayh al-Yūnānī = [Qawl] al-Šayh al-Yūnānī, ed. Badawī, Aflūṭīn ʿind al-ʿArab, pp. 184–94."
+   ],
+   "arabic_editions": [],
+   "ref_formats": [
+    "Ref. to | Enneas |"
+   ],
+   "secondary": [
+    "Theol. Arist. = Kitāb Uṯūlūǧiyā wa-huwa qawl ʿalā l- rubūbiyya [Theologia Aristotelis]. In: ʿAbd-al-Raḥmān Badawī [ed.], Aflūṭīn ʿind al-ʿArab (Plotinus apud Arabes). al-Qāhira 1955, pp. 1–164. — Ref. to | book (mīmar) | | section | : | page | . | line | . The division into sections follows the English translation of Geoffrey Lewis in Plotini Opera, t. 2.",
+    "Dieterici = Die sogenannte Theologie des Aristoteles, aus arabischen Handschriften zum ersten Mal hrsg. von Fr[iedrich] Dieterici. Leipzig 1882."
+   ],
+   "other": []
+  },
+  "Plut. = Plutarchus : v. Ps.-Plut.": {
+   "abbrev": "Plut. = Plutarchus : v. Ps.-Plut.",
+   "greek_edition": "",
+   "arabic_titles": [],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Porph. Isag.": {
+   "abbrev": "Porph. Isag.",
+   "greek_edition": "Porphyrii Isagoge et in Aristotelis Categorias commentarium. Ed. Adolphus Busse. Berolini 1887. (Commentaria in Aristotelem Graeca IV,1.) — Ref. to | page | . | line | . ed. Badawī 1021.1–1022.19, 1057.1–1059.12:] Lemmata in: Abī l-Faraǧ ibn al-Ṭayyib, Tafsīr kitāb Īsāġūǧī = Ibn al- Ṭayyib’s Commentary on Porphyry’s Eisagoge. Arabic text ed. by Kwame Gyekye. Beyrouth 1975. (Recherches publiées sous la direction de l’Institut des lettres orientales de Beyrouth: nouvelle série, B. Orient chrétien, t. 2), p. 40.17– 63.8, 157.10–165.5.",
+   "arabic_titles": [
+    "K. al-Madḫal; Madḫal Furfūriyūs al-marsūm bi-Īsāġūǧī."
+   ],
+   "arabic_editions": [
+    "Badawī, ʿAbd-al-Raḥmān [ed.]: Manṭiq Arisṭū. Vol. 1–3. Bayrūt 1980, pp. 1055–1104: Īsāġūǧī Furfūriyūs. — Ref. to | page | . | line | / [MS Paris ar. 2346] fol. | folio | a/b. (For the first edition of Manṭiq Arisṭū, al-Qāhira 1948–52, subtract 36 from the folios given.)",
+    "[For Isag. 1.1–1.19, 16.6–18.1, lacuna in MS Paris ar. 2346"
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Ahwānī = Aḥmad Fuʾād al-Ahwānī [ed.]: Īsāġūǧī li-Furfūriyūs al-Ṣūrī. al- Qāhira 1371/1952."
+   ],
+   "other": []
+  },
+  "Proclus El. theol.": {
+   "abbrev": "Proclus El. theol.",
+   "greek_edition": "Proclus Diadochus: Elementatio theologica. — Proclus. The Elements of Theology. Ed. E. R. Dodds. Oxford 1963. — Ref. to | propositio | : | page | . | line | .",
+   "arabic_titles": [
+    "Mā staḫraǧahū l-Iskandar al-Afrūdīsī min kitāb Arisṭūṭālīs al-musammā Ṯūlūǧiyā [and variant titles].",
+    ""
+   ],
+   "arabic_editions": [
+    "Proclus Arabus. Zwanzig Abschnitte aus der Institutio theologica in arabischer Übersetzung. Eingeleitet, hrsg. und erklärt von Gerhard Endreß. Beirut, Wiesbaden 1973. (Beiruter Texte und Studien. 10.) — Ref. to | propositio | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | propositio |",
+    "Ref. to | propositio |"
+   ],
+   "secondary": [
+    "Browne = Gerald M. Browne: ‘Ad Proclum Arabum’. In: Orientalia 53 (1984), 459–60.",
+    "De causis = Kalām fī maḥḍ al-ḫayr [Kitāb al-Īḍāḥ li- Arisṭūṭālīs fī l-ḫayr al-maḥḍ]. — Die pseudo-aristotelische Schrift Über das reine Gute, bekannt unter dem Namen Liber de Causis. Bearb. von Otto Bardenhewer. Freiburg i. Br. 1882. — Ref. to | section | : | page | . | line | . (Occasional references only.)"
+   ],
+   "other": []
+  },
+  "Ps.-Arist. De causis : v. Proclus El. theol.": {
+   "abbrev": "Ps.-Arist. De causis : v. Proclus El. theol.",
+   "greek_edition": "",
+   "arabic_titles": [],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Ps.-Arist. Div.": {
+   "abbrev": "Ps.-Arist. Div.",
+   "greek_edition": "Divisiones quae vulgo dicuntur Aristoteleae. Ed Hermannus Mutschmann. Lipsiae 1907. (Bibliotheca Teubneriana.) — Ref. to | page | a/b | line | .",
+   "arabic_titles": [
+    "K. fī Faḍāʾil al-nafs; K. al-Faḍīla."
+   ],
+   "arabic_editions": [
+    "Kellermann, Mechthild: Ein pseudoaristotelischer Traktat über die Tugend. Edition und Übersetzung der arabischen Fassungen des Abū Qurra und des Ibn aṭ-Ṭayyib. Erlangen 1965. (Phil. Diss. Erlangen 1965.) — Ref. to the translation of Theodoros Abū Qurra (pp. 38.15–32): versio Q | page | . | line | ; to the translation of Abū l-Faraǧ ibn al-ṭayyib (pp. 56.7–46): versio T | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Ps.-Arist. Mund.": {
+   "abbrev": "Ps.-Arist. Mund.",
+   "greek_edition": "Ps.-Aristoteles: De mundo. Aristotelis qui fertur libellus De mundo. Ed. W.L. Lorimer. Paris 1933. — Ref. to: Aristotelis opera ex rec. I. Bekkeri. Berolini 1831, | book | , | page | a/b | line | .",
+   "arabic_titles": [
+    "Risālat Arisṭūṭālīs ilā l-Iskandar fī Ṣifat tartīb al-ʿālam al- maʿrūfa bi-l-ḏahabiyya [and other designations]."
+   ],
+   "arabic_editions": [
+    "Brafman, David Alan: The Arabic \"De Mundo\": an edition with translation and commentary. Ph.D. diss. Duke University 1985. — Ref. to | folio | a/b | line | of MS F = Istanbul, Fatih 5323 (anonymous version), K = Istanbul, Köprülü 1608 (anonymous epitome of ch. 1–6), Y = Princeton, Yehuda 308 (translation of ʿĪsā ibn Ibrāhīm al-Nafīsī)."
+   ],
+   "ref_formats": [
+    "Ref. to | folio |"
+   ],
+   "secondary": [
+    "Ryssel = Victor Ryssel: Über den textkritischen Werth der syrischen Übersetzungen griechischer Klassiker. Th. 1. 2. Leipzig 1880–81. (Programm des Nicolaigymnasiums in Leipzig, 1880–1881.)"
+   ],
+   "other": []
+  },
+  "Ps.-Arist. Probl. phys.": {
+   "abbrev": "Ps.-Arist. Probl. phys.",
+   "greek_edition": "Aristoteles [Ps.-]: Problemata Physica. – Aristote. Problèmes, t. I–III. Texte établi et traduit par Pierre Louis. Paris 1991–4. (Collection des Universités de France, publié sous le patronage de l’Association Guillaume Budé.)",
+   "arabic_titles": [
+    "Masāʾil Arisṭūṭālīs al-ṭabīʿiyya."
+   ],
+   "arabic_editions": [
+    "The Problemata Physica attributed to Aristotle. The Arabic Version of Ḥunain ibn Isḥāq and the Hebrew Version of Moses ibn Tibbon. Ed. by L. S. Filius. Leiden 1999 (Aristoteles Semitico-Latinus, vol. 11) – Ref. to | book | | chapter | , | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | book |"
+   ],
+   "secondary": [
+    "Ullmann = Review of ed. Filius, in: Zeitschrift der Deutschen Morgenländischen Gesellschaft, 153 (2003): 470–3."
+   ],
+   "other": []
+  },
+  "Ps.-Arist. Theol. : v. Plot.": {
+   "abbrev": "Ps.-Arist. Theol. : v. Plot.",
+   "greek_edition": "",
+   "arabic_titles": [],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Ps.-Arist. Virt.": {
+   "abbrev": "Ps.-Arist. Virt.",
+   "greek_edition": "Aristoteles [Ps.-]: De virtutibus et vitiis. — Aristotelis Ethica Eudemia. Eudemi Rhodii Ethica. Adiecto de virtutibus et vitiis libello. Ed. Franciscus Susemihl. Lipsiae 1884 (Bibliotheca Teubneriana), pp. 181–99. — Ref. to: Aristotelis opera: Aristoteles graece ex rec. I. Bekkeri. Berolini 1831, | page | a/b | line | .",
+   "arabic_titles": [
+    "K. fī Faḍāʾil al-nafs; K. al-Faḍīla."
+   ],
+   "arabic_editions": [
+    "Kellermann, Mechthild: Ein pseudoaristotelischer Traktat über die Tugend. Edition und Übersetzung der arabischen Fassungen des Abū Qurra und des Ibn aṭ-ṭayyib. Erlangen 1965. (Phil. Diss. Erlangen 1965.) — Ref. to the translation of Theodoros Abū Qurra (pp. 45–39.13): versio Q | page | . | line | ; to the translation of Abū l-Faraǧ ibn al-ṭayyib (pp. 66– 59.17): versio T | page | . | line | ."
+   ],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Ps.-Plut. Placita": {
+   "abbrev": "Ps.-Plut. Placita",
+   "greek_edition": "Plutarchus [Ps.-]: Placita Philosophorum.—Doxographi Graeci. Ed. H. Diels. Berolini 1879. — Ref. to | page | a/b | line | .",
+   "arabic_titles": [
+    "K. al-Ārāʾ al-ṭabīʿiyya allatī taqūl bihā l-ḥukamāʾ."
+   ],
+   "arabic_editions": [
+    "Daiber, Hans: Aetius Arabus. Die Vorsokratiker in arabischer Überlieferung. Wiesbaden 1980. (Akademie der Wissenschaften und der Literatur. Veröffentlichungen der Orientalischen Kommission. Bd. 33.) — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Gutas = D. Gutas: ‘The present state and future tasks of Graeco- Arabic studies’ [review of Daiber’s edition]. In: Journal of the Royal Asiatic Society (1982) 113–23.",
+    "Jolivet = J. Jolivet: Review of Daiberʾs edition. In: Arabica 30 (1983), 215–17.",
+    "Kunitzsch = P. Kunitzsch: Review of Daiberʾs edition. In: Gnomon 54 (1982), 335–40.",
+    "Rosenthal = F. Rosenthal: ‘From Arabic books and manuscripts VII’. In: Journal of the American Oriental Society 81 (1961) 7b–9a.",
+    "Strohmaier = G. Strohmaier: Review of Daiber’s edition. In: Der Islam 60 (1983), 315–17."
+   ],
+   "other": []
+  },
+  "Ptol. Hypoth.": {
+   "abbrev": "Ptol. Hypoth.",
+   "greek_edition": "Ptolemaeus: Hypotheses planetarum. — Claudii Ptolemaei Opera quae exstant omnia, vol. II: Opera astronomica minora. Ed. J. L. Heiberg. Lipsiae 1907, [liber I:] pp. 70–107, [liber II, ex arabico interpretatus est Ludovicus Nix:] pp. 109–45.",
+   "arabic_titles": [
+    "K. Baṭlamyūs fī l-Hayʾa al-musammā bi-l-iqtiṣāṣ."
+   ],
+   "arabic_editions": [
+    "Morelon, Régis: ‘La version Arabe du Livre des Hypothèses de Ptolémée’. In: Mélanges. Institut Dominicain d’Études Orientales 21 (1993) : 7–85. — Ref. to | page | . | line | Morelon. In vol. I (letter alif), references are to the facsimile edition of book I, part 2, ms. London: British Library, arab. 426 (Add. 7473), in:",
+    "Goldstein, Bernard R.: The Arabic version of Ptolemy’s Planetary Hypotheses. Philadelphia 1967. (Transactions of the American Philosophical Society, N. S.; vol. 57, part 4.)"
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Rufus Ict.": {
+   "abbrev": "Rufus Ict.",
+   "greek_edition": "Rufus: De ictero.—The Greek text is extant in fragments preserved in indirect transmission. References to texts are given as they occur in the articles of the Glossary.",
+   "arabic_titles": [
+    "Qawl Rūfus fī l-Yaraqān."
+   ],
+   "arabic_editions": [
+    "Ullmann, Manfred: Die Schrift des Rufus von Ephesos über die Gelbsucht in arab. u. lat. Übersetzung. Göttingen 1983. (Abhandlungen der Akademie der Wissenschaften in Göttingen. Phil.-hist. Kl., Dritte Folge, Nr. 138.) — Ref. to | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | line |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Them. In De an.": {
+   "abbrev": "Them. In De an.",
+   "greek_edition": "Themistius: Commentarius (paraphrasis) in Aristotelis De anima. — Themistii In libros Aristotelis De anima paraphrasis. Ed. Ricardus Heinze. Berolini 1899. (Commentaria in Aristotelem Graeca V,3.) — Ref. to | page | . | line | .",
+   "arabic_titles": [
+    "[Tafsīr K. Arisṭūṭālīs fī l-Nafs.]"
+   ],
+   "arabic_editions": [
+    "An Arabic translation of Themistius’ Commentary on Aristoteles’ De anima. Ed. by Malcolm Cameron Lyons. Oxford 1973. (Oriental Studies. 2.) — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to | page |",
+    "Ref. to | page |"
+   ],
+   "secondary": [
+    "Browne = Gerald M. Browne: ‘Ad Themistium Arabum’. In: Illinois Classical Studies 11 (1986) 223–45.",
+    "Browne II = id.: ‘Ad Themistium Arabum II’. Ibid. 23 (1998) 121–26.",
+    "Ullmann = M. Ullmann: Review of Lyon’s edition. In: Zeitschrift der Deutschen Morgenländischen Gesellschaft 127 (1977) 133–34."
+   ],
+   "other": []
+  },
+  "Theol. Arist. : v. Plot.": {
+   "abbrev": "Theol. Arist. : v. Plot.",
+   "greek_edition": "",
+   "arabic_titles": [],
+   "arabic_editions": [],
+   "ref_formats": [],
+   "secondary": [],
+   "other": []
+  },
+  "Theomn. Hippiatr.": {
+   "abbrev": "Theomn. Hippiatr.",
+   "greek_edition": "Theomnestus Nikopolitanus: Hippiatrica. [Greek fragments in:] Corpus hippiatricorum Graecorum, edd. Eugenius Oder & Carolus Hoppe. Lipsiae: Teubner, 1924–7; repr. Stuttgart 1971. — Ref. to Arabic version, | section | , | paragraph | .",
+   "arabic_titles": [
+    "Kitāb al-Bayṭara."
+   ],
+   "arabic_editions": [
+    "Ed. Susanne Saker: Die Pferdeheilkunde des Theomnest von Nikopolis. Wiesbaden: Harrassowitz, 2008. — Ref. to | page | . | line | ."
+   ],
+   "ref_formats": [
+    "Ref. to Arabic version, | section |",
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  },
+  "Theophr. Princ.": {
+   "abbrev": "Theophr. Princ.",
+   "greek_edition": "Theophrastus: De principiis. Theophrasti de prima philosophia libellus. Ref. to ed. Gutas (v. infra), giving | page | a/b | line | divisions as in ed. H. Usener (Bonnae 1890–91).",
+   "arabic_titles": [
+    "Maqālat Ṯāwufrasṭus fī Mā baʿd al-ṭabīʿa."
+   ],
+   "arabic_editions": [
+    "Dimitri Gutas: Theophrastus De principiis (known as his Metaphysics), Greek text and medieval Arabic translation, ed. and transl. Leiden, Boston: E. J. Brill, 2010. — Ref. to | page | . line |."
+   ],
+   "ref_formats": [
+    "Ref. to | page |"
+   ],
+   "secondary": [],
+   "other": []
+  }
+ },
+ "abbreviations": {
+  "abs.": "absolute: a word used by itself",
+  "acc.": "accusative",
+  "act. part.": "active participle",
+  "add.": "addit; added, addition",
+  "adj.": "adjective",
+  "adv.": "adverb",
+  "affirm.": "affirmative",
+  "amplif.": "amplification: the Arabic amplifies the meaning implicit in the Greek by using more than one word",
+  "app.": "apparatus criticus",
+  "Arab.": "the Greek text as reflected by the Arabic translation",
+  "arithm.": "arithmetic(al)",
+  "bot.": "botanical",
+  "c.": "cum: used together with, in syntactical construction",
+  "cf.": "compare",
+  "codd.": "codices (manuscripts)",
+  "codd. cett.": "codices ceteri; the other manuscripts",
+  "comp.": "comparative",
+  "concentr.": "concentration: the Arabic term translates more than one Greek word",
+  "coni.": "coniecit; conjectured by",
+  "cr.": "contrast",
+  "dat.": "dative",
+  "def.": "definition",
+  "del.": "delevit; deleted by",
+  "ed.": "the Greek or Arabic text as it stands in the edition used",
+  "etc.": "the correspondence is found more than three times in the work cited",
+  "etym.": "etymology",
+  "expr.": "expression(s)",
+  "fem.": "feminine",
+  "fort.": "fortasse; perhaps",
+  "fut.": "future",
+  "gen.": "genitive",
+  "hend.": "hendiadys (one concept via two coordinated words)",
+  "impf.": "imperfect",
+  "impers.": "impersonal",
+  "ind.": "indicavit, indicated",
+  "indic.": "indicative",
+  "inf.": "infinitive",
+  "inflect.": "inflection: the Arabic translates the inflection of the Greek word",
+  "interpol.": "interpolation",
+  "interpr.": "interpretation: the Arabic interprets the Greek with a certain slant, rather than translating or paraphrasing",
+  "interpunx.": "interpunxit, punctuated",
+  "interrog.": "interrogative",
+  "lac.": "lacuna",
+  "leg.": "legendum; to be read",
+  "lit.": "literally",
+  "masc.": "masculine",
+  "math.": "mathematical",
+  "med.": "medium, middle voice of the Greek verb",
+  "medic.": "medical",
+  "metaph.": "metaphorical (use)",
+  "meton.": "metonymy, metonymical",
+  "morph.": "morphology",
+  "NB": "nota bene; mark, observe",
+  "neg.": "negative",
+  "nom.": "nominative",
+  "om.": "omisit; omitted",
+  "opt.": "optative",
+  "o.s.": "oneself",
+  "p.": "person",
+  "paraphr.": "paraphrase, used paraphrastically",
+  "part.": "participle",
+  "pass. part.": "passive participle",
+  "perf.": "perfect",
+  "periphr.": "periphrase, used periphrastically",
+  "pers.": "Persian",
+  "philos.": "philosophy, philosophical",
+  "prep.": "preposition",
+  "pres.": "present",
+  "r.": "res, rei; object",
+  "s.": "sine; without",
+  "sc.": "scilicet; that is to say",
+  "scr.": "scripsit; wrote",
+  "sec.": "secundum; according to",
+  "secl.": "seclusit; to be omitted",
+  "sem.": "semantic function of a word",
+  "sim.": "similiter; similarly",
+  "s.o.": "someone",
+  "s.th.": "something",
+  "subj.": "subjunctive",
+  "subst.": "substantive",
+  "superl.": "superlative",
+  "suppl.": "supplevit; supplied by",
+  "s.r.": "sub radice; listed under the root",
+  "s.v.": "sub voce; listed under the word",
+  "syn.": "synonym of",
+  "synt.": "syntactical use of the word",
+  "Syr.": "versio syriaca, Syriac version",
+  "transl.": "translation, translating",
+  "ut intell. Arab.": "as understood by the Arabic translator",
+  "ut vid.": "ut videtur; apparently",
+  "v.": "vide; see",
+  "voc.": "vocative",
+  "maṣdar": "verbal noun",
+  "EDD.": "the editors of GALex"
+ },
+ "signs": {
+  "▬": "separates the references for each individual source",
+  "→": "see also; see the main entry indicated where the context passage is cited",
+  "*": "following the page references: the text cited contains variant readings not in the edition used",
+  "●": "before a Greek word: the Arabic renderings add to the meaning of the word as attested in LSJ and Lampe",
+  "⊗": "'Middle Arabic' usage in manuscript reading",
+  "!": "unusual rendering or mistake",
+  "≅": "no exact correspondence between Arabic version and extant Greek text",
+  "?": "doubtful Greek-Arabic correspondence",
+  "≠": "a Greek-Arabic correspondence demonstrably false",
+  "¶": "demonstrable corruption, in the course of the Arabic transmission, of an originally correct rendering",
+  "†": "corrupt word or phrase (in manuscript readings)",
+  "⟨…⟩": "conjectural addition to a text by an editor",
+  "[…]": "conjectural deletion by an editor"
+ }
+}

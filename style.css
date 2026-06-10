@@ -452,3 +452,43 @@ footer {
   nav#sidebar { max-height: 200px; }
   main { max-height: none; padding: 16px; }
 }
+
+/* Belegstelle sub-header (Arnzen B1 intro segments like '(a) al-muʾabbadu') */
+.bs-intro {
+  font-style: italic;
+  color: var(--accent);
+  font-size: 14px;
+  padding: 2px 0 6px;
+  border-bottom: 1px dashed var(--border);
+  margin-bottom: 6px;
+}
+
+/* Canonical bibliography block in source view */
+.source-biblio {
+  margin-top: 10px;
+  font-size: 13px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 8px 12px;
+}
+.source-biblio summary {
+  cursor: pointer;
+  color: var(--accent);
+  font-weight: 500;
+}
+.source-biblio p { margin: 6px 0; line-height: 1.5; }
+.bib-marker {
+  display: inline-block;
+  width: 18px;
+  font-weight: 700;
+  color: var(--gr-color);
+}
+.bib-secondary {
+  color: var(--muted);
+  font-size: 12px;
+  padding-left: 18px;
+}
+
+/* Forms tab list rows */
+#list li .l-tr em { font-style: italic; }

@@ -52,7 +52,27 @@ async function loadData() {
 
   document.getElementById('stats').textContent =
     `Part A: ${state.entries.length} entries · ${state.roots.length} roots · Part B: ${state.glossary.length} glossary lemmata`;
+
+  // Non-blocking: canonical source bibliography + sign/abbrev tooltips
+  fetch('data/sources.json').then(r => r.json()).then(d => {
+    state.sourcesMeta = d.sources || {};
+    state.abbrevDict  = d.abbreviations || {};
+    state.signsDict   = d.signs || {};
+  }).catch(() => {});
+
   render();
+}
+
+// Morphological register — loaded lazily on first use of the Forms tab
+async function ensureForms() {
+  if (state.forms) return state.forms;
+  if (!state._formsPromise) {
+    state._formsPromise = fetch('data/forms.json').then(r => r.json()).then(d => {
+      state.forms = d;
+      return d;
+    });
+  }
+  return state._formsPromise;
 }
 
 // ---------- search ----------
@@ -114,6 +134,10 @@ function renderList() {
   }
   if (state.tab === 'evidence') {
     renderEvidencePanel(ul, qNorm, q);
+    return;
+  }
+  if (state.tab === 'forms') {
+    renderFormsPanel(ul, qNorm);
     return;
   }
 
@@ -330,11 +354,37 @@ function linkifyGreek(escapedText, preferredVolume) {
   );
 }
 
+// Wrap GALex editorial signs (▬ * ⊗ ! ≅ ≠ ¶ ●) with hover tooltips explaining
+// their meaning, sourced from the official Signs list.
+function signTooltips(html) {
+  if (!state.signsDict) return html;
+  return html.replace(/[▬⊗●≅≠¶†]|\*/g, ch => {
+    const expl = state.signsDict[ch];
+    return expl ? `<abbr class="sign" title="${escapeHtml(expl)}">${ch}</abbr>` : ch;
+  });
+}
+
+function unitLetter(idx) {
+  // 0→a … 25→z, 26→aa, 27→ab … (matches parser's _unit_letter)
+  let s = '', n = idx + 1;
+  while (n > 0) {
+    const rem = (n - 1) % 26;
+    s = String.fromCharCode(97 + rem) + s;
+    n = Math.floor((n - 1) / 26);
+  }
+  return s;
+}
+
 function renderBelegstelle(bs, para, entry, idx) {
-  const letter = String.fromCharCode(97 + idx); // a, b, c, ...
+  const letter = unitLetter(idx);
   const contClass = bs._continuation ? 'continuation' : '';
-  const refOnly = !bs.greek && !bs.arabic;
+  const refOnly = bs.ref_only || (!bs.greek && !bs.arabic);
   const refOnlyClass = refOnly ? 'ref-only' : '';
+  // Sub-header (Arnzen B1: text between previous unit's end and this unit's
+  // colon — e.g. '(a) al-muʾabbadu' or '1.2 αἰών in expr. …')
+  const introHtml = bs.intro
+    ? `<div class="bs-intro">${linkifyGreek(escapeHtml(bs.intro), entry.volume)}</div>`
+    : '';
 
   // Source line — clickable to filter by author+work
   let sourceLine = '';
@@ -361,13 +411,14 @@ function renderBelegstelle(bs, para, entry, idx) {
 
   const refRow = (bs.arabic_ref || bs.notes)
     ? `<div class="bs-meta">
-         ${bs.arabic_ref ? `<span class="bs-aref">Ar. ref: ${escapeHtml(bs.arabic_ref)}</span>` : ''}
-         ${bs.notes ? `<span class="bs-notes">${escapeHtml(bs.notes)}</span>` : ''}
+         ${bs.arabic_ref ? `<span class="bs-aref">Ar. ref: ${signTooltips(escapeHtml(bs.arabic_ref))}</span>` : ''}
+         ${bs.notes ? `<span class="bs-notes">${signTooltips(escapeHtml(bs.notes))}</span>` : ''}
        </div>`
     : '';
 
   return `
     <article class="bs ${contClass} ${refOnlyClass}" id="bs-${escapeHtml(bs.id)}">
+      ${introHtml}
       <header class="bs-head">
         <span class="bs-label">${escapeHtml(para.num)}<sub>${letter}</sub></span>
         ${sourceLine}
@@ -412,6 +463,73 @@ function renderEvidencePanel(ul, qNorm, qRaw) {
     li.addEventListener('click', () => {
       const [gid, fragment] = li.dataset.jumpBs.split('|');
       applyHash('#/entry/' + encodeURIComponent(gid) + '/' + fragment);
+    });
+  });
+}
+
+function renderFormsPanel(ul, qNorm) {
+  if (!state.forms) {
+    ul.innerHTML = '<li class="root-divider">Loading morphological register…</li>';
+    ensureForms().then(() => renderList());
+    return;
+  }
+  const list = state.forms;
+  let matches;
+  if (!qNorm) {
+    matches = list.slice(0, 200);
+    ul.innerHTML = `<li class="root-divider">${list.length} attested forms — type to filter</li>`;
+  } else {
+    matches = list.filter(f => {
+      if (f._n === undefined) f._n = normalize(f.form + ' ' + f.lemma);
+      return f._n.includes(qNorm);
+    }).slice(0, 300);
+    ul.innerHTML = `<li class="root-divider">${matches.length} matching forms</li>`;
+  }
+  for (const f of matches) {
+    const idx = list.indexOf(f);
+    const li = document.createElement('li');
+    li.innerHTML = `
+      <span class="l-tr"><em>${escapeHtml(f.form)}</em></span>
+      <span class="l-gr" style="font-size:13px">← ${escapeHtml(f.lemma)}</span>`;
+    li.addEventListener('click', () => selectForm(idx));
+    ul.appendChild(li);
+  }
+}
+
+function selectForm(idx) {
+  const f = state.forms[idx];
+  if (!f) return;
+  // Try to link the lemma to a Part A entry. The register's lemma is the bare
+  // stem ('aṯṯar'); entry transliterations carry endings ('aṯṯara', 'abadun').
+  const lemmaBare = f.lemma.replace(/^al-/, '');
+  const target = state.entries.find(e => {
+    const t = (e.translit || '').replace(/[,;.]$/, '');
+    if (!t) return false;
+    const tBare = t.replace(/(un|an|in|a|u|i)$/, '');
+    return t === f.lemma || t === lemmaBare ||
+           tBare === f.lemma || tBare === lemmaBare;
+  });
+  const lemmaHtml = target
+    ? `<a href="#" data-jump="${target.gid}">${escapeHtml(f.lemma)}</a>`
+    : escapeHtml(f.lemma);
+  document.getElementById('entry').innerHTML = `
+    <div class="entry-head">
+      <span class="pdf-page">Morphological register · p. ${f.page}</span>
+      <div class="root">attested form</div>
+      <span class="translit">${escapeHtml(f.form)}</span>
+      <span class="grammar">→ lemma ${lemmaHtml}</span>
+    </div>
+    <div class="belegstellen">
+      ${f.citations.map(c => `
+        <article class="bs">
+          <div class="bs-greek">${markScripts(escapeHtml(c))}</div>
+        </article>`).join('')}
+    </div>
+  `;
+  document.querySelectorAll('#entry a[data-jump]').forEach(a => {
+    a.addEventListener('click', ev => {
+      ev.preventDefault();
+      selectEntry(a.dataset.jump);
     });
   });
 }
@@ -645,12 +763,27 @@ function showSourceView(sourceLabel) {
     const candidate = ((m.bs.author || '') + ' ' + (m.bs.work || '')).trim().toLowerCase();
     if (candidate === target) matches.push(m);
   }
+  // Canonical bibliography from the official GALex List of Sources
+  const biblio = lookupSourceMeta(sourceLabel);
+  const biblioHtml = biblio ? `
+    <details class="source-biblio">
+      <summary>Bibliography (GALex List of Sources: <strong>${escapeHtml(biblio.abbrev)}</strong>)</summary>
+      ${biblio.greek_edition ? `<p><span class="bib-marker">=</span> ${escapeHtml(biblio.greek_edition)}</p>` : ''}
+      ${(biblio.arabic_titles || []).filter(Boolean).map(t =>
+        `<p><span class="bib-marker">&gt;</span> ${escapeHtml(t)}</p>`).join('')}
+      ${(biblio.arabic_editions || []).filter(Boolean).map(t =>
+        `<p><span class="bib-marker">¶</span> ${escapeHtml(t)}</p>`).join('')}
+      ${(biblio.secondary || []).filter(Boolean).map(t =>
+        `<p class="bib-secondary">${escapeHtml(t)}</p>`).join('')}
+    </details>` : '';
+
   const html = `
     <div class="source-view">
       <header class="source-header">
         <span class="source-label">Citations from</span>
         <h2>${escapeHtml(sourceLabel)}</h2>
         <p class="source-meta">${matches.length} belegstelle${matches.length === 1 ? '' : 'n'}</p>
+        ${biblioHtml}
       </header>
       <div class="source-list">
         ${matches.slice(0, 200).map(m => `
@@ -687,6 +820,37 @@ function showSourceView(sourceLabel) {
   });
   state.selectedId = 'source:' + sourceLabel;
   document.querySelectorAll('#list li').forEach(li => li.classList.remove('selected'));
+}
+
+// Map a source-view label like 'Aristotle Cael.' back to the canonical GALex
+// abbreviation ('Arist. Cael.') and return its bibliography record.
+const AUTHOR_TO_ABBREV = {
+  'Aristotle': 'Arist.', 'Pseudo-Aristotle': 'Ps.-Arist.',
+  'Galen': 'Galen', 'Hippocrates': 'Hippocr.', 'Artemidorus': 'Artem.',
+  'Alexander of Aphrodisias': 'Alex.', 'Themistius': 'Them.',
+  'Philoponus': 'Philop.', 'Porphyry': 'Porph.', 'Euclid': 'Eucl.',
+  'Nicomachus': 'Nicom.', 'Dioscorides': 'Diosc.', 'Aelian': 'Aelian.',
+  'Pseudo-Plutarch': 'Ps.-Plut.', 'Theology of Aristotle': 'Theol. Arist.',
+  'Plato': 'Plato', 'Ptolemy': 'Ptol.',
+};
+
+function lookupSourceMeta(label) {
+  if (!state.sourcesMeta) return null;
+  // label = '<author full> <work>'; split on first space-run after the author name
+  for (const [full, abbr] of Object.entries(AUTHOR_TO_ABBREV)) {
+    if (label.startsWith(full)) {
+      const work = label.slice(full.length).trim();
+      const key1 = (abbr + ' ' + work).trim();
+      if (state.sourcesMeta[key1]) return state.sourcesMeta[key1];
+      // Fuzzy: find a key starting with the abbreviation whose tail matches
+      const hit = Object.keys(state.sourcesMeta).find(k =>
+        k.startsWith(abbr) && work && k.toLowerCase().includes(work.toLowerCase().split(' ')[0] || ''));
+      if (hit) return state.sourcesMeta[hit];
+      // Author-only fallback (e.g. 'Plato')
+      if (state.sourcesMeta[abbr]) return state.sourcesMeta[abbr];
+    }
+  }
+  return null;
 }
 
 // Both events: popstate fires on back/forward when pushState was used; hashchange
